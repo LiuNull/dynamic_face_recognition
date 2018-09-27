@@ -1,0 +1,3999 @@
+Piers_Sellers 01 65 01 65
+Laurence_Tribe 02 85 02 85
+Charlie_Deane 02 127 01 223
+Leland_Chapman 02 84 01 69
+Peter_Greenaway 01 73 01 73
+Bartosz_Kizierowski 02 60 01 134
+Leonid_Kuchma 01 67 02 181
+Sarah_Weddington 01 113 01 113
+Sally_Kirkland 01 73 01 73
+Garry_Kasparov 02 465 01 133
+James_McPherson 02 110 02 110
+Lester_Holt 03 185 02 73
+Wes_Craven 01 69 04 133
+Katharine_Hepburn 03 49 02 114
+Barbara_Boxer 03 86 03 86
+Robert_F_Kennedy_Jr 06 113 02 53
+Fidel_Castro_Daiz-Balart 02 73 01 57
+Robert_Schuller 01 65 02 521
+Emmanuel_Milingo 02 628 01 209
+Chris_Tucker 01 50 03 49
+Luke_Walton 01 109 Andre_Bucher 01 53
+Ted_Williams 01 129 Thomas_OBrien 01 55
+Walter_Mondale 01 77 Paul_Henderson 01 133
+Linda_Dano 03 89 Paul_Byrd 01 54
+Bernice_Wong 01 48 Wayne_Allard 03 133
+Peter_Hartz 01 53 Piotr_Anderszewski 03 62
+Eric_Fehr 02 101 James_Comey 02 62
+Paul_Murphy 02 70 Kurt_Warner 02 49
+Alan_Ball 01 719 Brett_Hull 01 194
+James_Traficant 02 117 Timothy_Wirth 01 58
+Elinor_Caplan 01 94 Colin_Jackson 01 105
+Carlos_Ghosn 03 167 Amber_Tamblyn 01 63
+Claudette_Robinson 01 93 Barry_Hinson 01 63
+Perry_Farrell 01 137 Aishwarya_Rai 01 76
+Louis_Van_Gaal 03 71 Eric_Vigouroux 01 49
+Hartmut_Mehdorn 01 55 Claudio_Ranieri 01 69
+Luis_Ernesto_Derbez_Bautista 03 65 Alejandro_Gonzalez_Inarritu 03 70
+Mario_Gallegos 01 53 Tom_Smothers 03 71
+Patricia_Russo 01 121 Lennart_Johansson 01 95
+Craig_MacTavish 01 84 Kenneth_Carlsen 02 72
+Takeo_Hiranuma 03 61 01 93
+Evan_Marriott 02 53 01 101
+Kenneth_Carlsen 02 72 02 72
+James_Wattana 02 105 02 105
+Li_Zhaoxing 03 73 03 73
+Uday_Hussein 02 81 01 221
+Li_Zhaoxing 02 77 03 73
+Angela_Lansbury 02 274 02 274
+James_McGreevey 02 57 01 89
+Lee_Baca 04 69 03 190
+Kristen_Breitweiser 02 165 02 165
+Angela_Bassett 02 141 01 88
+Elisha_Cuthbert 01 262 02 74
+Kate_Winslet 01 580 01 580
+Kristen_Breitweiser 02 165 03 309
+Tessa_Jowell 04 165 02 1841
+Paul_Celluci 04 245 05 52
+James_Murdoch 01 52 02 49
+Francisco_Garcia 02 80 02 80
+Paul_Greengrass 01 149 02 278
+Laura_Romero 01 83 Yuri_Fedotov 02 69
+Warren_Buffett 04 143 Cherie_Blair 04 73
+Yoon_Jin-Sik 01 95 Flavia_Delaroli 01 91
+Carlton_Dotson 01 54 Sandra_Milo 02 737
+Alberto_Acosta 02 225 Lubomir_Zaoralek 02 101
+Carlos_Moya 01 80 Sam_Rockwell 02 109
+Liu_Xiaoqing 01 61 Martin_Sheen 01 141
+Margaret_Thatcher 04 80 Dalai_Lama 02 49
+Alanis_Morissette 01 87 Edwina_Currie 01 57
+Angelina_Jolie 01 81 Wolfgang_Clement 02 49
+Mark_Kelly 01 73 Alicia_Silverstone 04 73
+Tomas_Enge 01 97 Randy_Ferbey 01 71
+Nigel_Redden 01 229 Carson_Daly 01 255
+Gerard_Kleisterlee 02 636 Tom_Cruise 01 385
+Gerard_Kleisterlee 01 497 Eddie_Fenech_Adami 01 70
+Tara_VanDerveer 03 419 Tom_Vilsack 03 53
+Marc_Bulger 01 85 Nicola_Bono 01 541
+Frank_Caliendo 01 157 Hanan_Ashrawi 02 263
+Robbie_Williams 02 165 Imelda_Marcos 02 89
+Peri_Gilpin 01 117 Carlos_Iturgaitz 02 214
+Alexis_Dennisoff 02 184 02 184
+Sandra_Bullock 02 197 01 182
+Charles_Schumer 01 60 01 60
+Madeleine_Albright 01 109 01 109
+Taylor_Twellman 01 173 02 515
+Ian_Gillan 01 625 01 625
+Carlos_Salinas 02 65 02 65
+Bill_Frist 01 105 01 105
+Massoud_Barzani 02 53 02 53
+Alexandre_Despatie 04 84 02 115
+Carlos_Quintanilla_Schmidt 02 534 01 212
+Talisa_Soto 03 50 02 70
+Richard_Cohen 01 161 02 60
+Emily_Mortimer 02 50 02 50
+Carla_Del_Ponte 02 202 01 51
+Peter_Greenaway 01 73 02 53
+Emile_Lahoud 02 225 03 77
+Reese_Witherspoon 02 97 03 57
+Liv_Tyler 01 57 01 57
+Eve_Ensler 03 63 03 63
+Franz_Beckenbauer 01 49 Jacky_Cheung 01 84
+Hank_McKinnell 02 152 Scott_Blum 01 89
+Ian_Wilmut 01 149 Tom_DeLay 02 117
+Eric_Fehr 01 69 Roberto_Benigni 03 72
+Frederique_van_der_Wal 01 131 Clive_Lloyd 02 253
+Tom_Amstutz 01 305 Benjamin_Netanyahu 01 89
+Ellen_Saracini 01 133 Daniel_Bruehl 01 689
+Claudia_Pechstein 01 93 Patricia_Heaton 01 53
+Mary_Robinson 02 217 Kelly_Ripa 01 52
+Linus_Roache 02 86 Vadim_Devyatovskiy 01 153
+Lindy_Ruff 01 269 Lin_Yi-fu 01 61
+Conan_OBrien 02 61 Peter_Fitzgerald 01 738
+Fred_Eckhard 03 272 Natalia_Dmitrieva 01 49
+Barbra_Streisand 02 113 Yu_Shyi-kun 01 85
+Elaine_Chao 04 121 Abdullatif_Sener 01 60
+AJ_Cook 01 194 Sam_Mendes 01 85
+Li_Zhaoxing 02 77 Carly_Fiorina 01 130
+Mario_Jardel 01 110 Amy_Redford 02 221
+Candice_Bergen 01 97 Vanessa_Redgrave 02 85
+Theodore_Tweed_Roosevelt 02 191 Paul_Tracy 01 145
+Emile_Lahoud 01 373 03 77
+Gary_Coleman 01 89 02 49
+James_McPherson 02 110 01 406
+Ali_Fallahian 02 81 01 217
+Nona_Gaye 03 49 01 49
+Alberto_Gonzales 01 340 01 340
+Andre_Agassi 01 57 01 57
+Martha_Stewart 02 89 01 81
+Naomi_Campbell 02 107 01 56
+Marc_Bulger 01 85 01 85
+Elizabeth_Taylor 02 169 02 169
+Phil_Donahue 01 77 01 77
+Marie-Josee_Croze 03 353 01 126
+Marc_Bulger 02 69 02 69
+Valentina_Cervi 01 120 02 161
+Wes_Craven 03 2149 02 346
+Daniel_Scioli 02 73 02 73
+Luis_Fonsi 03 227 01 153
+Mario_Dumont 01 169 02 189
+Martin_Frost 01 268 02 61
+Einars_Repse 01 105 Pier_Ferdinando_Casini 01 106
+Aidan_Quinn 04 87 Inam-ul-Haq 02 53
+Taha_Yassin_Ramadan 01 73 Tom_Curley 01 166
+Mahmoud_Al_Zhar 01 79 Bashar_Assad 01 57
+Edward_Burns 03 50 Leonard_Hamilton 01 49
+Linda_Sanchez 04 104 Beatrice_Dalle 01 62
+Leland_Chapman 01 69 Darcy_Regier 01 138
+Alison_Lohman 01 85 Matt_Anderson 02 149
+Mark_Geragos 02 77 Aaron_Eckhart 03 55
+Larry_Pleau 01 313 Eric_Rosser 01 61
+Lars_Von_Trier 01 341 Paul_ONeill 01 189
+Christopher_Walken 04 1845 Caroline_Kennedy 02 219
+Winona_Ryder 01 61 Tanya_Holyk 01 48
+Eli_Rosenbaum 02 53 Tom_Sizemore 03 114
+Abel_Pacheco 03 52 Narendra_Modi 05 117
+Laura_Bozzo 01 79 Teresa_Heinz_Kerry 04 133
+Fred_Eckhard 02 409 Chip_Ganassi 01 137
+Harald_Ringstorff 01 193 Hans-Christian_Schmid 01 160
+Katja_Riemann 01 105 Eric_Benet 03 61
+Kenneth_Carlsen 01 75 Charlie_Deane 02 127
+Patrick_Leahy 03 51 02 65
+Rick_Romley 01 57 02 120
+Terry_McAuliffe 02 125 01 51
+Collis_Temple_III 02 89 01 117
+Peter_Arnett 01 373 01 373
+Sanjay_Gupta 03 80 02 74
+Amy_Redford 02 221 02 221
+Pedro_Malan 02 350 01 231
+Paula_Zahn 01 797 01 797
+Makhdoom_Amin_Fahim 02 90 01 144
+Makhdoom_Amin_Fahim 01 144 03 189
+Pervez_Musharraf 02 100 01 85
+Evan_Marriott 01 101 02 53
+Cathy_Freeman 01 203 02 48
+Chip_Ganassi 02 230 02 230
+Peter_OToole 03 61 01 85
+Prince_Harry 02 81 03 69
+Iain_Duncan_Smith 01 110 01 110
+Paul_Bettany 02 57 02 57
+Zhang_Ziyi 03 77 03 77
+Kurt_Warner 02 49 Robin_Wagner 01 81
+Charlie_Zaa 01 176 Edward_James_Olmos 03 69
+Tom_Curley 01 166 Hamid_Reza_Asefi 01 69
+Rocco_Buttiglione 04 833 Elva_Hsiao 01 81
+Eve_Ensler 02 67 Nick_Nolte 03 235
+Kellie_Greene 01 199 Daryl_Sabara 03 251
+James_Hoffa 03 143 Ralph_Friedgen 02 59
+David_Blaine 01 125 Clark_Randt 02 125
+Bill_Frist 02 123 Matt_Damon 01 241
+Farouk_Kaddoumi 01 59 Lisa_Murkowski 01 581
+Gary_Barnett 01 2145 Tina_Fey 01 54
+Nora_Ephron 01 57 Patricia_Clarkson 01 125
+Alfred_Sant 01 247 Alberto_Ruiz_Gallardon 01 74
+Maria_Bello 02 105 Frank_Abagnale_Jr 01 2149
+Maria_Guida 01 281 Martin_McGuinness 01 477
+Nabil_Shaath 01 76 Tim_Robbins 02 53
+Ahmad_Masood 04 144 Pilar_Montenegro 03 49
+Lily_Tomlin 02 114 Hamid_Karzai 01 54
+Eileen_Coparropa 01 61 Gaston_Gaudio 02 133
+Queen_Beatrix 01 61 Emmit_Smith 01 165
+Xiang_Liu 02 53 01 81
+Linda_Dano 04 53 05 106
+Prince_Felipe 01 78 02 49
+Keith_Olbermann 01 497 03 785
+Tabare_Vazquez 02 129 03 69
+Garry_Kasparov 01 133 03 127
+James_Baker 01 905 01 905
+Chuck_Amato 01 439 01 439
+Kevin_Spacey 05 209 05 209
+Tom_Coughlin 02 77 02 77
+Frank_Solich 01 69 03 53
+Abdullatif_Sener 01 60 02 281
+Tom_DeLay 01 65 01 65
+Charles_Grassley 03 68 01 112
+Carlos_Ghosn 03 167 03 167
+Mariana_Ohata 03 85 02 121
+Nona_Gaye 01 49 03 49
+Kurt_Warner 02 49 02 49
+Aaron_Tippin 01 83 02 119
+Manuel_Llorente 02 481 02 481
+Eli_Rosenbaum 02 53 Christopher_Walken 04 1845
+Nabil_Shaath 01 76 Saparmurat_Niyazov 02 49
+Eliott_Spitzer 01 49 Elena_Dementieva 01 69
+Angela_Merkel 01 48 Oscar_Elias_Biscet 03 89
+Laura_Linney 02 61 Dai_Bachtiar 01 513
+Bela_Karolyi 02 57 Florecita_Cobian 01 142
+Frank_Griswold 01 61 Placido_Domingo 01 61
+Lee_Ann_Womack 01 101 Norodom_Chakrapong 01 187
+Tippi_Hedren 01 685 Frank_Keating 01 765
+Gene_Keady 01 94 Adel_Al-Jubeir 01 469
+Laila_Ali 01 85 Wolfgang_Clement 01 425
+Queen_Silvia 01 133 Chadha_Gurinder 02 130
+Romain_Duris 01 121 Rafidah_Aziz 01 82
+Li_Ka-shing 01 53 Nikki_Cascone 01 70
+Anibal_Ibarra 01 74 Charlton_Heston 02 128
+Alexa_Vega 01 540 Irina_Lobacheva 01 53
+Ray_Lewis 01 141 Christian_Wulff 01 198
+Chick_Hearn 01 114 Chita_Rivera 03 61
+Nelson_Acosta 01 49 Lene_Espersen 01 833
+Patricia_Heaton 02 57 Li_Zhaoxing 03 73
+Amy_Yasbeck 02 85 03 100
+Sam_Mendes 02 253 02 253
+Emma_Thompson 03 101 02 176
+Frances_Fisher 01 125 03 81
+Robbie_Williams 01 69 02 165
+James_Traficant 02 117 02 117
+Alexandre_Herchcovitch 01 168 02 219
+George_Karl 03 211 02 93
+Kweisi_Mfume 01 429 04 157
+Imam_Samudra 02 53 01 59
+Geoff_Hoon 01 152 02 73
+Eric_Fehr 02 101 01 69
+Damon_Stoudamire 02 153 03 49
+Jake_Gyllenhaal 01 117 02 281
+Ciro_Gomes 01 49 02 57
+Mark_Cuban 01 265 02 695
+Harrison_Ford 03 73 03 73
+Madeleine_Albright 01 109 02 417
+Carey_Lowell 03 53 02 187
+Florecita_Cobian 02 63 03 89
+Cemil_Cicek 02 65 Connie_Chung 01 135
+Lauren_Hutton 01 57 Ed_Rendell 02 159
+Kate_Capshaw 02 49 Robert_Woody_Johnson 02 49
+Richard_Ward 01 297 Islam_Karimov 01 57
+Lars_Von_Trier 01 341 Matt_LeBlanc 03 161
+Cristina_Saralegui 02 133 Frank_Wycheck 01 152
+Charlie_Deane 01 223 Thomas_OBrien 01 55
+Elisha_Cuthbert 02 74 Ilan_Goldfajn 02 51
+Kellie_Greene 01 199 James_Franco 01 61
+Eliane_Karp 02 317 Igor_Trunov 02 997
+Andreas_Vinciguerra 01 165 Oleg_Romantsev 01 149
+Lima_Azimi 01 79 Alma_Powell 02 54
+Abdullatif_Sener 02 281 Kevin_Borseth 01 105
+Hank_Aaron 01 159 Zydrunas_Ilgauskas 01 233
+Mark_Hanson 02 125 James_McPherson 03 208
+Francesco_Totti 01 61 Penelope_Cruz 02 165
+Catherine_Deneuve 01 75 Benjamin_McKenzie 01 48
+Elizabeth_Dole 03 102 Gabriel_Valdes 01 308
+Liu_Xiaoqing 01 61 Angela_Lansbury 01 77
+Bill_Cartwright 01 49 Lars_Von_Trier 01 341
+Alberto_Acosta 02 225 01 50
+Imelda_Marcos 02 89 02 89
+Patricia_Clarkson 01 125 02 94
+Zhang_Ziyi 02 106 02 106
+Chuck_Woolery 03 95 01 137
+Luciano_Pavarotti 02 90 01 58
+Linda_Sanchez 04 104 03 521
+Ali_Abbas 02 61 04 105
+James_Gandolfini 01 73 01 73
+Tammy_Lynn_Michaels 02 197 01 127
+Bertrand_Delanoe 02 133 01 177
+Barry_Williams 03 57 02 421
+Francisco_Santos 02 178 01 81
+Ilie_Nastase 02 80 02 80
+Chris_Dodd 02 293 02 293
+Ali_Abbas 02 61 04 105
+Cheryl_Tiegs 01 201 02 57
+Nicolas_Cage 01 69 01 69
+Peter_Medgyessy 01 62 05 56
+Barbara_Bodine 01 130 01 130
+Hama_Arba_Diallo 01 236 Maria_Callas 01 1161
+Gary_Stevens 01 173 Tina_Fey 01 54
+Edwin_Edwards 02 64 Alexis_Bledel 01 81
+Marcella_Anderson 01 193 Norman_Mailer 01 541
+Mark_Leno 02 129 Hank_Stram 01 402
+Pascal_Lamy 03 89 Elton_John 02 53
+Pak_Gil_Yon 01 221 Viara_Vike-Freiberga 02 337
+Paul_Bettany 01 51 Luis_Guzman 02 138
+Randall_Terry 01 160 Martha_Lucia_Ramirez 01 113
+Paul_Farley 01 70 Jalal_Talabani 01 313
+Philippe_Gagnon 04 49 Hamad_Bin_Isa_al-Khalifa 01 162
+Paul_Hogan 01 65 Rick_Bragg 04 291
+Queen_Noor 01 136 Ralph_Fiennes 01 69
+Martin_Landau 02 186 Fran_Drescher 02 61
+Chris_Rock 02 65 Cindy_Taylor 02 51
+Gary_Coleman 03 69 Elaine_Chao 04 121
+Chris_Columbus 01 94 Valentina_Tereshkova 01 433
+Mark_Cuban 02 695 Ciaran_Hinds 02 193
+Claudia_Schiffer 01 58 George_Clooney 02 58
+Ilie_Nastase 01 53 Lee_Tae-sik 01 178
+Barbara_Walters 02 277 02 277
+Nick_Rimando 03 73 03 73
+Alanis_Morissette 02 198 02 198
+Cindy_Crawford 03 161 03 161
+Daniel_Bruehl 03 165 01 689
+Lee_Baca 01 121 02 53
+Chuck_Amato 02 69 01 439
+Lena_Katina 01 137 01 137
+Ralph_Friedgen 01 165 02 59
+Madeleine_Albright 02 417 02 417
+Mahathir_Mohamad 01 319 04 537
+Alvaro_Silva_Calderon 02 65 02 65
+Peter_OToole 02 69 03 61
+Zhu_Rongji 01 52 01 52
+Vivica_Fox 02 125 02 125
+Dan_Monson 02 225 01 925
+Chuanyun_Li 03 209 01 117
+Marieta_Chrousala 03 57 02 61
+Yang_Jianli 02 169 02 169
+Alberto_Acosta 01 50 01 50
+Dave_Campo 01 61 Patrick_Coleman 01 77
+Nick_Markakis 02 67 Eddie_Fenech_Adami 01 70
+Lester_Holt 02 73 Ahmed_Ahmed 01 233
+Chick_Hearn 01 114 Adrianna_Zuzic 01 70
+Andreas_Vinciguerra 01 165 Cindy_Klassen 02 57
+Dan_Dickau 01 149 Sally_Ride 03 73
+Dan_Reeves 02 2017 Emmanuelle_Beart 01 76
+William_Ford_Jr 02 142 George_Lopez 02 100
+Peter_Mackay 02 49 Corinna_Harfouch 02 81
+Lorraine_Bracco 02 100 Walter_Mondale 02 91
+Eric_Wedge 01 93 Alexandre_Despatie 02 115
+Hamid_Reza_Asefi 01 69 Todd_Haynes 01 57
+Larry_Coker 01 153 Andrew_Fastow 01 2105
+Edwina_Currie 01 57 Vladimir_Spidla 02 1656
+Tom_Smothers 02 49 Nikki_Reed 01 69
+Yuvraj_Singh 01 79 Abdul_Majeed_Shobokshi 01 624
+Ben_Broussard 01 53 Vladimir_Spidla 02 1656
+Theodore_Tweed_Roosevelt 01 157 Madeleine_Albright 02 417
+Patti_Smith 01 54 James_Baker 01 905
+Rick_Bragg 02 99 Manuel_Rosendo 01 65
+Celine_Dion 01 75 01 75
+Sadie_Frost 03 205 03 205
+Elijah_Wood 03 889 02 55
+Caroline_Kennedy 02 219 01 166
+Charles_Ingram 02 67 02 67
+Amr_Moussa 02 221 01 165
+Fred_Thompson 02 709 02 709
+Janusz_Kaminski 03 69 03 69
+Olivia_Newton-John 02 138 03 205
+Tim_Robbins 02 53 01 162
+Paula_Prentiss 01 61 02 53
+Alvaro_Silva_Calderon 03 185 03 185
+Nancy_Sinatra 01 50 01 50
+Lewis_Booth 01 49 01 49
+Liane_Janda 02 92 01 49
+Ibrahim_Al-Marashi 01 65 02 243
+James_Coburn 02 86 01 153
+Fred_Rogers 01 201 03 65
+Norodom_Chakrapong 01 187 01 187
+Lubomir_Zaoralek 03 1925 01 109
+James_Carville 04 57 Bill_Belichick 01 156
+Catherine_Ndereba 01 70 Colin_Farrell 01 89
+Eric_Fehr 02 101 Yasser_Arafat 01 49
+Pio_Laghi 02 108 Rachel_Leigh_Cook 01 81
+Andy_Lau 01 49 Kemal_Dervis 02 275
+Chris_Penn 01 201 Robert_Altman 01 53
+Pervez_Musharraf 01 85 Luiz_Felipe_Scolari 01 297
+Christine_Todd_Whitman 01 89 Omar_Vizquel 01 89
+Kenneth_Reichert 01 70 Robert_Blackwill 01 55
+Olivier_Boulay 01 104 Picabo_Street 01 277
+Amy_Brenneman 04 77 Hasan_Wirayuda 01 81
+Ali_Mohammed_Maher 02 65 Kenneth_Carlsen 01 75
+Paula_Abdul 01 73 Jaouad_Gharib 01 61
+Nia_Vardalos 04 57 Whoopi_Goldberg 02 69
+Vojislav_Seselj 02 301 Anders_Ebbeson 01 50
+Sam_Rockwell 02 109 Aldo_Paredes 01 108
+Kellie_Greene 01 199 Emma_Thompson 04 86
+Jane_Russell 01 85 Jason_Alexander 01 53
+Tom_Vilsack 01 53 Markus_Beyer 01 86
+Barbara_Bodine 01 130 Inam-ul-Haq 02 53
+Nelson_Acosta 02 50 02 50
+Prince_Naruhito 01 87 02 108
+Alvaro_Silva_Calderon 03 185 02 65
+Eva_Mendes 02 49 02 49
+Martin_Frost 02 61 01 268
+James_McPherson 03 208 03 208
+Alex_Holmes 02 63 01 50
+Manuel_Rosendo 02 78 02 78
+Clive_Lloyd 03 173 02 253
+Ralph_Nader 02 473 01 124
+Calista_Flockhart 03 60 03 60
+Kim_Cattrall 01 110 02 65
+Connie_Chung 02 205 04 657
+Kenneth_Branagh 02 66 02 66
+Laura_Bozzo 02 77 01 79
+Robert_Nardelli 03 126 04 49
+Xiang_Liu 01 81 02 53
+Maria_Wetterstrand 02 61 02 61
+Alberto_Acosta 01 50 01 50
+Amber_Tamblyn 01 63 01 63
+Lima_Azimi 01 79 Francois_Pienaar 01 585
+Kofi_Annan 02 177 Lubomir_Zaoralek 02 101
+Maria_Wetterstrand 02 61 Geoff_Hoon 02 73
+Elias_Attallah 01 53 Cheryl_James 01 150
+Akmal_Taher 01 138 Jaouad_Gharib 02 549
+Harbhajan_Singh 01 50 Queen_Beatrix 01 61
+Alvaro_Silva_Calderon 02 65 Sam_Torrance 01 83
+Cherie_Blair 02 235 Adisai_Bodharamik 01 282
+Andrea_Yates 01 101 Randy_Johnson 01 77
+Laura_Romero 01 83 Choi_Sung-hong 01 649
+David_Blaine 02 138 Richard_Daley 02 81
+Jake_Plummer 02 89 Sally_Kirkland 01 73
+Ralph_Fiennes 01 69 Terje_Roed-Larsen 03 147
+Bernard_Landry 02 113 Piotr_Anderszewski 03 62
+Bill_Cartwright 01 49 Claudia_Pechstein 01 93
+LK_Advani 01 85 Bertie_Ahern 01 65
+Alison_Lohman 03 466 Jack_Nicholson 01 209
+Li_Ka-shing 01 53 Zulfiqar_Ahmed 02 57
+Carmen_Electra 01 94 William_Pryor_Jr 01 57
+Norman_Mailer 01 541 Conrad_Black 02 385
+Laurie_Laychak 01 353 01 353
+Nia_Vardalos 04 57 02 68
+Lee_Byung-woong 01 55 01 55
+Chanda_Rubin 01 749 01 749
+Saied_Hadi_al_Mudarissi 02 142 01 97
+Christine_Gregoire 01 53 01 53
+Terry_Bradshaw 02 57 01 149
+Peter_Hollingworth 02 90 01 73
+Fidel_Castro_Daiz-Balart 01 57 03 74
+Theodore_Tweed_Roosevelt 02 191 01 157
+Betty_Williams 01 189 01 189
+Valerie_Harper 03 55 05 73
+Lisa_Ling 01 138 03 54
+Carla_Sullivan 02 48 02 48
+Isabelle_Huppert 03 420 01 253
+Daryl_Sabara 03 251 02 49
+William_Overlin 01 189 02 70
+Leticia_Van_de_Putte 02 1905 02 1905
+Sanjay_Gupta 01 209 03 80
+Alicia_Witt 01 75 02 57
+Pat_Riley 04 57 Conchita_Martinez 02 57
+Fatmir_Limaj 01 321 Christopher_Amolsch 02 133
+Laila_Ali 01 85 Edmund_Stoiber 02 93
+Geoffrey_Rush 01 49 Angela_Lansbury 01 77
+Reggie_Miller 01 87 Enrique_Haroldo_Gorriaran_Merlo 01 49
+Aishwarya_Rai 01 76 Vladimir_Putin 01 545
+Park_Jie-won 01 106 Laurie_Laychak 01 353
+Igor_Trunov 02 997 Vanessa_Redgrave 01 57
+Biljana_Plavsic 01 309 Yang_Jianli 03 97
+Hanan_Ashrawi 01 320 William_Macy 01 54
+Mary_Carey 01 59 Gabrielle_Union 01 93
+Paul_ONeill 01 189 Chanda_Rubin 01 749
+Harvey_Fierstein 01 57 William_Joppy 01 49
+Piers_Sellers 01 65 James_Baker 02 429
+Tocker_Pudwill 01 121 Vin_Diesel 01 59
+Hamad_Bin_Jassim 01 88 Ian_McKellen 01 100
+Lucia_Kenny_Anthony 03 53 Jack_LaLanne 01 185
+George_HW_Bush 02 64 Paul_Ebert 01 123
+Mario_Kreutzberger 01 189 Martin_Frost 01 268
+Elmar_Brok 01 200 Alex_Ferguson 02 54
+Emmy_Rossum 02 99 02 99
+Mahmoud_Abbas 01 144 01 144
+Martin_McGuinness 01 477 01 477
+Prince_Charles 02 63 02 63
+Nursultan_Nazarbayev 01 69 02 213
+Chuck_Amato 01 439 01 439
+Elizabeth_Dole 03 102 03 102
+Ester_Canadas 01 99 03 86
+Paul_Reiser 01 149 01 149
+Richard_Rodriguez 05 235 03 337
+Carlos_Alberto_Parreira 02 257 02 257
+Raja_Zafar-ul-Haq 02 160 02 160
+Louis_Van_Gaal 03 71 03 71
+Mahathir_Mohamad 02 287 02 287
+Randall_Terry 02 237 01 160
+Peter_Medgyessy 01 62 02 97
+James_Kirtley 02 201 01 2125
+Sarah_Wynter 02 73 02 73
+Pauley_Perrette 02 49 01 49
+Gary_Condit 01 87 03 137
+Sally_Kirkland 02 125 Thalia 01 68
+Alex_Ferguson 03 49 Edward_James_Olmos 03 69
+Crispin_Glover 01 180 Marion_Barry 01 531
+Martin_McGuinness 01 477 Elena_Dementieva 02 53
+Carlos_Salinas 01 182 Abba_Eban 02 49
+Collis_Temple_III 01 117 Gary_Barnett 02 1949
+Wesley_Clark 02 53 Lisa_Murkowski 01 581
+Evander_Holyfield 01 69 Ben_Howland 01 173
+Elizabeth_Pena 01 69 Mack_Brown 02 114
+Charles_Mathews 01 83 Lionel_Richie 03 48
+Brian_Cashman 01 1201 Francis_Collins 02 137
+Kelly_Ripa 01 52 Peter_Hollingworth 02 90
+Catherine_Ndereba 01 70 Prince_Felipe 01 78
+Francisco_Santos 01 81 Perry_Farrell 01 137
+Oprah_Winfrey 01 61 Danielle_Spencer 01 222
+Mario_Vasquez_Rana 01 49 Conan_OBrien 04 57
+Lisa_Raymond 01 67 Keira_Knightley 02 57
+Ethan_Hawke 02 53 Daniel_Rouse 04 218
+Peri_Gilpin 01 117 Manuel_Poggiali 01 277
+Tabare_Vazquez 03 69 Catherine_Bell 01 55
+Lindsey_Graham 02 405 04 85
+Elva_Hsiao 02 51 01 81
+Ludivine_Sagnier 02 49 01 238
+Frank_Solich 02 95 03 53
+Marquier_Montano_Contreras 01 129 02 1001
+Ben_Curtis 02 169 01 117
+Mark_Hanson 02 125 02 125
+Manuel_Pellegrini 01 229 02 98
+Igor_Trunov 02 997 02 997
+Tom_Hanks 02 81 03 185
+Barry_Alvarez 03 57 01 66
+Jack_Welch 05 73 02 106
+Lena_Olin 02 161 01 97
+Leland_Chapman 02 84 01 69
+Caroline_Link 01 142 01 142
+Christy_Turlington 02 49 03 77
+James_Hoffa 03 143 03 143
+Olympia_Dukakis 01 98 01 98
+Aaron_Eckhart 01 85 01 85
+Newt_Gingrich 01 65 05 177
+Theo_Epstein 01 97 Kenneth_Branagh 03 315
+Abel_Pacheco 03 52 Valery_Giscard_dEstaing 02 130
+Roberta_Combs 01 852 Wesley_Clark 01 57
+Angel_Lockward 01 53 Lewis_Booth 02 893
+Imre_Kertasz 01 61 Ximena_Bohorquez 03 89
+Caio_Blat 02 55 Pat_Burns 01 49
+Caio_Blat 01 97 Abid_Hamid_Mahmud_Al-Tikriti 01 92
+Peter_Hollingworth 02 90 Thomas_OBrien 01 55
+Eli_Broad 01 85 Mary_Lou_Retton 01 53
+Pilar_Montenegro 02 49 Tian_Liang 02 60
+Mark_Wahlberg 02 85 Valeri_Bure 01 61
+Laura_Bozzo 01 79 Matt_LeBlanc 03 161
+Keira_Knightley 01 49 Ingrid_Betancourt 02 93
+Abel_Pacheco 02 104 Andrew_Wetzler 02 221
+Alma_Powell 06 251 Elisha_Cuthbert 01 262
+Bernadette_Peters 03 127 Gabriel_Valdes 02 199
+Sam_Brownback 01 309 Ian_Thorpe 01 77
+Carmen_Electra 01 94 Peter_Caruana 01 57
+Charles_Schumer 02 199 Gael_Garcia_Bermal 01 49
+Ellen_MacArthur 01 169 Paul_Tracy 01 145
+Jacky_Cheung 01 84 01 84
+Kurt_Warner 01 57 02 49
+Franco_Dragone 02 209 03 161
+David_Carradine 01 73 02 173
+Olympia_Dukakis 01 98 02 273
+Leticia_Dolera 01 77 02 909
+Alejandro_Gonzalez_Inarritu 01 61 01 61
+Mark_Foley 01 160 02 59
+Richard_Daley 02 81 01 85
+Uday_Hussein 02 81 01 221
+Gabi_Zimmer 01 1965 02 2025
+Fatmir_Limaj 02 761 01 321
+David_Blaine 01 125 02 138
+Sally_Kirkland 01 73 02 125
+Zhong_Nanshan 02 621 03 109
+Angela_Lansbury 01 77 02 274
+Cristina_Kirchner 02 166 01 50
+Christine_Gregoire 02 133 02 133
+Carlos_Alberto_Parreira 02 257 02 257
+Christopher_Walken 04 1845 04 1845
+Ilan_Goldfajn 02 51 Adriana_Perez_Navarro 01 64
+Abel_Pacheco 01 179 Tom_Ridge 03 79
+Geoff_Hoon 01 152 Alvaro_Uribe 01 551
+Linus_Roache 02 86 Prince_Felipe 02 49
+Placido_Domingo 01 61 Eva_Amurri 01 50
+George_Lopez 01 57 Robert_Blackwill 01 55
+Yuvraj_Singh 01 79 Cindy_Crawford 03 161
+Portia_de_Rossi 01 69 Gary_Carter 01 70
+Hans_Eichel 01 223 Cecile_de_France 01 180
+Laura_Pausini 01 195 Hama_Arba_Diallo 01 236
+Tom_Curley 01 166 Hans-Christian_Schmid 01 160
+Leticia_Dolera 03 112 Patti_Smith 01 54
+Anita_DeFrantz 01 115 Abbas_Kiarostami 01 226
+Baburam_Bhattari 02 53 Linda_Mason 02 334
+Oprah_Winfrey 01 61 Paul_ONeill 01 189
+Edward_Norton 04 109 Lily_Tomlin 02 114
+Peter_Mackay 01 210 Lynne_Thigpen 01 245
+Wilma_McNabb 01 49 James_Kopp 01 93
+Christopher_Amolsch 01 941 Recep_Tayyip_Erdogan 02 87
+Tamika_Catchings 01 221 Aaron_Eckhart 02 49
+Cherie_Blair 01 101 01 101
+Krishna_Bhadur_Mahara 02 163 04 65
+Kelsey_Grammer 03 49 01 89
+Peter_Medgyessy 04 55 01 62
+Manuel_Rosendo 01 65 02 78
+Tom_Osborne 01 327 03 161
+Daniel_Bruehl 03 165 02 557
+Kostya_Tszyu 02 109 02 109
+Takeo_Fukui 01 57 02 268
+Marc_Anthony 02 107 01 158
+Maria_Soledad_Alvear_Valenzuela 02 50 03 173
+William_Donaldson 01 185 01 185
+Angela_Bassett 02 141 03 294
+Franz_Fischler 04 97 04 97
+Carla_Del_Ponte 02 202 01 51
+James_McPherson 03 208 01 406
+Rachel_Hunter 02 93 01 61
+Paul_Reiser 02 105 03 65
+Chip_Ganassi 02 230 01 137
+Christopher_Patten 01 180 01 180
+Alessandro_Nesta 01 171 Andy_Benes 01 129
+Elvis_Stojko 02 89 Vivica_Fox 01 77
+David_Brinkley 01 125 Colin_Farrell 01 89
+Carlos_Iturgaitz 04 126 Tom_Lantos 01 113
+Kostya_Tszyu 02 109 Colleen_Atwood 02 49
+Han_Sung_Joo 01 579 James_Wolfensohn 02 85
+Nancy_Reagan 03 270 Edward_Flynn 01 94
+Claudio_Abbado 01 129 Marc_Anthony 01 158
+Ray_Lewis 01 141 Malcolm_Jamal_Warner 01 49
+Laurent_Woulzy 01 65 Christoph_Daum 01 69
+Alain_Ducasse 01 179 Alberto_Acosta 02 225
+Frank_Murkowski 01 223 Carlos_Queiroz 01 77
+Chung_Mong-joon 01 91 Taha_Yassin_Ramadan 01 73
+Terje_Roed-Larsen 01 93 Andy_Lau 01 49
+Madonna 01 49 Adam_Ant 02 58
+Allison_Janney 01 61 Nestor_Santillan 01 49
+Angela_Merkel 01 48 Catherine_Bell 01 55
+William_Overlin 01 189 Brian_Clemens 02 73
+Jaouad_Gharib 01 61 Carla_Gay_Balingit 01 218
+Alimzhan_Tokhtakhounov 01 193 Tom_Hanusik 01 221
+Kristin_Scott 02 52 03 62
+Coleen_Rowley 02 697 01 173
+Christine_Todd_Whitman 03 182 03 182
+Cheryl_Tiegs 01 201 01 201
+Frank_Stallone 01 57 01 57
+JK_Rowling 03 73 02 65
+Chris_Cornell 01 49 02 64
+Sam_Torrance 02 88 02 88
+Leticia_Van_de_Putte 02 1905 02 1905
+Caroline_Kennedy 02 219 02 219
+Sarah_Wynter 02 73 01 69
+Theresa_May 02 69 01 977
+Bianca_Jagger 03 1505 01 331
+Marc_Racicot 01 229 02 83
+Richard_Haass 01 65 02 905
+Ilan_Goldfajn 02 51 01 125
+Jamie_Lee_Curtis 01 145 04 145
+Jake_Plummer 03 118 01 120
+Dan_Reeves 01 93 02 2017
+Vincent_Gallo 02 105 01 389
+Charles_Grassley 03 68 George_P_Bush 01 106
+Pascal_Lamy 02 56 Luciano_Pavarotti 02 90
+Nona_Gaye 03 49 Eric_Staal 01 49
+Hamid_Reza_Asefi 01 69 Christopher_Reeve 03 66
+Gerald_Ford 02 65 Candice_Bergen 01 97
+Angela_Mascia-Frye 01 144 Paula_Abdul 01 73
+Yolanda_King 03 49 Cathy_Cunningham 01 144
+Elena_Bereznaya 01 131 Yoon_Jin-Sik 01 95
+Katharine_Hepburn 02 114 Chris_Klein 01 101
+Leland_Chapman 01 69 Nancy_Reagan 01 89
+Maria_Soledad_Alvear_Valenzuela 03 173 Emily_Mortimer 03 104
+Piers_Sellers 01 65 Frank_Caliendo 01 157
+Mario_Lobo_Zagallo 01 53 Bernadette_Peters 03 127
+Elizabeth_Dole 01 49 Zavad_Zarif 01 601
+Nina_Pecari 01 234 Bernice_Wong 02 206
+Liane_Janda 01 49 Frederique_van_der_Wal 01 131
+Francisco_Santos 01 81 Tom_Crean 02 277
+Thomas_OBrien 01 55 Ilan_Goldfajn 02 51
+Nick_Markakis 01 65 Eunice_Barber 02 55
+Alecos_Markides 01 54 Larry_Flynt 03 67
+Alan_Ball 01 719 02 56
+Gabriel_Valdes 01 308 02 199
+Catriona_Le_May_Doan 01 369 01 369
+Jackie_Sherrill 03 753 02 61
+James_Kirtley 01 2125 02 201
+Cristina_Fernandez 02 61 03 74
+Daniel_Scioli 02 73 01 357
+Alejandro_Toledo 02 79 03 119
+Vanessa_Redgrave 02 85 02 85
+Lena_Katina 02 78 02 78
+Elvis_Presley 02 97 02 97
+Betty_Williams 02 49 02 49
+Barry_Zito 02 61 02 61
+Rick_Romley 01 57 02 120
+Kevin_Spacey 06 105 05 209
+Abel_Pacheco 01 179 03 52
+Peter_Struck 02 101 01 65
+Luis_Fonsi 02 49 03 227
+Yossi_Beilin 01 145 01 145
+Krishna_Bhadur_Mahara 04 65 04 65
+Andrea_Bocelli 01 85 Alex_Holmes 02 63
+Ibrahim_Al-Marashi 01 65 Patricia_Phillips 01 75
+Luca_Cordero_di_Montezemolo 01 57 Mack_Brown 02 114
+Ben_Kingsley 03 77 Felipe_De_Borbon 01 1581
+Odai_Hussein 01 81 Wolfgang_Schuessel 02 67
+Kenenisa_Bekele 01 137 Elsa_Zylberstein 01 78
+Edward_James_Olmos 03 69 Tom_DeLay 02 117
+Chris_Columbus 01 94 Sanjay_Gupta 01 209
+Claudia_Pechstein 01 93 Wesley_Clark 03 193
+Eric_Wedge 01 93 Jane_Krakowski 03 81
+Karen_Lynn_Gorney 02 49 Peter_Greenaway 02 53
+Mark_Shapiro 01 69 Uma_Thurman 02 49
+Alberto_Fujimori 01 117 Zahir_Shah 02 149
+Amber_Tamblyn 02 133 Ben_Kingsley 01 90
+Emma_Thompson 04 86 Conchita_Martinez 01 74
+Colin_Cowie 02 113 Lars_Von_Trier 01 341
+Ahmad_Masood 03 173 Ferenc_Madl 02 69
+Orlando_Bloom 01 49 Barry_Williams 03 57
+Ahmed_Ahmed 03 73 Marina_Anissina 01 93
+Chris_Cooper 03 606 Barbara_Brezigar 02 137
+Dany_Heatley 01 70 02 77
+Luis_Guzman 02 138 01 50
+Elva_Hsiao 02 51 01 81
+Ed_Smart 03 227 03 227
+Ed_Smart 02 78 03 227
+Tom_Amstutz 02 50 02 50
+Nicolas_Sarkozy 05 71 03 73
+Jaouad_Gharib 01 61 02 549
+Wolfgang_Clement 01 425 01 425
+Krishna_Bhadur_Mahara 04 65 05 51
+Edward_James_Olmos 01 140 01 140
+T_Boone_Pickens 04 91 04 91
+Kathryn_Morris 01 49 03 393
+Kim_Gandy 05 61 04 118
+Luis_Ernesto_Derbez_Bautista 03 65 03 65
+Gary_Bauer 02 102 02 102
+Alberto_Acosta 02 225 01 50
+Frank_Keating 03 67 02 85
+Kevin_Spacey 06 105 05 209
+Mark_Geragos 02 77 02 77
+Natasha_Lyonne 01 57 Marc_Bulger 01 85
+Francois_Pienaar 01 585 Liu_Mingkang 02 465
+Warren_Buffett 04 143 Natasha_Henstridge 02 69
+George_Allen 01 65 Viola_Davis 01 115
+Francisco_Garcia 01 97 Catherine_Zeta-Jones 03 186
+Hank_Stram 02 84 James_Brosnahan 01 49
+Carlos_Ghosn 04 63 James_Robertson_Jr 01 141
+Lisa_Raymond 01 67 Daniel_Day-Lewis 03 93
+Kenneth_Carlsen 01 75 Gabriel_Farhi 01 345
+Francois_Pienaar 01 585 James_Brazelton 02 57
+Marisa_Tomei 01 177 Tom_Curley 01 166
+Zeng_Qinghong 01 117 Eliza_Dushku 04 61
+Eliane_Karp 04 260 William_Delahunt 03 321
+Jane_Rooney 01 517 Begum_Khaleda_Zia 01 581
+Carson_Palmer 01 277 Ferenc_Madl 01 83
+Sara_Silverman 02 133 Lee_Baca 03 190
+Peter_Struck 01 65 Linda_Franklin 02 1837
+Robert_Wiener 01 189 Ciaran_Hinds 01 69
+Lily_Tomlin 01 173 Cheryl_Hines 01 53
+Robert_Altman 01 53 Picabo_Street 04 77
+Salma_Hayek 01 53 01 53
+Nancy_Reagan 02 53 04 81
+David_Caruso 01 57 03 85
+Saparmurat_Niyazov 02 49 01 54
+Alexandre_Despatie 01 60 03 139
+Carla_Gugino 03 68 04 68
+Orrin_Hatch 02 218 01 429
+Alejandro_Toledo 01 154 02 79
+Nuon_Chea 01 54 01 54
+Martha_Lucia_Ramirez 02 57 02 57
+Charlton_Heston 02 128 02 128
+Karin_Viard 01 111 01 111
+Linda_Franklin 03 265 02 1837
+Eva_Herzigova 02 53 01 137
+Kenneth_Branagh 03 315 01 149
+Daryl_Sabara 01 70 01 70
+Sam_Rockwell 02 109 01 103
+BB_King 01 101 01 101
+Frank_Abagnale_Jr 02 2129 01 2149
+Barry_Zito 01 65 02 61
+George_Lopez 01 57 Queen_Rania 01 337
+Matt_Damon 01 241 Ludivine_Sagnier 04 117
+Albert_Brooks 02 73 Manuel_Rosendo 01 65
+Mary-Kate_Olsen 01 109 Victor_Kraatz 01 69
+Frank_Stallone 02 53 Narendra_Modi 03 454
+Nigel_Redden 01 229 Takeshi_Kitano 01 65
+Alex_Cejka 01 307 Leland_Chapman 02 84
+Paula_Prentiss 01 61 Chakib_Khelil 01 71
+Teri_Garr 02 61 Elijah_Wood 02 55
+Katharine_Hepburn 02 114 Massoud_Barzani 01 118
+Padraig_Harrington 01 49 Jason_Alexander 01 53
+Lindsey_Graham 02 405 Enrique_Bolanos 01 145
+Harvey_Fierstein 02 80 Tocker_Pudwill 01 121
+Daniell_Sunjata 03 165 Catherine_Deneuve 01 75
+Nikki_Cascone 01 70 Aaron_Tippin 02 119
+Thomas_OBrien 01 55 Francis_Mer 01 57
+Prince_Felipe 01 78 Peter_Gilmour 02 173
+Oliver_Phelps 01 246 Paul_Gascoigne 02 129
+Ahmad_Masood 02 129 Eric_Shinseki 01 79
+Abid_Hamid_Mahmud_Al-Tikriti 01 92 Carlo_Azeglio_Ciampi 03 49
+Geno_Auriemma 02 73 01 57
+Carly_Gullickson 01 138 01 138
+Fred_Eckhard 03 272 02 409
+Leonid_Kuchma 02 181 01 67
+Irene_Kahn 02 96 01 557
+Tom_Coughlin 03 49 02 77
+Garry_Kasparov 01 133 01 133
+Valerie_Harper 05 73 01 153
+Oliver_Phelps 01 246 01 246
+Chris_Matthews 01 121 03 249
+Nathan_Lane 03 49 04 81
+Vicente_Fernandez 01 169 01 169
+Victoria_Clarke 01 531 02 49
+Rafael_Bielsa 02 65 01 77
+Peter_Struck 02 101 01 65
+Marc_Bulger 01 85 01 85
+Vanessa_Redgrave 02 85 02 85
+Tom_Vilsack 01 53 01 53
+Barry_Alvarez 02 69 03 57
+Daniell_Sunjata 02 214 03 165
+Tian_Liang 01 57 Kate_Winslet 02 101
+Nestor_Kirchner 01 125 Martin_McGuinness 02 98
+Barbara_Bodine 05 69 Tomas_Enge 01 97
+William_Rehnquist 01 269 Norodom_Chakrapong 01 187
+Laurie_Laychak 01 353 Adel_Al-Jubeir 01 469
+Brian_Cashman 01 1201 Martin_McGuinness 01 477
+Nobuyuki_Idei 01 445 Valery_Giscard_dEstaing 01 345
+Peter_Hartz 01 53 Rodrigo_Borja 01 73
+Islam_Karimov 01 57 Candice_Bergen 01 97
+Gabriel_Farhi 01 345 Laura_Bush 01 115
+Al_Gore 04 48 Agnes_Bruckner 03 51
+Tom_DeLay 01 65 William_Ford_Jr 01 65
+Nancy_Pelosi 02 1669 Zahir_Shah 02 149
+Whoopi_Goldberg 03 60 Paul_Tracy 01 145
+Ted_Maher 02 129 Alek_Wek 02 55
+Amanda_Marsh 01 53 Tina_Fey 01 54
+Priscilla_Presley 02 161 Elton_John 03 49
+Ellen_Pompeo 01 49 Andrea_Bocelli 02 313
+Daniel_Kurtzer 03 183 Christian_Olsson 01 53
+Richard_Gere 01 89 Matt_Doherty 01 78
+Allyson_Felix 01 140 02 57
+Yolanda_King 02 113 01 55
+Maggie_Smith 01 65 03 71
+Lenny_Wilkens 02 53 01 49
+Frances_Fisher 01 125 02 158
+Isabella_Rossellini 03 87 03 87
+Robbie_Coltrane 01 173 03 197
+Paul_Wolfowitz 02 77 02 77
+Natalie_Stewart 01 123 01 123
+Angelina_Jolie 01 81 02 49
+Kurt_Warner 01 57 02 49
+Nicanor_Duarte_Frutos 05 254 04 55
+Alanis_Morissette 01 87 02 198
+Paul_Reiser 03 65 03 65
+Laura_Pausini 02 56 01 195
+Zhu_Rongji 01 52 02 242
+Walter_Mondale 01 77 02 91
+Albert_Brooks 03 75 02 73
+Kevin_Spacey 04 97 03 77
+Walter_Mondale 01 77 02 91
+Regina_Ip 01 81 Cristina_Saralegui 01 405
+Vincent_Sombrotto 01 282 Ted_Nolan 02 77
+Teri_Garr 02 61 Pilar_Montenegro 02 49
+Leonard_Hamilton 01 49 Emily_Mortimer 03 104
+Gennifer_Flowers 02 86 Ray_Nagin 01 77
+Laila_Ali 01 85 Ernie_Fletcher 02 107
+Harvey_Fierstein 01 57 Peri_Gilpin 01 117
+Chris_Dodd 01 247 Bill_Bradley 02 603
+Ralph_Friedgen 01 165 Mark_Dacey 02 77
+Paul_Newman 01 98 Caio_Blat 01 97
+Yukio_Hatoyama 01 1517 Colleen_Atwood 01 101
+Phil_Gramm 02 73 Yang_Jianli 01 397
+Ridley_Scott 02 181 Leon_Lai 01 73
+Kathy_Gannon 01 369 Uzi_Landau 02 61
+Itzhak_Perlman 02 241 T_Boone_Pickens 01 103
+James_Carville 03 206 Al_Leiter 01 72
+Lester_Holt 01 75 Adrien_Brody 01 53
+Abdoulaye_Wade 02 50 Nicoletta_Braschi 01 109
+Val_Ackerman 01 173 Ray_Nagin 01 77
+Dave_Campo 01 61 Jane_Krakowski 03 81
+Colin_Powell 03 106 03 106
+Christy_Turlington 02 49 02 49
+Paul_Reiser 01 149 04 141
+Paul_Henderson 02 113 02 113
+Wolfgang_Schuessel 02 67 01 96
+Marcelo_Ebrard 02 121 01 61
+Alexandra_Pelosi 01 166 03 93
+Phil_Bredesen 02 93 02 93
+Camryn_Manheim 02 198 02 198
+William_Shatner 01 113 01 113
+Natalie_Coughlin 02 65 02 65
+Bill_Belichick 01 156 01 156
+Mark_Leno 01 1597 03 245
+Ray_Wasden 01 352 01 352
+Al_Leiter 01 72 02 72
+Nick_Nolte 02 65 02 65
+Norodom_Chakrapong 01 187 01 187
+Elena_Dementieva 01 69 02 53
+James_McPherson 02 110 01 406
+Carlo_Azeglio_Ciampi 02 619 04 49
+Salman_Rushdie 02 125 Raja_Zafar-ul-Haq 04 103
+Marcella_Anderson 01 193 Lisa_Leslie 02 193
+Abdullah_Gul 03 153 Chris_Cirino 01 97
+Chris_Tucker 03 49 JC_Chasez 01 57
+Ralph_Fiennes 01 69 Nancy_Kerrigan 01 61
+Tara_Reid 02 133 Larry_Wilmore 01 50
+Christian_Malcolm 01 61 Alessandra_Cerna 01 110
+Pauley_Perrette 04 66 Eddie_Fenech_Adami 01 70
+Ernesto_Zedillo 04 49 Kostya_Tszyu 01 69
+Nadine_Vinzens 01 49 Leandrinho_Barbosa 01 109
+Mary_Lou_Retton 01 53 Orlando_Bloom 03 133
+Jacob_Frenkel 01 52 Amanda_Bynes 02 49
+Conrad_Black 02 385 Rick_Barnes 01 105
+Amanda_Bynes 02 49 Filippo_Inzaghi 01 729
+Queen_Beatrix 01 61 Candie_Kung 01 151
+Chris_Penn 01 201 Walter_Annenberg 01 210
+Terence_Newman 01 445 Elizabeth_Smart 01 65
+Laura_Elena_Harring 03 141 Patrick_Leahy 02 65
+Ernest_Hollings 02 145 Sarah_Michelle_Gellar 01 93
+Alex_Cejka 01 307 Robert_McKee 03 57
+Maria_Callas 02 125 02 125
+Alex_Holmes 01 50 01 50
+Tom_Amstutz 01 305 01 305
+Roberto_Benigni 03 72 01 87
+Benazir_Bhutto 01 89 01 89
+Kirsten_Dunst 01 74 04 103
+Saeed_Mortazavi 02 267 03 71
+Tom_Harkin 03 590 01 165
+Ricardo_Sanchez 02 105 03 89
+Edmund_Stoiber 01 92 02 93
+Viara_Vike-Freiberga 02 337 01 433
+Penelope_Cruz 01 85 01 85
+Elvis_Costello 01 85 01 85
+Timothy_Wirth 02 77 02 77
+Margaret_Thatcher 03 301 03 301
+Lou_Lang 02 48 03 51
+Akmal_Taher 02 110 02 110
+Mario_Cipollini 01 269 01 269
+Norm_Macdonald 05 121 05 121
+Alberto_Gonzales 02 628 01 340
+Alberto_Fujimori 01 117 Marion_Barry 01 531
+Andrew_Cuomo 02 51 Valerie_Harper 03 55
+Elijah_Wood 03 889 Jada_Pinkett_Smith 01 63
+Carroll_Weimer 01 81 Saeed_Mortazavi 02 267
+Maria_Soledad_Alvear_Valenzuela 02 50 Carlos_Iturgaitz 04 126
+Christian_Bale 01 117 Pierre_Pettigrew 02 53
+Jan_Peter_Balkenende 03 82 Gary_Bauer 01 68
+Brennon_Leighton 01 52 Caroline_Dhavernas 01 165
+Lance_Bass 02 61 Ester_Canadas 03 86
+Edmund_Hillary 01 85 Paul_ONeill 01 189
+Martin_McGuinness 01 477 Jacques_Rogge 01 705
+Alexandre_Daigle 01 258 Adam_Sandler 01 62
+Carlos_Ghosn 01 83 George_Ryan 01 333
+Christoph_Daum 01 69 Kim_Clijsters 01 67
+Peter_Hartz 01 53 Nancy_Sinatra 02 73
+Kevin_Tarrant 01 69 Leonardo_DiCaprio 01 133
+Brett_Hull 01 194 Na_Na_Keum 01 57
+Jacqueline_Obradors 01 51 Tammy_Lynn_Michaels 01 127
+Katalin_Kollat 01 57 Tammy_Lynn_Michaels 02 197
+Kelsey_Grammer 03 49 Nina_Jacobson 01 52
+Paul_Pierce 01 257 01 257
+Saparmurat_Niyazov 01 54 02 49
+Ernesto_Zedillo 04 49 02 73
+Alfonso_Cuaron 02 50 01 650
+Christopher_Walken 01 85 02 537
+Jane_Rooney 02 221 02 221
+Ricardo_Sanchez 02 105 02 105
+Franz_Muentefering 01 69 01 69
+Rodrigo_Borja 02 60 02 60
+Conchita_Martinez 01 74 01 74
+James_Meeks 03 153 02 53
+Linda_Franklin 01 1933 01 1933
+Wesley_Clark 02 53 03 193
+Kit_Bond 04 81 04 81
+James_Wattana 02 105 01 129
+Caroline_Link 01 142 01 142
+Carolina_Kluft 02 65 01 51
+Saddam_Hussein 03 65 01 169
+Edward_Albee 01 87 01 87
+Naomi_Campbell 02 107 01 56
+Renato_Soru 02 137 Ximena_Bohorquez 01 55
+Paul_Bettany 02 57 Queen_Silvia 01 133
+Fidel_Castro 01 53 Eddie_Fenech_Adami 01 70
+Vincent_Gallo 02 105 George_Ryan 01 333
+Daniela_Hantuchova 01 85 Chris_Noth 02 137
+Mae_Jemison 01 53 James_Watt 01 61
+Nancy_Sinatra 02 73 Tina_Brown 02 85
+Daisy_Fuentes 01 53 Christopher_Patten 02 149
+Warren_Beatty 01 53 Tian_Liang 01 57
+Sadie_Frost 03 205 Will_Self 01 85
+Keith_Tyson 02 101 Sara_Silverman 01 81
+Hamad_Bin_Jassim 01 88 Pedro_Solbes 03 261
+Edward_Flynn 01 94 Barry_Williams 01 73
+Ted_Williams 01 129 Ellen_MacArthur 01 169
+Ricardo_Sanchez 03 89 Dai_Bachtiar 03 206
+Larry_Ellison 02 94 Francis_George 01 2081
+Zarai_Toledo 01 65 Alex_King 01 650
+George_Foreman 01 109 Richard_Rodriguez 03 337
+Barry_Alvarez 04 294 Talisa_Soto 02 70
+George_Clooney 02 58 Yang_Jianli 01 397
+Adrianna_Zuzic 02 173 01 70
+Dave_Matthews 02 49 03 105
+Al_Pacino 02 49 03 60
+AJ_Cook 02 79 02 79
+Emma_Thompson 01 119 02 176
+Orrin_Hatch 02 218 02 218
+Ted_Nolan 01 72 03 61
+Oscar_Elias_Biscet 03 89 02 65
+Kevin_Spacey 01 65 01 65
+Frank_Keating 03 67 01 765
+Andy_Lau 02 129 02 129
+Ion_Tiriac 03 55 03 55
+Kyle_Shewfelt 01 63 01 63
+Ben_Broussard 02 61 02 61
+Kate_Capshaw 01 57 03 49
+Lauren_Hutton 06 61 01 57
+Andrea_Bocelli 01 85 01 85
+Evo_Morales 01 58 03 59
+Angelina_Jolie 02 49 01 81
+Ciro_Gomes 02 57 03 73
+Emma_Nicholson 01 66 Geraldo_Rivera 02 49
+Allyson_Felix 01 140 Kim_Jong-Il 01 101
+Tom_Izzo 02 97 Vadim_Devyatovskiy 01 153
+Ray_Nagin 01 77 Nicolas_Eyzaguirre 02 65
+Hama_Arba_Diallo 01 236 Tom_Gamboa 01 169
+Christine_Ebersole 02 54 Matt_Damon 01 241
+Ted_Nolan 02 77 Natasha_Henstridge 03 57
+Tia_Mowry 01 239 Emily_Mortimer 02 50
+Abdullah_Ahmad_Badawi 01 107 Philippe_Noiret 03 53
+Peter_Medgyessy 03 89 Alex_Penelas 01 582
+Tim_Allen 02 101 Kate_Capshaw 02 49
+Peter_Holmberg 01 101 Paola_Espinoza 02 125
+Cristina_Kirchner 02 166 Pio_Laghi 02 108
+Pauley_Perrette 01 49 Gerald_Ford 01 65
+Larry_Nichols 01 134 Nick_Rimando 03 73
+Terje_Roed-Larsen 03 147 Jacqueline_Obradors 01 51
+Larry_Donald 01 50 Edward_Norton 05 249
+Roberto_Marinho 01 110 Clive_Woodward 01 57
+Adrianna_Zuzic 01 70 Gary_Bauer 02 102
+Alessandra_Cerna 01 110 Matt_Anderson 02 149
+Barbara_Walters 02 277 02 277
+Carlos_Ghosn 05 50 02 80
+Sandra_Day_OConner 01 235 01 235
+Nicanor_Duarte_Frutos 01 485 01 485
+Elvis_Presley 01 49 02 97
+Bernadette_Peters 02 125 03 127
+Elizabeth_Hill 02 57 02 57
+Paul_Sarbanes 01 77 01 77
+Wes_Craven 02 346 01 69
+Laura_Pausini 01 195 01 195
+Barbara_Brezigar 02 137 05 761
+Lucio_Stanca 01 76 02 103
+Elvis_Stojko 01 97 02 89
+Allyson_Felix 01 140 02 57
+Oscar_Elias_Biscet 01 129 01 129
+Oscar_Elias_Biscet 02 65 03 89
+Martha_Stewart 02 89 02 89
+Sam_Torrance 02 88 02 88
+Dai_Bachtiar 04 262 03 206
+Elias_Attallah 02 57 01 53
+Norman_Jewison 01 197 Fidel_Castro_Daiz-Balart 02 73
+Elva_Hsiao 02 51 Natalie_Cole 02 77
+LK_Advani 01 85 Christian_Lacroix 02 73
+Craig_Fitzgibbon 01 185 Gene_Keady 01 94
+Cherie_Blair 02 235 Elizabeth_Taylor 02 169
+Damon_Stoudamire 01 117 Ted_Maher 02 129
+Inocencio_Arias 02 685 Hans-Christian_Schmid 01 160
+Bertie_Ahern 01 65 Naomi_Campbell 01 56
+Luis_Ernesto_Derbez_Bautista 04 57 Andres_DAlessandro 01 91
+Al_Davis 01 422 Paul_Walker 01 129
+Laurent_Gbagbo 01 153 Terry_McAuliffe 02 125
+Paul_Walker 01 129 Wesley_Clark 03 193
+Lenny_Kravitz 01 320 Evan_Marriott 01 101
+Abdullatif_Sener 01 60 Ernie_Fletcher 01 61
+Garry_Kasparov 03 127 Anita_DeFrantz 01 115
+Barbara_Walters 03 201 Princess_Anne 01 85
+Larry_Wilmore 01 50 Robert_Ehrlich 01 121
+Edward_James_Olmos 02 114 Luis_Guzman 02 138
+Corinna_Harfouch 02 81 George_Tenet 01 77
+Tom_Koenigs 03 81 Cherry_Jones 01 81
+Dai_Bachtiar 04 262 02 319
+James_Hoffa 02 98 03 143
+William_Bratton 02 259 02 259
+James_Sensenbrenner 02 82 01 62
+Carlos_Menem 01 48 02 71
+Itzhak_Perlman 02 241 01 85
+Lino_Oviedo 01 125 01 125
+Robert_Ehrlich 03 885 03 885
+Gary_Marshall 01 185 02 1165
+Clint_Howard 03 54 02 52
+Romain_Duris 01 121 01 121
+Cameron_Diaz 03 85 01 364
+Lena_Katina 01 137 01 137
+Laurent_Woulzy 02 49 01 65
+Richard_Lennon 03 182 02 357
+Jane_Krakowski 02 81 02 81
+Salma_Hayek 02 71 03 176
+Lisa_Ling 01 138 03 54
+Picabo_Street 01 277 02 669
+Abdullatif_Sener 02 281 01 60
+Laurence_Tribe 02 85 Laura_Schlessinger 01 139
+Richard_Lennon 03 182 Allyson_Felix 01 140
+Francisco_Garcia 02 80 Vojislav_Kostunica 01 53
+Vladimiro_Montesinos 01 281 Christopher_Reeve 01 78
+Frank_Wycheck 01 152 Paul_Kariya 01 145
+Vivica_Fox 01 77 Bashar_Assad 01 57
+Liu_Ye 02 49 Bernard_Landry 02 113
+Tom_Glavine 01 441 Pak_Gil_Yon 01 221
+Alejandro_Toledo 01 154 Chea_Sophara 01 116
+Isabelle_Huppert 01 253 Otto_Reich 04 766
+Jackie_Chan 01 49 Elaine_Stritch 03 97
+Roberto_Benigni 03 72 Fatmir_Limaj 02 761
+George_Allen 01 65 Jan_Bjoerklund 02 65
+Ed_Rosenthal 02 149 Georgi_Parvanov 01 69
+Whoopi_Goldberg 04 49 Ed_Smart 02 78
+Piers_Sellers 01 65 Laura_Romero 01 83
+Todd_Parrott 04 505 Yoriko_Kawaguchi 01 167
+Claudia_Schiffer 01 58 Barbara_Boxer 02 107
+Emmanuelle_Beart 01 76 Teresa_Graves 01 57
+Francis_Collins 01 51 Marcelo_Ebrard 02 121
+Kyle_Shewfelt 03 161 03 161
+Phil_Gramm 04 77 04 77
+Richard_Daley 01 85 01 85
+Lena_Olin 02 161 02 161
+Taylor_Twellman 02 515 01 173
+Philippe_Noiret 01 54 01 54
+Ben_Lee 02 53 01 67
+Valentina_Cervi 01 120 02 161
+David_Caruso 01 57 03 85
+James_Traficant 01 57 01 57
+Nelson_Acosta 01 49 02 50
+Tammy_Lynn_Michaels 01 127 02 197
+David_Caruso 04 51 01 57
+Salman_Rushdie 01 101 01 101
+Harald_Ringstorff 02 48 01 193
+Harvey_Fierstein 02 80 01 57
+Gennifer_Flowers 02 86 02 86
+Will_Ferrell 02 89 02 89
+Katharine_Hepburn 01 101 03 49
+Valerie_Harper 05 73 05 73
+Kim_Clijsters 01 67 Lima_Azimi 01 79
+Marc_Racicot 01 229 Franco_Frattini 01 585
+Camille_Colvin 01 131 Bertie_Ahern 01 65
+Geno_Auriemma 02 73 Larry_Pleau 01 313
+Ian_Gillan 01 625 Ernest_Hollings 03 57
+Evo_Morales 01 58 Jacky_Cheung 02 66
+Jaromir_Jagr 01 69 Leticia_Van_de_Putte 03 257
+Paul_Gascoigne 01 53 Chita_Rivera 01 57
+Lin_Yi-fu 01 61 William_Shatner 02 179
+Katja_Riemann 01 105 Dan_Guerrero 01 50
+Itzhak_Perlman 02 241 Gael_Garcia_Bermal 01 49
+Uma_Thurman 01 89 Lionel_Richie 03 48
+Abdullah_Gul 02 61 Elizabeth_Berkeley 04 66
+Cecile_de_France 01 180 Edward_Lu 01 145
+Chris_Bell 01 213 Carmen_Electra 01 94
+Christine_Gregoire 01 53 Lisa_Stansfield 01 65
+Eriko_Tamura 01 193 Vanessa_Laine 01 53
+Matt_Damon 01 241 Chris_Columbus 01 94
+Hans_Eichel 01 223 BJ_Habibie 01 149
+Nestor_Gonzalez 01 305 Lena_Katina 02 78
+Randall_Terry 02 237 02 237
+Queen_Noor 01 136 01 136
+Marc_Anthony 02 107 02 107
+Nicolas_Eyzaguirre 01 1337 03 131
+Inam-ul-Haq 03 82 03 82
+Eliza_Dushku 02 65 01 49
+James_Murdoch 01 52 01 52
+Warren_Buffett 02 653 01 81
+James_Comey 01 121 03 697
+Priscilla_Presley 02 161 01 183
+Alan_Ball 03 432 03 432
+Leuris_Pupo 01 69 02 49
+Jack_Osbourne 02 53 02 53
+Janusz_Kaminski 01 98 01 98
+Daniela_Cicarelli 01 69 01 69
+Linda_Mason 02 334 02 334
+Tim_Pawlenty 03 85 04 209
+Laura_Bozzo 02 77 03 53
+Edward_Burns 02 99 04 65
+Alfred_Sant 01 247 01 247
+Clare_Short 02 93 Collis_Temple_III 02 89
+Alan_Dershowitz 01 119 Carroll_Weimer 01 81
+William_Morrow 01 69 Pauley_Perrette 04 66
+Viara_Vike-Freiberga 01 433 Phan_Van_Khai 01 91
+Marcos_Milinkovic 01 77 Ralph_Friedgen 01 165
+Candice_Bergen 01 97 William_McDonough 04 76
+Andrew_Firestone 01 49 Christian_Olsson 01 53
+Lucia_Kenny_Anthony 04 109 Alvaro_Noboa 01 67
+Philippe_Noiret 03 53 Erskine_Bowles 02 59
+Nicolas_Massu 01 54 Carlo_Azeglio_Ciampi 01 592
+George_Blaney 01 135 Pat_Summitt 02 301
+Eduard_Shevardnadze 02 49 Lisa_Murkowski 01 581
+Vicente_Fernandez 02 65 Sananda_Maitreya 01 56
+Tom_Gamboa 01 169 Peter_Goldmark 01 974
+Nick_Rimando 03 73 Lionel_Chalmers 01 69
+Itzhak_Perlman 02 241 Alvaro_Uribe 01 551
+Christopher_Amolsch 03 54 Chanda_Rubin 02 49
+Alex_King 01 650 Harvey_Weinstein 01 75
+Emile_Lahoud 03 77 Hama_Arba_Diallo 01 236
+Thomas_Mesereau_Jr 01 169 Jamir_Miller 01 113
+Nick_Markakis 01 65 01 65
+Paul_Byrd 01 54 02 66
+Alexander_Downer 03 97 02 104
+Phil_Donahue 04 66 03 70
+Elaine_Chao 01 251 02 1981
+Wesley_Clark 01 57 04 67
+Francis_Ford_Coppola 02 94 02 94
+Yossi_Beilin 02 409 01 145
+Caroline_Link 02 201 02 201
+Edward_Said 02 57 02 57
+James_Caan 02 65 02 65
+Emily_Mortimer 02 50 02 50
+Katharine_Hepburn 03 49 02 114
+Caroline_Link 02 201 02 201
+Valerie_Harper 02 73 05 73
+Lewis_Booth 02 893 02 893
+Gerald_Ford 02 65 01 65
+Eduardo_Duhalde 02 61 02 61
+Otto_Reich 02 61 04 766
+Zhong_Nanshan 03 109 01 61
+Mack_Brown 02 114 Nikolay_Davydenko 01 65
+Jackie_Chan 02 49 Flavia_Pennetta 01 109
+Franco_Frattini 01 585 David_Carradine 01 73
+Kate_Winslet 03 1051 Nathalie_Baye 02 49
+Damon_Stoudamire 02 153 Leonard_Hamilton 01 49
+Filip_De_Winter 03 317 Leszek_Miller 01 337
+Fred_Durst 01 517 Tina_Fey 01 54
+Francesco_Totti 01 61 Janice_Abreu 01 65
+Phil_McGraw 02 92 Emily_Mortimer 02 50
+Daniell_Sunjata 01 354 Alfredo_di_Stefano 01 55
+Ibrahim_Al-Marashi 02 243 Eriko_Tamura 01 193
+Janusz_Kaminski 03 69 William_Shatner 01 113
+Peter_Goldmark 03 61 Chris_Cornell 02 64
+Alyson_Hannigan 01 137 James_Lockhart 01 58
+Barry_Zito 01 65 Wu_Peng 01 241
+Elena_de_Chavez 01 226 Daniel_Radcliffe 02 63
+Terry_Lynn_Barton 01 185 Bernice_Wong 02 206
+Rocco_Buttiglione 03 88 Kathryn_Bigelow 01 428
+Tiago_Splitter 01 93 Paula_Locke 01 86
+Tom_Curley 01 166 Paola_Espinoza 02 125
+Ciro_Gomes 02 57 03 73
+Lorraine_Bracco 02 100 02 100
+Katharine_Hepburn 02 114 03 49
+Chris_Cirino 01 97 02 77
+Marieta_Chrousala 02 61 01 181
+Kyle_Shewfelt 01 63 03 161
+Darrell_Issa 03 1324 03 1324
+Alejandro_Gonzalez_Inarritu 02 100 02 100
+Ed_Smart 02 78 02 78
+Marc_Shaiman 01 153 01 153
+Alexandra_Pelosi 02 55 01 166
+Franz_Muentefering 02 125 02 125
+Adrianna_Zuzic 01 70 02 173
+Paul_Schrader 04 221 02 274
+Kostya_Tszyu 01 69 02 109
+Ham_Pong-sil 01 68 01 68
+Daisy_Fuentes 02 917 03 97
+Frank_Solich 03 53 02 95
+James_McPherson 03 208 02 110
+Leszek_Miller 03 65 01 337
+Natasa_Micic 01 145 George_Tenet 01 77
+William_Pryor_Jr 01 57 Alma_Powell 02 54
+Mahmoud_Al_Zhar 01 79 Karen_Lynn_Gorney 02 49
+Gary_Carter 01 70 Clive_Lloyd 01 218
+Yolanda_King 01 55 James_Brown 01 51
+Orrin_Hatch 01 429 Elizabeth_Berkeley 01 157
+Alex_Cejka 01 307 Phil_Bredesen 01 257
+Tom_Osborne 03 161 Samira_Makhmalbaf 01 83
+Alex_Zanardi 01 66 Ralph_Fiennes 01 69
+David_Caruso 01 57 Biljana_Plavsic 01 309
+Felipe_De_Borbon 01 1581 Ludivine_Sagnier 03 101
+Thomas_Mesereau_Jr 01 169 Andy_Garcia 01 77
+Collis_Temple_III 02 89 Wolfgang_Becker 01 342
+Terry_Semel 01 63 Nikki_McKibbin 03 73
+Ali_Abbas 03 49 Elizabeth_Hill 02 57
+Bashar_Assad 01 57 Queen_Elizabeth_II 01 54
+Peter_Lundgren 02 105 Paul_Hogan 01 65
+Peter_Arnett 01 373 Vince_Dooley 01 101
+Kemal_Dervis 03 261 Ximena_Bohorquez 01 55
+Mary_Sue_Coleman 01 107 Ximena_Bohorquez 01 55
+Eliza_Dushku 04 61 04 61
+Sarah_Hughes 01 80 01 80
+Al_Pacino 01 105 02 49
+Pupi_Avati 02 65 01 69
+Leszek_Miller 02 61 03 65
+Kristy_Curry 02 452 03 153
+Elizabeth_Hill 02 57 01 245
+Angela_Lansbury 02 274 01 77
+Elaine_Stritch 01 156 03 97
+Mark_Geragos 02 77 01 421
+Ciaran_Hinds 02 193 02 193
+Lucio_Stanca 05 292 02 103
+Christopher_Reeve 03 66 02 58
+Christopher_Reeve 01 78 01 78
+Yossi_Beilin 02 409 02 409
+Kofi_Annan 01 1925 01 1925
+Patricia_Clarkson 01 125 02 94
+Pete_Carroll 01 57 01 57
+Ahmed_Ahmed 02 95 03 73
+Tariq_Aziz 02 133 02 133
+Harvey_Fierstein 03 134 Habib_Hisham 01 74
+Porter_Goss 01 57 Peter_Fitzgerald 01 738
+Woody_Allen 01 49 Tara_Reid 01 50
+Al_Sharpton 01 743 Peter_OToole 03 61
+Patricia_Hearst 01 245 Andrea_De_Cruz 01 93
+George_Ryan 01 333 Dany_Heatley 01 70
+Cristina_Kirchner 02 166 Nancy_Kerrigan 02 65
+Lincoln_Chafee 02 171 Chris_Matthews 01 121
+Kirk_Ferentz 03 145 Hamid_Reza_Asefi 01 69
+Nathan_Lane 03 49 Lima_Azimi 01 79
+Clark_Randt 02 125 Adel_Al-Jubeir 01 469
+Christopher_Walken 04 1845 Jan_Peter_Balkenende 05 113
+Aaron_Tippin 02 119 Dave_Barr 01 285
+Scott_Blum 01 89 Hassan_Nasrallah 02 188
+Franz_Beckenbauer 01 49 Evan_Rachel_Wood 01 101
+Claudia_Pechstein 01 93 Alex_Zanardi 01 66
+Fernando_Sanz 02 52 Ken_Watanabe 02 81
+James_Robertson_Jr 01 141 Charles_Schumer 03 449
+Han_Sung_Joo 01 579 Tirunesh_Dibaba 01 57
+Ahmed_Qureia 01 83 Danny_Ainge 01 48
+Marisa_Tomei 01 177 03 121
+JK_Rowling 03 73 01 189
+Nona_Gaye 01 49 03 49
+Manuel_Pellegrini 03 103 03 103
+Randy_Ferbey 01 71 01 71
+Cristina_Fernandez 03 74 03 74
+Bernice_Wong 02 206 02 206
+Gary_Carter 01 70 02 297
+Paul-Henri_Mathieu 02 151 01 89
+Piers_Sellers 01 65 01 65
+George_Lopez 01 57 02 100
+Ali_Abbas 01 65 02 61
+Pilar_Montenegro 04 49 01 49
+Lance_Bass 01 57 02 61
+Charlotte_Rampling 03 261 04 200
+Linda_Dano 05 106 02 85
+Nina_Jacobson 03 53 01 52
+Jake_Gyllenhaal 03 73 03 73
+Leland_Chapman 02 84 02 84
+Condoleezza_Rice 02 1454 01 205
+Liam_Neeson 01 61 Karen_Lynn_Gorney 01 53
+Gary_Forsee 01 189 Aidan_Quinn 04 87
+Luiz_Felipe_Scolari 01 297 Chris_Columbus 01 94
+Ahmed_Ahmed 03 73 Richard_Branson 01 63
+Owen_Wilson 01 50 Nick_Reilly 02 57
+Ben_Howland 01 173 Akiko_Morigami 02 53
+Paul_Patton 01 641 Ciro_Gomes 02 57
+Kelly_Ripa 01 52 Kevin_Keegan 01 54
+James_McGreevey 01 89 Larry_Hagman 01 77
+Malcolm_Jamal_Warner 01 49 Terry_McAuliffe 01 51
+Vicente_Fernandez 01 169 Albert_Brooks 03 75
+Alec_Baldwin 02 50 Alan_Dershowitz 01 119
+Tino_Martinez 01 313 Kenneth_Branagh 01 149
+Ivan_Shvedoff 01 53 Sasha_Cohen 03 53
+Christopher_Amolsch 01 941 Paul_Tracy 01 145
+Al_Davis 02 532 Kim_Gandy 01 117
+Kofi_Annan 02 177 Saddam_Hussein 02 221
+Tom_Lantos 01 113 Nabil_Shaath 01 76
+Elizabeth_Pena 01 69 Fred_Eckhard 05 117
+Lela_Rochon 01 145 Robert_Nardelli 02 49
+Anjum_Hussain 02 71 02 71
+Ciaran_Hinds 02 193 01 69
+Randall_Terry 01 160 02 237
+George_Plimpton 01 57 02 109
+Teresa_Heinz_Kerry 02 49 01 130
+Oscar_Elias_Biscet 02 65 02 65
+Sally_Ride 03 73 03 73
+Elaine_Chao 04 121 02 1981
+Amy_Redford 01 211 03 61
+Sally_Field 02 56 01 66
+Katja_Riemann 01 105 01 105
+Vincent_Gallo 01 389 01 389
+Courtney_Cox 03 61 02 59
+BB_King 02 65 02 65
+Rafidah_Aziz 01 82 02 53
+Jackie_Chan 01 49 01 49
+Eric_Shinseki 01 79 03 49
+George_Galloway 04 61 01 223
+Edward_Albee 03 121 01 87
+Jack_Welch 03 197 02 106
+Carlos_Vives 01 66 Ben_Curtis 02 169
+Zalmay_Khalilzad 01 53 Chris_Klein 01 101
+Gabriella_Bo 03 86 Abdoulaye_Wade 02 50
+Lynn_Abraham 01 73 Kenenisa_Bekele 01 137
+Candice_Bergen 01 97 Linda_Dano 04 53
+Kieran_Culkin 02 125 Alexa_Vega 01 540
+James_Meeks 03 153 Ted_Nolan 03 61
+Darren_Clarke 01 53 Robert_F_Kennedy_Jr 03 669
+Martin_Luther_King_III 01 250 Carolina_Barco 01 101
+Zarai_Toledo 01 65 Madonna 01 49
+Thor_Pedersen 01 82 Paul_Tracy 01 145
+Luciano_Pavarotti 01 58 Jane_Pauley 01 49
+Ellen_MacArthur 01 169 Elvis_Stojko 01 97
+Marquier_Montano_Contreras 02 1001 Geraldo_Rivera 02 49
+Laura_Marlow 01 157 Christine_Arron 01 55
+Leticia_Van_de_Putte 01 74 Recep_Tayyip_Erdogan 03 65
+Kelsey_Grammer 01 89 Piotr_Anderszewski 02 133
+Eli_Rosenbaum 01 93 Darrell_Issa 03 1324
+Enrique_Bolanos 01 145 Mariah_Carey 01 65
+Raza_Rabbani 03 113 Ted_Nolan 03 61
+Sasha_Cohen 03 53 01 85
+Natalia_Verbeke 01 334 02 288
+Janis_Ruth_Coulter 01 288 01 288
+Biljana_Plavsic 01 309 03 690
+Geoff_Hoon 02 73 01 152
+Felix_Sanchez 01 53 01 53
+Phil_Gramm 02 73 02 73
+Paul_Farley 01 70 02 68
+Paul_Sarbanes 02 259 01 77
+Katja_Riemann 02 57 01 105
+Phan_Van_Khai 01 91 03 122
+Mark_Wahlberg 01 60 01 60
+Rita_Wilson 02 132 01 89
+Fernando_Henrique_Cardoso 02 49 01 545
+Imelda_Marcos 01 53 02 89
+James_Brazelton 01 101 02 57
+Kelsey_Grammer 02 77 01 89
+Narendra_Modi 05 117 02 73
+Chris_Dodd 01 247 01 247
+Laura_Linney 02 61 01 54
+Larry_Lucchino 01 101 Lucio_Stanca 02 103
+Yasushi_Akashi 01 85 Chen_Kaige 01 57
+Leticia_Dolera 03 112 Mark_Cuban 02 695
+Tara_VanDerveer 03 419 Adisai_Bodharamik 01 282
+Daniel_Scioli 02 73 Walter_Mondale 02 91
+Kathryn_Bigelow 01 428 Vanessa_Laine 01 53
+Lou_Lang 04 275 Andy_Rooney 01 380
+Al_Gore 03 67 Cristina_Kirchner 01 50
+Bela_Karolyi 01 93 Nicoletta_Braschi 01 109
+Ciaran_Hinds 01 69 Charlie_Hunnam 01 60
+Robert_Ehrlich 02 57 Ted_Nolan 03 61
+Tim_Curry 01 130 Leuris_Pupo 01 69
+Andrew_Firestone 01 49 Abdulaziz_Kamilov 01 172
+Queen_Elizabeth_II 01 54 Daniela_Cicarelli 01 69
+Sarah_Jessica_Parker 01 209 Chris_Penn 01 201
+Luke_Walton 01 109 Sandra_Milo 02 737
+Marina_Silva 04 173 Liu_Mingkang 01 67
+Elena_Bereznaya 01 131 Mark_Dacey 02 77
+Emmit_Smith 01 165 Norm_Coleman 01 49
+Lou_Lang 02 48 Alejandro_Gonzalez_Inarritu 01 61
+Ben_Broussard 02 61 01 53
+Edgar_Savisaar 02 433 02 433
+Claire_Danes 03 133 03 133
+Uday_Hussein 01 221 01 221
+Eliza_Dushku 02 65 04 61
+Amy_Yasbeck 03 100 03 100
+Al_Gore 03 67 01 80
+Natasa_Micic 01 145 01 145
+Thaksin_Shinawatra 01 200 01 200
+Barbara_Boxer 02 107 03 86
+Lena_Katina 01 137 02 78
+Nanni_Moretti 03 89 02 64
+Ingrid_Betancourt 02 93 01 154
+Wes_Craven 01 69 02 346
+Ben_Lee 01 67 02 53
+Mario_Lobo_Zagallo 01 53 02 497
+Jane_Fonda 02 53 01 93
+Imam_Samudra 01 59 01 59
+Whoopi_Goldberg 03 60 03 60
+Earl_Scruggs 02 182 02 182
+Raoul_Ruiz 01 897 Adisai_Bodharamik 01 282
+Christopher_Patten 01 180 Brian_Billick 01 51
+Craig_MacTavish 01 84 Franco_Dragone 03 161
+Rob_Marshall 01 330 Adrianna_Zuzic 02 173
+Robert_Altman 02 442 Penelope_Cruz 02 165
+Kit_Bond 04 81 Lisa_Murkowski 01 581
+Zhong_Nanshan 02 621 Noel_Niell 01 89
+Clara_Harris 01 69 Courtney_Love 02 134
+Tom_Lantos 01 113 James_Phelps 01 78
+Pauley_Perrette 04 66 Larry_Wilmore 02 61
+Dave_Barr 01 285 Nathan_Lane 01 49
+Krishna_Bhadur_Mahara 05 51 Ingrid_Betancourt 01 154
+Bashar_Assad 01 57 Linus_Roache 01 93
+Gary_Stevens 01 173 Barbara_Becker 01 53
+Eva_Herzigova 01 137 Matt_Damon 01 241
+Vanessa_Laine 01 53 Harald_Ringstorff 01 193
+Catherine_Deneuve 01 75 Charles_Grassley 02 52
+Mario_Lobo_Zagallo 02 497 Pedro_Duque 02 69
+Ralph_Friedgen 02 59 Massoud_Barzani 01 118
+Clara_Harris 01 69 George_HW_Bush 02 64
+Paul_Schrader 02 274 01 145
+Lee_Byung-woong 01 55 02 82
+Estelle_Morris 03 74 02 129
+James_Wattana 02 105 01 129
+Ornella_Muti 01 58 02 85
+Andrew_Cuomo 01 69 02 51
+Paul_Gascoigne 02 129 02 129
+Larry_Ellison 02 94 02 94
+Vladimiro_Montesinos 02 81 01 281
+Tabare_Vazquez 03 69 02 129
+Chris_Rock 02 65 01 66
+Lee_Baca 02 53 02 53
+Paul_Henderson 01 133 02 113
+Elva_Hsiao 02 51 01 81
+Louis_Van_Gaal 02 49 01 445
+Abel_Pacheco 03 52 01 179
+Terry_Bradshaw 01 149 02 57
+Barbara_Bodine 03 200 02 94
+Olene_Walker 02 54 01 205
+Alexander_Lukashenko 02 75 01 125
+Carson_Daly 02 343 Frank_Keating 01 765
+Robert_Altman 01 53 Valentina_Tereshkova 01 433
+Lucio_Stanca 03 201 George_Foreman 01 109
+Olivia_Newton-John 02 138 Rick_Perry 01 409
+Barry_Alvarez 02 69 Cabas 01 65
+Yuvraj_Singh 01 79 Carolina_Kluft 01 51
+Tessa_Jowell 05 154 Dave_Matthews 03 105
+Ted_Williams 01 129 Prince_Charles 02 63
+Alain_Ducasse 01 179 Lennart_Johansson 01 95
+Uday_Hussein 01 221 Nathalie_Baye 01 153
+Nestor_Kirchner 01 125 Bartosz_Kizierowski 01 134
+Irene_Kahn 02 96 Gene_Hackman 02 181
+Harrison_Ford 02 61 Hamid_Karzai 01 54
+Terry_Lynn_Barton 01 185 Sandra_Milo 02 737
+Gennifer_Flowers 01 57 Rocco_Buttiglione 05 52
+Ernie_Fletcher 02 107 Thomas_OBrien 01 55
+Natalia_Verbeke 01 334 Lauren_Hutton 02 153
+Barbara_Walters 01 61 Abba_Eban 02 49
+Alejandro_Gonzalez_Inarritu 03 70 Christopher_Patten 01 180
+Erskine_Bowles 01 93 Robert_Blackwill 01 55
+Phan_Van_Khai 03 122 02 300
+Pier_Ferdinando_Casini 01 106 01 106
+Karin_Viard 02 85 02 85
+Bartosz_Kizierowski 01 134 01 134
+Jaouad_Gharib 02 549 01 61
+Alicia_Silverstone 01 69 03 49
+Lenny_Wilkens 01 49 02 53
+Jan_Peter_Balkenende 03 82 04 119
+Vicente_Fernandez 01 169 02 65
+Lionel_Richie 03 48 01 157
+Courtney_Love 02 134 01 57
+Natalie_Stewart 01 123 01 123
+Bela_Karolyi 02 57 02 57
+Lee_Baca 01 121 02 53
+Barry_Diller 04 199 04 199
+Robbie_Coltrane 03 197 05 261
+Tom_Coughlin 03 49 01 107
+Cindy_Taylor 02 51 01 393
+Ali_Fallahian 01 217 01 217
+Alberto_Gonzales 01 340 01 340
+Linda_Dano 01 48 Barbara_Becker 01 53
+Kim_Gandy 05 61 Tommy_Amaker 02 61
+Li_Changchun 01 77 Jake_Gyllenhaal 01 117
+Yogi_Berra 01 129 Terry_Lynn_Barton 01 185
+Inam-ul-Haq 03 82 Tom_Hanks 02 81
+Carlo_Azeglio_Ciampi 03 49 Thomas_Mesereau_Jr 01 169
+Otto_Schily 02 912 Pilar_Montenegro 02 49
+Paul_Farley 01 70 Leszek_Miller 01 337
+Cindy_Crawford 01 53 Val_Ackerman 01 173
+Woody_Allen 01 49 Ahmed_Ahmed 01 233
+Elton_John 02 53 Abdel_Aziz_Al-Hakim 02 285
+Nawabzada_Nasrullah_Khan 02 137 Paul_Walker 01 129
+Tom_DeLay 01 65 Bertrand_Delanoe 02 133
+Gennifer_Flowers 01 57 Edward_Said 02 57
+Geoffrey_Davis 01 109 Lew_Rywin 01 53
+Emilio_Botin 02 509 Ellen_Engleman 01 53
+Idi_Amin 02 53 Larry_Ellison 01 290
+Nicolas_Massu 01 54 Karen_Lynn_Gorney 02 49
+Laura_Elena_Harring 02 157 Dan_Reeves 02 2017
+James_Robertson_Jr 01 141 Andrew_Wetzler 02 221
+Lisa_Ling 01 138 03 54
+Richard_Lugar 01 105 01 105
+Biljana_Plavsic 02 121 03 690
+Katalin_Kollat 02 129 02 129
+George_Clooney 02 58 02 58
+Akmal_Taher 01 138 01 138
+James_Murdoch 02 49 01 52
+Andrew_Bernard 02 81 05 141
+Carlos_Ghosn 01 83 01 83
+Jan_Ullrich 02 117 01 58
+Alicia_Witt 02 57 01 75
+Florecita_Cobian 02 63 01 142
+Marc_Anthony 02 107 03 59
+Paul_Kagame 01 57 01 57
+Isabelle_Huppert 01 253 03 420
+Mario_Kreutzberger 03 122 03 122
+Louisa_Baileche 01 73 01 73
+Bartosz_Kizierowski 01 134 01 134
+Sarah_Wynter 02 73 01 69
+Andrea_Bocelli 01 85 02 313
+Lin_Yung_Hsi 01 57 Dave_Barr 01 285
+Mark_Leno 01 1597 Claudia_Cardinale 01 48
+Peter_Fitzgerald 01 738 Saparmurat_Niyazov 01 54
+Pierre_Gagnon 01 88 Sally_Ride 01 59
+Peter_Arnett 01 373 David_Brinkley 01 125
+Sarah_Weddington 02 77 Janet_Napolitano 01 225
+Chick_Hearn 01 114 Tim_Pawlenty 01 269
+Mack_Brown 01 65 Chris_Tucker 03 49
+Alvaro_Silva_Calderon 04 53 Saparmurat_Niyazov 02 49
+Alfonso_Cuaron 02 50 Peri_Gilpin 01 117
+William_Shatner 01 113 Christian_Wulff 01 198
+Manuel_Llorente 02 481 David_Blaine 02 138
+Angela_Mascia-Frye 01 144 Chok_Tong_Goh 01 98
+Chris_Penn 01 201 Kristin_Scott 03 62
+Cheryl_Ford 01 96 Natalia_Vodonova 03 49
+Lubomir_Zaoralek 03 1925 Larry_Johnson 01 48
+Jason_Campbell 01 119 Ingrid_Betancourt 02 93
+Christine_Todd_Whitman 01 89 Barbara_Brezigar 05 761
+Ted_Turner 03 173 Baburam_Bhattari 01 813
+Zavad_Zarif 01 601 Oliver_Phelps 01 246
+Baburam_Bhattari 03 97 02 53
+Amelia_Vega 02 53 01 53
+George_Karl 01 117 01 117
+Narendra_Modi 03 454 04 97
+Richard_Paul_Evans 03 82 02 97
+Chuck_Hagel 01 53 03 105
+Kristen_Breitweiser 02 165 02 165
+Oscar_Elias_Biscet 03 89 02 65
+Albert_Brooks 02 73 03 75
+Zhu_Rongji 01 52 02 242
+Mary_Robinson 04 158 01 51
+Regina_Ip 02 262 01 81
+Alejandro_Toledo 01 154 03 119
+Nadine_Vinzens 01 49 01 49
+Makhdoom_Amin_Fahim 01 144 01 144
+Nanni_Moretti 01 177 01 177
+Cemil_Cicek 03 368 02 65
+George_W_Bush 05 69 02 57
+Linda_Franklin 02 1837 03 265
+James_Brazelton 02 57 02 57
+Akiko_Morigami 01 51 Franklin_Brown 03 117
+Dan_Monson 02 225 Fred_Durst 01 517
+Wolfgang_Clement 02 49 Brian_Clemens 02 73
+Connie_Chung 04 657 Manuel_Poggiali 01 277
+Bernice_Wong 02 206 Erin_Runnion 01 225
+Felipe_De_Borbon 02 813 David_Caruso 03 85
+Charley_Armey 01 710 Lew_Rywin 01 53
+Daniel_Day-Lewis 02 58 Peter_Holmberg 01 101
+Garry_Kasparov 02 465 Newt_Gingrich 05 177
+Geraldo_Rivera 02 49 Pilar_Montenegro 04 49
+Janis_Ruth_Coulter 02 179 Rick_Caruso 02 69
+Eva_Amurri 01 50 Chanda_Rubin 01 749
+Karen_Lynn_Gorney 01 53 Conchita_Martinez 01 74
+Alma_Powell 02 54 Kweisi_Mfume 04 157
+Ben_Kingsley 01 90 Richard_Rodriguez 02 117
+Kit_Bond 02 117 Lena_Katina 01 137
+Liv_Tyler 02 77 Valeri_Bure 01 61
+Xanana_Gusmao 02 97 Vladimir_Putin 01 545
+Terry_Hoeppner 01 1309 Takeshi_Kitano 01 65
+Viara_Vike-Freiberga 02 337 Carrie-Anne_Moss 03 84
+Nicolas_Sarkozy 02 65 04 329
+Piers_Sellers 01 65 01 65
+Paul_Wolfowitz 01 65 03 209
+Jake_Plummer 03 118 02 89
+Robert_Altman 01 53 03 110
+Edward_Seaga 03 54 02 393
+Mahathir_Mohamad 01 319 02 287
+Caroline_Dhavernas 01 165 01 165
+Christine_Gregoire 02 133 02 133
+Eli_Broad 02 1067 02 1067
+Carlo_Azeglio_Ciampi 02 619 03 49
+Bill_Belichick 02 910 01 156
+Peter_OToole 01 85 01 85
+Taylor_Twellman 02 515 01 173
+Prince_Naruhito 01 87 01 87
+Fatmir_Limaj 01 321 01 321
+Laurent_Woulzy 01 65 02 49
+Wen_Jiabao 02 74 02 74
+Al_Gore 01 80 03 67
+Terry_McAuliffe 01 51 02 125
+Yogi_Berra 01 129 Odai_Hussein 01 81
+Edwina_Currie 02 85 Colin_Jackson 02 49
+Lester_Holt 02 73 James_Wolfensohn 04 749
+Felix_Sanchez 02 61 Chita_Rivera 01 57
+Richard_Rodriguez 04 97 Kristen_Breitweiser 02 165
+Nia_Vardalos 01 125 Angela_Bassett 02 141
+Richard_Harris 01 161 Chris_Klein 01 101
+Gary_Coleman 01 89 Rick_Perry 01 409
+Martin_Luther_King_III 03 125 Valentino_Rossi 01 378
+Wesley_Clark 02 53 Natalie_Maines 02 99
+Alma_Powell 04 54 Pedro_Solbes 01 128
+Kevin_Borseth 01 105 Beatriz_Merino 01 233
+James_Sensenbrenner 01 62 Terry_Semel 01 63
+Paul_Tracy 01 145 Odai_Hussein 01 81
+Dale_Earnhardt_Jr 02 93 Einars_Repse 01 105
+Jake_Gyllenhaal 01 117 Nancy_Demme 01 141
+Yukio_Hatoyama 01 1517 Lisa_Ling 02 81
+Biljana_Plavsic 02 121 Chanda_Rubin 02 49
+Cabas 01 65 Maggie_Smith 01 65
+Begum_Khaleda_Zia 01 581 Idi_Amin 02 53
+Jack_Valenti 02 66 01 61
+Alberto_Ruiz_Gallardon 01 74 02 197
+Frank_Keating 02 85 03 67
+Tom_Smothers 02 49 02 49
+Mark_Cuban 01 265 02 695
+Saddam_Hussein 02 221 03 65
+Courtney_Love 01 57 02 134
+Bernadette_Peters 02 125 01 235
+Akmal_Taher 01 138 01 138
+Bela_Karolyi 02 57 01 93
+James_Comey 02 62 03 697
+Andrea_Bocelli 01 85 03 53
+Barry_Alvarez 02 69 01 66
+Sandra_Day_OConner 01 235 01 235
+Ally_Sheedy 01 73 01 73
+Elena_Dementieva 02 53 02 53
+Natalie_Maines 02 99 01 69
+Barbara_Walters 01 61 01 61
+Dany_Heatley 01 70 02 77
+Daniel_Barenboim 02 69 01 57
+Pio_Laghi 02 108 Tim_Matheson 02 77
+Claude_Jorda 01 435 Tom_Ridge 01 97
+Geraldo_Rivera 03 77 Phil_Bredesen 02 93
+BJ_Habibie 01 149 Linda_Franklin 02 1837
+Connie_Chung 03 101 Ray_Nagin 01 77
+Jalal_Talabani 01 313 Bill_Cartwright 01 49
+Jack_Welch 02 106 Peter_Caruana 01 57
+Wolfgang_Clement 02 49 Larry_Pleau 01 313
+Padraig_Harrington 01 49 Franz_Fischler 04 97
+Gary_Coleman 01 89 Marina_Anissina 01 93
+Eva_Amurri 02 61 Robin_Wagner 01 81
+Peter_Greenaway 02 53 Alexis_Dennisoff 02 184
+Thomas_OBrien 01 55 Magui_Serna 01 277
+Yu_Shyi-kun 01 85 Tirunesh_Dibaba 02 73
+Adrian_Fernandez 01 63 Dale_Earnhardt_Jr 02 93
+Cristina_Kirchner 02 166 James_Watt 01 61
+Nicolas_Massu 01 54 Colin_Montgomerie 01 181
+Alastair_Campbell 01 78 Gabi_Zimmer 03 89
+Liam_Neeson 01 61 Ivan_Helguera 01 237
+Porter_Goss 01 57 Ben_Broussard 01 53
+Thaksin_Shinawatra 02 249 01 200
+Emma_Watson 01 118 01 118
+Newt_Gingrich 04 229 03 49
+Richard_Rodriguez 02 117 03 337
+King_Abdullah_II 02 113 02 113
+Takeo_Hiranuma 02 297 01 93
+Pedro_Solbes 03 261 01 128
+Vicki_Zhao_Wei 02 156 01 85
+Odai_Hussein 01 81 01 81
+Chita_Rivera 03 61 02 49
+Pierre_Png 02 50 02 50
+Maria_Wetterstrand 01 1749 01 1749
+Princess_Anne 02 385 02 385
+Randall_Terry 01 160 01 160
+Baburam_Bhattari 04 1616 04 1616
+Conrad_Black 01 207 02 385
+Ian_Gillan 01 625 02 110
+Kelsey_Grammer 01 89 02 77
+Jan_Bjoerklund 02 65 03 109
+Pierre_Pettigrew 01 249 01 249
+Tim_Curley 01 330 Piers_Sellers 02 309
+Barbara_Bodine 04 490 Lisa_Leslie 02 193
+Maria_Wetterstrand 01 1749 George_P_Bush 01 106
+Luiz_Felipe_Scolari 01 297 Fernando_Valenzuela 02 156
+Paradorn_Srichaphan 01 133 Maggie_Smith 02 62
+Tim_Robbins 01 162 Richard_Paul_Evans 02 97
+Compay_Segundo 01 63 David_Canary 01 74
+Caroline_Dhavernas 02 184 Carson_Daly 02 343
+Peter_Max 01 64 Luis_Ernesto_Derbez_Bautista 02 123
+Mahathir_Mohamad 01 319 Casy_Preslar 01 64
+Ellen_Saracini 01 133 Chris_Noth 01 101
+Estelle_Morris 03 74 Alanna_Ubach 01 52
+Sasha_Cohen 03 53 Na_Na_Keum 01 57
+Sandra_Bullock 02 197 Celine_Dion 02 78
+Terry_Hoeppner 01 1309 Richard_Haass 02 905
+Valentino_Rossi 01 378 Aaron_Guiel 01 132
+Geoffrey_Davis 01 109 Aidan_Quinn 01 76
+Tian_Zhuang_Zhuang 01 81 Queen_Sofia 01 705
+Pat_Summitt 01 51 GL_Peiris 01 201
+Oswaldo_Paya 01 50 Jack_Valenti 01 61
+Martha_Stewart 02 89 02 89
+Francisco_Garcia 02 80 01 97
+Martin_McGuinness 01 477 02 98
+Pierre_Pettigrew 02 53 02 53
+Fred_Thompson 02 709 02 709
+Lincoln_Chafee 02 171 02 171
+Vojislav_Seselj 02 301 01 360
+Saddam_Hussein 02 221 03 65
+Marc_Bulger 02 69 02 69
+Jan_Bjoerklund 01 1100 01 1100
+Nadine_Vinzens 02 93 02 93
+Al_Pacino 02 49 03 60
+Nancy_Kerrigan 04 87 03 53
+Francis_Collins 01 51 04 197
+Alfredo_Moreno 02 49 01 82
+Manuel_Pellegrini 03 103 03 103
+Paul_Celluci 04 245 05 52
+Robbie_Williams 01 69 02 165
+Mario_Dumont 02 189 01 169
+Eric_Benet 02 142 03 61
+Frank_Caliendo 04 830 Abid_Hamid_Mahmud_Al-Tikriti 01 92
+Rafidah_Aziz 02 53 Gary_Locke 02 117
+Cristina_Fernandez 02 61 Yuvraj_Singh 01 79
+Kevin_Keegan 01 54 Chuanyun_Li 03 209
+Celso_Amorim 01 56 Liu_Mingkang 01 67
+Hama_Arba_Diallo 01 236 Edward_Said 02 57
+Noel_Niell 01 89 Paul_Reiser 04 141
+Natalie_Stewart 02 137 Dave_Matthews 02 49
+Tammy_Lynn_Michaels 02 197 Nikki_McKibbin 01 49
+Craig_MacTavish 01 84 Linda_Dano 01 48
+Habib_Hisham 01 74 Anjum_Hussain 02 71
+Li_Changchun 01 77 Barry_Zito 01 65
+Nikki_Reed 01 69 Lynn_Redgrave 01 49
+Clara_Harris 01 69 Charlize_Theron 03 48
+Hartmut_Mehdorn 01 55 Bill_Clinton 03 48
+Norodom_Chakrapong 01 187 Prince_Harry 02 81
+Princess_Stephanie 04 133 Lucia_Kenny_Anthony 01 53
+Bertrand_Delanoe 01 177 Natalie_Cole 02 77
+Queen_Noor 01 136 Conchita_Martinez 02 57
+Peter_Lundgren 01 73 Sarah_Michelle_Gellar 01 93
+Wolfgang_Clement 02 49 02 49
+Ed_Rendell 01 284 03 235
+Allyson_Felix 01 140 02 57
+Sam_Rockwell 01 103 02 109
+David_Blaine 01 125 01 125
+Mahmoud_Abbas 02 341 01 144
+Amy_Brenneman 01 49 02 81
+Liv_Tyler 02 77 01 57
+Amber_Frey 02 100 01 63
+Oliver_Phelps 01 246 01 246
+Tim_Robbins 02 53 01 162
+Isabella_Rossellini 01 77 04 73
+Liu_Ye 04 157 05 93
+Amanda_Bynes 02 49 01 71
+Tabare_Vazquez 03 69 03 69
+Ester_Canadas 01 99 01 99
+Maria_Callas 01 1161 02 125
+Tom_Izzo 02 97 01 121
+Queen_Rania 01 337 03 84
+James_McPherson 01 406 03 208
+Roger_Suarez 01 85 Manuel_Pellegrini 01 229
+Conan_OBrien 01 53 Ellen_MacArthur 01 169
+Reggie_Miller 01 87 Leonid_Kuchma 01 67
+Hana_Sadiq 02 51 Lee_Byung-woong 02 82
+Pilar_Montenegro 04 49 Brendan_Stai 01 306
+Wolfgang_Schuessel 02 67 Takeo_Hiranuma 02 297
+Robin_McLaurin_Williams 03 153 William_Ford_Jr 02 142
+Colin_Montgomerie 01 181 Osama_bin_Laden 01 1913
+Paul_Walker 01 129 Paul_Sarbanes 01 77
+Ralph_Nader 02 473 Ion_Tiriac 03 55
+Emilio_Azcarraga_Jean 01 777 Oxana_Fedorova 02 53
+Sally_Field 02 56 Alexander_Lukashenko 02 75
+Alfred_Sant 01 247 Crispin_Glover 01 180
+Tom_Amstutz 02 50 Pierre_Png 01 51
+Odai_Hussein 01 81 Natalie_Coughlin 01 65
+Mary_Matalin 02 585 Alastair_Campbell 01 78
+Geno_Auriemma 02 73 Larry_Eustachy 01 1457
+Larry_Donald 01 50 Florecita_Cobian 03 89
+Omar_Sharif 01 50 Ivan_Helguera 02 305
+Saeed_Mortazavi 01 177 Emilio_Azcarraga_Jean 01 777
+Paul_Byrd 01 54 01 54
+Raoul_Ruiz 01 897 01 897
+Cristina_Saralegui 01 405 02 133
+Ellen_Barkin 01 102 02 61
+Keith_Tyson 03 118 02 101
+Manijeh_Hekmat 01 89 01 89
+Zhu_Rongji 02 242 02 242
+Xanana_Gusmao 01 721 01 721
+Oscar_Elias_Biscet 02 65 03 89
+Nathalie_Baye 02 49 02 49
+Edwin_Edwards 02 64 02 64
+Elsa_Zylberstein 02 157 03 113
+Rachel_Hunter 01 61 02 93
+Noah_Wyle 01 79 01 79
+Connie_Chung 04 657 03 101
+Angel_Lockward 01 53 03 73
+Eric_Fehr 02 101 02 101
+Chris_Matthews 02 153 04 197
+Ali_Abbas 03 49 01 65
+Tom_DeLay 02 117 01 65
+Viola_Davis 01 115 Flavia_Pennetta 02 66
+Sally_Ride 03 73 Mariangel_Ruiz_Torrealba 01 209
+Fran_Drescher 03 81 Paul_Walker 01 129
+Martha_Stewart 01 81 Eric_Fehr 02 101
+Naomi_Campbell 01 56 Laura_Schlessinger 01 139
+Lin_Yung_Hsi 01 57 Marc_Shaiman 03 117
+Ian_Wilmut 01 149 Ivana_Trump 02 65
+Gary_Bettman 01 261 Tim_Howard 02 55
+Katharine_Hepburn 02 114 Carey_Lowell 01 136
+Laurent_Woulzy 01 65 Franz_Muentefering 01 69
+Theo_Epstein 01 97 Kieran_Culkin 01 146
+Lee_Tae-sik 01 178 Cindy_Crawford 01 53
+Nikki_McKibbin 01 49 Laurence_Tribe 02 85
+Tommy_Amaker 01 125 Claire_Tomalin 01 197
+Dave_Campo 02 77 Princess_Diana 01 117
+Peter_Struck 02 101 Edward_Said 02 57
+Laura_Linney 02 61 Ted_Maher 01 157
+Clay_Aiken 04 69 Martin_Sheen 03 57
+Beatrice_Dalle 01 62 Danny_Ainge 01 48
+Charles_Tannok 01 69 Wolfgang_Becker 01 342
+Richard_Lugar 02 229 01 105
+David_Carradine 02 173 02 173
+Katja_Riemann 01 105 01 105
+Kostya_Tszyu 01 69 02 109
+Tino_Martinez 01 313 02 117
+Gerald_Ford 01 65 01 65
+George_Blaney 02 564 01 135
+Isabelle_Huppert 03 420 01 253
+Tino_Martinez 01 313 01 313
+Tara_VanDerveer 05 110 05 110
+AJ_Cook 01 194 01 194
+Barbra_Streisand 01 68 03 299
+Jaouad_Gharib 01 61 02 549
+Phil_Gramm 01 61 05 69
+Robert_Schuller 01 65 02 521
+Abdullah_Gul 02 61 01 58
+Caroline_Dhavernas 02 184 02 184
+Patricia_Clarkson 02 94 02 94
+Janusz_Kaminski 01 98 02 69
+Ahmad_Masood 04 144 03 173
+Todd_Parrott 01 361 Ian_Wilmut 01 149
+Christian_Lacroix 01 173 Roberto_Marinho 01 110
+Tara_VanDerveer 03 419 Bernard_Landry 01 89
+Walter_Annenberg 01 210 Emily_Robison 01 69
+Gary_Forsee 01 189 Larenz_Tate 01 85
+Mary_Landrieu 01 65 Alfred_Sant 01 247
+JC_Chasez 01 57 Felicity_Huffman 02 57
+Sarah_Hughes 01 80 Wang_Nan 01 61
+Peter_Struck 01 65 Luciano_Pavarotti 01 58
+Mack_Brown 02 114 William_Delahunt 02 362
+Carlos_Bianchi 02 99 Danny_Glover 01 49
+Martin_Landau 01 125 Al_Sharpton 01 743
+Carroll_Weimer 01 81 Karen_Lynn_Gorney 01 53
+Chris_Matthews 03 249 Paul_Reiser 02 105
+Richard_Daley 01 85 Lynne_Cheney 01 60
+Thomas_Ferguson 03 53 Daniela_Hantuchova 01 85
+Andrew_Bernard 04 57 Bill_Clinton 01 121
+Matt_LeBlanc 02 49 Al_Davis 02 532
+Karen_Lynn_Gorney 01 53 Olympia_Dukakis 01 98
+Gerard_Depardieu 01 77 Itamar_Franco 02 117
+Paul_Greengrass 01 149 01 149
+Wolfgang_Clement 02 49 01 425
+Saied_Hadi_al_Mudarissi 03 117 04 157
+Gaston_Gaudio 02 133 01 77
+Takeo_Hiranuma 03 61 02 297
+Paul_Pierce 01 257 02 73
+Norah_Jones 03 121 04 69
+Krishna_Bhadur_Mahara 03 89 05 51
+Fidel_Castro 02 73 01 53
+Ester_Canadas 01 99 02 247
+Ion_Tiriac 01 233 03 55
+Bartosz_Kizierowski 01 134 02 60
+Flavia_Pennetta 02 66 03 51
+Frank_Stallone 01 57 01 57
+Vladimiro_Montesinos 02 81 02 81
+Alex_Ferguson 01 96 03 49
+Rafidah_Aziz 02 53 02 53
+Gaston_Gaudio 02 133 02 133
+Courtney_Love 01 57 02 134
+Chuck_Amato 02 69 02 69
+Tocker_Pudwill 01 121 Wilma_McNabb 01 49
+Alessandro_Nesta 01 171 Kristin_Chenoweth 03 81
+Andres_DAlessandro 01 91 Tocker_Pudwill 01 121
+Choi_Sung-hong 02 84 Mark_Hanson 01 97
+Lee_Tae-sik 01 178 Alex_King 01 650
+Dale_Earnhardt 01 89 Valeri_Bure 01 61
+Albert_Brooks 03 75 Jan_Bjoerklund 02 65
+Martha_Stewart 01 81 Saparmurat_Niyazov 02 49
+Andres_Pastrana 01 140 Zeljko_Rebraca 01 49
+Tim_Howard 03 49 Eli_Rosenbaum 02 53
+Eriko_Tamura 01 193 Jaap_de_Hoop_Scheffer 01 87
+Beyonce_Knowles 03 65 Gary_Coleman 01 89
+Carlos_Ghosn 05 50 Tina_Fey 01 54
+Dan_Guerrero 01 50 Ray_Nagin 01 77
+Abel_Pacheco 02 104 Abbas_Kiarostami 01 226
+Geoff_Hoon 01 152 Pat_Riley 01 221
+Edward_Norton 04 109 Geoffrey_Rush 02 58
+Edwina_Currie 02 85 Princess_Diana 01 117
+Li_Ka-shing 01 53 Adisai_Bodharamik 01 282
+Paul_Murphy 02 70 Adriana_Perez_Navarro 01 64
+Tian_Liang 01 57 01 57
+Frank_Caliendo 04 830 01 157
+Mark_Leno 01 1597 02 129
+William_Overlin 01 189 01 189
+Richard_Branson 03 180 03 180
+Marcos_Milinkovic 01 77 02 73
+Angela_Bassett 01 88 03 294
+Gary_Marshall 02 1165 01 185
+Akbar_Al_Baker 02 54 01 52
+Natalie_Maines 01 69 01 69
+Lance_Bass 02 61 02 61
+Martin_Landau 02 186 02 186
+Tino_Martinez 02 117 01 313
+Gael_Garcia_Bermal 02 117 01 49
+Caroline_Dhavernas 01 165 01 165
+Sandra_Day_OConner 01 235 02 201
+Larry_Lucchino 02 57 01 101
+Jackie_Sherrill 03 753 01 385
+Kenneth_Reichert 01 70 02 65
+Catriona_Le_May_Doan 01 369 03 258
+Marcelo_Ebrard 01 61 Angela_Mascia-Frye 01 144
+Richard_Rodriguez 04 97 Pierre_Pettigrew 02 53
+Aaron_Eckhart 03 55 Takashi_Yamamoto 01 61
+Felipe_De_Borbon 01 1581 Edward_Seaga 04 702
+Abid_Hamid_Mahmud_Al-Tikriti 01 92 Wu_Peng 01 241
+Randy_Johnson 01 77 Abdullah_Gul 02 61
+Edmund_Hillary 01 85 Gael_Garcia_Bermal 02 117
+Mahmoud_Abbas 01 144 Paul_Murphy 01 103
+Vanessa_Incontrada 01 67 Gary_Forsee 01 189
+Maria_Bello 05 205 Tammy_Lynn_Michaels 01 127
+Lili_Taylor 01 73 Tim_Curley 01 330
+David_Blaine 01 125 Kenenisa_Bekele 01 137
+Kristen_Breitweiser 03 309 Garry_Kasparov 01 133
+Ralph_Friedgen 02 59 Oliver_Phelps 01 246
+Karin_Viard 02 85 Emmanuel_Milingo 02 628
+Yashwant_Sinha 01 104 Hamad_Bin_Jassim 01 88
+William_Macy 01 54 Terry_McAuliffe 01 51
+Gary_Marshall 01 185 Adam_Sandler 02 48
+Gary_Marshall 01 185 Elizabeth_Regan 01 62
+Will_Ferrell 01 217 James_Franco 01 61
+Fran_Drescher 02 61 02 61
+Lucia_Kenny_Anthony 04 109 02 121
+Lincoln_Chafee 02 171 03 825
+Luc_Montagnier 03 937 02 769
+Fred_Eckhard 03 272 05 117
+Terry_Bradshaw 02 57 02 57
+Mary_Matalin 05 167 03 253
+Paula_Prentiss 02 53 02 53
+Prince_Charles 01 85 01 85
+Kemal_Dervis 02 275 03 261
+Christine_Gregoire 01 53 02 133
+Keith_Olbermann 03 785 03 785
+Tara_Reid 02 133 02 133
+Frank_Abagnale_Jr 02 2129 02 2129
+Mahmoud_Abbas 02 341 03 197
+Tariq_Aziz 01 178 02 133
+Barry_Switzer 01 141 01 141
+Alfredo_Moreno 02 49 01 82
+Jalen_Rose 01 49 01 49
+Andy_Rooney 02 92 01 380
+Mark_Wahlberg 02 85 Christian_Gimenez 01 99
+Colin_Campbell 01 110 Laurie_Laychak 01 353
+Tang_Jiaxuan 01 125 Thalia 01 68
+Patrick_Leahy 02 65 Paula_Abdul 01 73
+Jacqueline_Obradors 01 51 Danny_Glover 02 79
+Chuanyun_Li 02 69 BB_King 01 101
+Manuel_Rosendo 02 78 Cecilia_Cheung 01 57
+Jaap_de_Hoop_Scheffer 01 87 Valerie_Harper 04 82
+Martin_Sheen 01 141 Carlos_Iturgaitz 02 214
+Francisco_Garcia 01 97 Terry_Lynn_Barton 01 185
+Clark_Randt 03 145 Pedro_Duque 03 465
+Hartmut_Mehdorn 01 55 Paula_Radcliffe 02 183
+Uma_Thurman 02 49 Marisa_Tomei 02 53
+Gaston_Gaudio 01 77 Angelo_Reyes 01 100
+Rafidah_Aziz 02 53 Eli_Broad 02 1067
+Al_Pacino 02 49 Robert_Altman 03 110
+Leland_Chapman 02 84 Caio_Blat 01 97
+Tim_Allen 02 101 Penelope_Ann_Miller 02 873
+Alison_Lohman 01 85 Lincoln_Chafee 03 825
+Anders_Ebbeson 01 50 Wes_Craven 01 69
+Mario_Gallegos 02 305 02 305
+Mark_Hanson 01 97 02 125
+Vladimir_Spidla 02 1656 01 269
+Corinna_Harfouch 01 61 01 61
+Jane_Krakowski 01 149 03 81
+Lene_Espersen 01 833 01 833
+Sarah_Weddington 02 77 02 77
+Lucy_Liu 01 357 01 357
+Mary_Robinson 01 51 01 51
+Eli_Rosenbaum 01 93 02 53
+James_Caan 01 125 01 125
+Maggie_Cheung 01 94 03 61
+Maria_Wetterstrand 02 61 01 1749
+Carlos_Quintanilla_Schmidt 01 212 02 534
+Rachel_Corrie 01 238 01 238
+Daisy_Fuentes 03 97 02 917
+Felix_Sanchez 01 53 02 61
+Dan_Ackroyd 03 221 03 221
+Paul_Henderson 02 113 02 113
+Marquier_Montano_Contreras 01 129 01 129
+Mary_Lou_Retton 01 53 Natalie_Coughlin 02 65
+Coleen_Rowley 02 697 Bettina_Rheims 01 325
+Rob_Marshall 01 330 Felipe_De_Borbon 01 1581
+Jason_Alexander 01 53 George_Tenet 01 77
+Nabil_Shaath 01 76 Rick_Romley 01 57
+Darrell_Issa 01 361 Cathy_Cunningham 01 144
+Jack_LaLanne 01 185 Gary_Coleman 01 89
+Filip_De_Winter 01 54 Ben_Broussard 02 61
+Chuck_Amato 02 69 Eva_Mendes 01 111
+Raja_Zafar-ul-Haq 01 369 Gaston_Gaudio 02 133
+Francisco_Santos 01 81 Alvaro_Uribe 02 51
+Portia_de_Rossi 01 69 Harvey_Fierstein 03 134
+Nick_Reilly 02 57 Daniell_Sunjata 02 214
+Camryn_Manheim 02 198 Valentino_Rossi 01 378
+Daniel_Barenboim 02 69 Evan_Marriott 01 101
+Fazal-ur-Rehman 01 78 Yang_Jianli 03 97
+Frances_Fisher 01 125 Alfredo_di_Stefano 02 57
+Perry_Farrell 01 137 Paul_Walker 01 129
+Elsa_Zylberstein 02 157 Terence_Newman 01 445
+Tom_Izzo 02 97 Zeng_Qinghong 01 117
+Ham_Pong-sil 02 53 01 68
+Benjamin_Netanyahu 02 346 04 137
+Ham_Pong-sil 01 68 02 53
+Charlie_Coles 01 748 02 519
+Charlton_Heston 01 48 01 48
+Chris_Thomas 02 87 02 87
+Paul_Greengrass 02 278 01 149
+Larry_Lucchino 02 57 01 101
+Tom_Osborne 02 51 03 161
+Ali_Abbas 02 61 02 61
+Daryl_Sabara 03 251 02 49
+Mark_Cuban 01 265 02 695
+Bashar_Assad 02 129 01 57
+Francisco_Santos 02 178 02 178
+Peter_Goldmark 01 974 02 1913
+Amber_Tamblyn 02 133 01 63
+Garry_Kasparov 01 133 02 465
+Paul_Crane 02 66 03 101
+Rob_Morrow 01 81 01 81
+Conrad_Black 01 207 01 207
+Tim_Salmon 01 93 Robert_Altman 02 442
+Chris_Klein 01 101 Allison_Janney 01 61
+JC_Chasez 01 57 Bill_Fennelly 01 137
+Edward_Flynn 01 94 Nick_Rimando 01 51
+Tom_Izzo 02 97 Gerard_Depardieu 01 77
+Charles_Schumer 01 60 Jaromir_Jagr 01 69
+Elton_John 03 49 Anibal_Ibarra 01 74
+Katja_Riemann 03 111 Lisa_Ling 03 54
+Claire_Danes 01 61 Pierre_Gagnon 01 88
+Paola_Espinoza 02 125 Filippo_Inzaghi 01 729
+Harvey_Fierstein 01 57 Larry_Flynt 02 67
+Jack_Osbourne 02 53 Mark_Geragos 01 421
+Tabare_Vazquez 03 69 Felicity_Huffman 01 121
+Terence_Newman 01 445 Angel_Lockward 01 53
+Chuanyun_Li 01 117 Teri_Garr 01 117
+Lili_Taylor 01 73 Francois_Ozon 01 457
+Ethan_Hawke 04 133 Oxana_Fedorova 02 53
+Peter_Greenaway 02 53 Tirunesh_Dibaba 02 73
+Eric_Idle 01 113 Nick_Markakis 02 67
+Christian_Gimenez 01 99 Ricardo_Lopez_Murphy 01 405
+Peter_Greenaway 02 53 02 53
+Bartosz_Kizierowski 02 60 01 134
+Lily_Tomlin 01 173 02 114
+Peter_Greenaway 02 53 02 53
+Ernest_Hollings 03 57 03 57
+Manijeh_Hekmat 02 61 01 89
+Alma_Powell 01 185 04 54
+Jaime_Pressly 01 53 04 62
+Rocco_Buttiglione 01 2077 04 833
+George_Harrison 02 65 01 133
+Darryl_McDaniels 01 169 02 146
+Eve_Ensler 05 63 02 67
+Prince_Charles 01 85 01 85
+Ethan_Hawke 04 133 04 133
+AJ_Cook 02 79 01 194
+James_Sensenbrenner 02 82 02 82
+Carlo_Azeglio_Ciampi 02 619 04 49
+Robert_Altman 01 53 03 110
+Caroline_Dhavernas 02 184 01 165
+Kathryn_Morris 04 149 01 49
+Manuel_Pellegrini 02 98 Alfonso_Cuaron 01 650
+Andrew_Firestone 01 49 Wen_Jiabao 01 69
+Alessandro_Nesta 01 171 Mario_Lobo_Zagallo 01 53
+Ridley_Scott 02 181 Mariana_Ohata 02 121
+Walter_Mondale 02 91 Wang_Nan 01 61
+Ralph_Klein 01 59 Sandra_Day_OConner 01 235
+Ed_Sullivan 01 257 Rodrigo_de_la_Cerna 01 93
+Jack_Welch 01 72 Al_Leiter 01 72
+Eve_Ensler 03 63 Eliott_Spitzer 01 49
+Louis_Van_Gaal 03 71 Bertie_Ahern 01 65
+Carlos_Iturgaitz 04 126 Kristen_Breitweiser 03 309
+Lela_Rochon 01 145 Norm_Macdonald 01 101
+Laurence_Tribe 01 54 Patrick_Leahy 03 51
+Alvaro_Noboa 01 67 Ion_Tiriac 01 233
+Rick_Perry 01 409 Rafael_Bielsa 01 77
+Nicolas_Cage 03 49 Jake_Plummer 01 120
+Fernando_Henrique_Cardoso 03 445 Larry_Ellison 01 290
+James_Comey 03 697 Janusz_Kaminski 03 69
+Lucio_Stanca 04 1965 Geoff_Dixon 01 249
+Robert_Ehrlich 02 57 Dave_Barr 01 285
+Pilar_Montenegro 01 49 04 49
+Eli_Rosenbaum 02 53 02 53
+Lyle_Lovett 02 189 01 137
+Alex_Sink 02 226 01 598
+Franz_Fischler 03 53 03 53
+Jack_Osbourne 02 53 01 49
+Frances_Fisher 03 81 01 125
+Fred_Eckhard 05 117 02 409
+Angela_Lansbury 01 77 02 274
+Xanana_Gusmao 02 97 01 721
+Andy_Dick 01 57 02 53
+Terry_Bradshaw 01 149 02 57
+Elias_Attallah 02 57 01 53
+Sara_Silverman 01 81 03 241
+Lucia_Kenny_Anthony 01 53 01 53
+Eliza_Dushku 03 105 04 61
+Chris_Cooper 02 269 02 269
+Angel_Lockward 01 53 02 1090
+Akiko_Morigami 01 51 02 53
+Robbie_Coltrane 04 89 05 261
+Chuck_Woolery 03 95 Christian_Bale 01 117
+Yasushi_Akashi 01 85 Bill_Clinton 02 597
+Frances_Fisher 03 81 Vanessa_Redgrave 02 85
+Claudia_Cardinale 01 48 Will_Self 01 85
+Ted_Nolan 03 61 Xanana_Gusmao 02 97
+Jaouad_Gharib 01 61 Rafidah_Aziz 01 82
+Ibrahim_Jaafari 01 53 Tim_Welsh 01 108
+Alfred_Sant 01 247 Itamar_Franco 02 117
+Nestor_Kirchner 01 125 Charles_Ingram 02 67
+Queen_Silvia 01 133 Charlton_Heston 01 48
+Robert_Wiener 01 189 Filip_De_Winter 02 53
+Alfonso_Cuaron 01 650 Zarai_Toledo 01 65
+Vaclav_Klaus 01 357 Connie_Chung 03 101
+Sasha_Alexander 01 83 Thomas_Manger 01 189
+Elvis_Stojko 02 89 Charlize_Theron 02 50
+Elodie_Bouchez 01 49 Linda_Lingle 02 69
+Vince_Gill 01 169 Cheryl_Hines 01 53
+Compay_Segundo 01 63 Larry_Nichols 01 134
+Matt_LeBlanc 03 161 Gene_Keady 01 94
+Timothy_Goebel 01 85 Beatrice_Dalle 01 62
+Tariq_Aziz 02 133 02 133
+Alicia_Witt 02 57 02 57
+Norm_Macdonald 02 349 01 101
+Ilie_Nastase 01 53 01 53
+Tim_Matheson 02 77 01 86
+Martin_Frost 01 268 02 61
+Prince_Felipe 01 78 01 78
+Albert_Brooks 03 75 01 217
+Jane_Krakowski 05 53 02 81
+Carly_Gullickson 02 179 02 179
+Peter_Arnett 02 133 01 373
+Martha_Lucia_Ramirez 01 113 01 113
+Lyle_Lovett 01 137 02 189
+Tian_Zhuang_Zhuang 01 81 01 81
+Edward_Burns 01 636 03 50
+Lorraine_Bracco 02 100 01 73
+Vojislav_Seselj 01 360 01 360
+Sandra_Day_OConner 01 235 01 235
+Mahathir_Mohamad 02 287 03 569
+Nancy_Reagan 04 81 02 53
+Frank_Abagnale_Jr 01 2149 Peter_Caruana 02 125
+Lili_Taylor 01 73 Felipe_De_Borbon 02 813
+Barry_Hinson 01 63 Carlos_Vives 01 66
+Dalai_Lama 01 93 Madonna 01 49
+James_Brosnahan 01 49 Christine_Ebersole 03 49
+Paul_Walker 01 129 Nicoletta_Braschi 01 109
+Tim_Matheson 01 86 Paul_Reiser 02 105
+Katalin_Kollat 01 57 Compay_Segundo 01 63
+Ali_Abbas 04 105 Catherine_Bell 01 55
+Wayne_Newton 04 65 Samantha_Daniels 01 74
+Tian_Liang 01 57 Eva_Marie_Saint 01 106
+Paul_Hogan 01 65 Lisa_Ling 01 138
+Edward_Flynn 01 94 Craig_MacTavish 01 84
+Jan_Bjoerklund 01 1100 Eric_Fehr 02 101
+Tessa_Jowell 02 1841 Nina_Jacobson 01 52
+Hamid_Reza_Asefi 01 69 Carlos_Menem 02 71
+Kofi_Annan 02 177 Whoopi_Goldberg 02 69
+Clare_Short 02 93 Eric_Wedge 01 93
+Charles_Grassley 03 68 Edward_Said 01 93
+Elisha_Cuthbert 01 262 Eva_Marie_Saint 01 106
+Claudio_Abbado 01 129 01 129
+Daniell_Sunjata 02 214 03 165
+Benazir_Bhutto 01 89 01 89
+Timothy_Wirth 01 58 02 77
+GL_Peiris 03 113 05 69
+Nick_Reilly 02 57 02 57
+Phil_Donahue 03 70 01 77
+Robert_Woody_Johnson 02 49 01 389
+Elizabeth_Hill 01 245 02 57
+Francisco_Santos 02 178 01 81
+Carlo_Azeglio_Ciampi 03 49 01 592
+Paul_Murphy 01 103 01 103
+Pio_Laghi 02 108 01 509
+Laurie_Laychak 03 1061 02 86
+Nona_Gaye 02 345 02 345
+Choi_Sung-hong 02 84 01 649
+Paul_Henderson 01 133 01 133
+Pedro_Solbes 01 128 03 261
+Fred_Eckhard 01 327 01 327
+Dalai_Lama 01 93 02 49
+Sarah_Michelle_Gellar 01 93 Chris_Columbus 01 94
+Tom_Gamboa 01 169 Odai_Hussein 02 217
+Angel_Lockward 01 53 LK_Advani 01 85
+Baburam_Bhattari 04 1616 Conchita_Martinez 02 57
+Carlos_Queiroz 03 56 Elena_Bereznaya 01 131
+Chris_Dodd 01 247 Peter_Mackay 02 49
+Evo_Morales 02 85 Alison_Lohman 02 74
+Robert_F_Kennedy_Jr 03 669 Tom_Ridge 02 74
+Janis_Ruth_Coulter 01 288 Alfonso_Portillo 01 183
+Marina_Silva 01 61 Courtney_Cox 03 61
+Chris_Cooper 01 65 Edwina_Currie 02 85
+Peter_Hillary 01 61 Richard_Ward 01 297
+Jason_Biggs 03 65 Dave_Campo 02 77
+Paula_Dobriansky 01 117 Kelsey_Grammer 03 49
+Paul_Kariya 01 145 Kevin_Keegan 01 54
+Kristy_Curry 03 153 Cemil_Cicek 03 368
+Carlo_Azeglio_Ciampi 04 49 Ellen_MacArthur 01 169
+Patricia_Hearst 01 245 Elvis_Presley 02 97
+Darrell_Issa 04 121 Bill_Bradley 03 53
+Clark_Randt 03 145 Ivan_Helguera 02 305
+Penelope_Cruz 01 85 02 165
+Nancy_Pelosi 03 137 01 112
+Odai_Hussein 02 217 02 217
+Peter_Mackay 02 49 02 49
+Linda_Franklin 03 265 02 1837
+Andrea_Bocelli 03 53 02 313
+Amanda_Beard 01 89 04 85
+Erskine_Bowles 02 59 02 59
+Aly_Wagner 02 85 01 113
+Kevin_Spacey 02 390 01 65
+James_Coburn 01 153 01 153
+Pascal_Lamy 01 170 01 170
+Sally_Field 01 66 02 56
+Nia_Vardalos 03 77 03 77
+Valentina_Cervi 02 161 01 120
+Phil_Gramm 03 66 04 77
+Lenny_Wilkens 02 53 01 49
+Daniel_Day-Lewis 03 93 03 93
+Gary_Barnett 01 2145 02 1949
+Reggie_Miller 02 81 01 87
+Lene_Espersen 03 65 Geoffrey_Davis 01 109
+Mark_Geragos 02 77 Elizabeth_Hill 02 57
+Laura_Ziskin 01 294 Aaron_Eckhart 01 85
+Lynn_Abraham 01 73 Omar_Sharif 01 50
+Baburam_Bhattari 03 97 Kim_Cattrall 02 65
+Dave_McGinnis 01 61 Rita_Wilson 01 89
+Kurt_Schottenheimer 01 89 Rodrigo_Borja 03 109
+Pierre_Png 02 50 Laura_Marlow 01 157
+David_Brent 05 373 Laura_Ziskin 01 294
+Nelson_Acosta 01 49 Uzi_Landau 02 61
+Filippo_Inzaghi 01 729 Aaron_Guiel 01 132
+Uma_Thurman 02 49 Angela_Merkel 01 48
+Salma_Hayek 01 53 Claudia_Pechstein 01 93
+Christopher_Walken 04 1845 Claire_Danes 01 61
+Peter_Goldmark 02 1913 Vanessa_Redgrave 01 57
+Kevin_Tarrant 01 69 Daniel_Kurtzer 05 337
+Peter_Struck 02 101 Franco_Dragone 02 209
+Akbar_Al_Baker 01 52 Imre_Kertasz 01 61
+Newt_Gingrich 03 49 Timothy_Goebel 04 371
+Andy_Roddick 03 126 Leuris_Pupo 01 69
+Vanessa_Williams 01 81 02 53
+Jason_Biggs 03 65 02 131
+Kirsten_Dunst 03 113 03 113
+Akiko_Morigami 02 53 02 53
+Tim_Pawlenty 02 61 03 85
+Cameron_Diaz 01 364 02 66
+Robert_Schuller 02 521 02 521
+Paul_Celluci 05 52 04 245
+Charlton_Heston 01 48 01 48
+Leland_Chapman 02 84 02 84
+Daniel_Scioli 01 357 02 73
+Nanni_Moretti 02 64 02 64
+Paola_Espinoza 02 125 01 75
+Patti_Labelle 01 88 02 57
+Sami_Al-Arian 02 205 02 205
+Barry_Diller 04 199 04 199
+James_Meeks 01 493 01 493
+Paul_Reiser 02 105 03 65
+Renato_Soru 02 137 02 137
+Pierre_Png 01 51 02 50
+Cathy_Freeman 02 48 Ciaran_Hinds 01 69
+Fred_Rogers 01 201 Mark_Shapiro 01 69
+William_Pryor_Jr 01 57 Patricia_Medina 01 49
+Adrien_Brody 01 53 Amr_Moussa 01 165
+Marc_Anthony 02 107 Elaine_Stritch 02 55
+Hasan_Wirayuda 01 81 Rafael_Bielsa 02 65
+Brian_Billick 01 51 Nicolas_Sarkozy 03 73
+Carlos_Queiroz 02 619 Laurent_Woulzy 01 65
+Al_Pacino 03 60 Chuck_Amato 01 439
+Jan_Ullrich 02 117 Tom_Amstutz 02 50
+Mary_Robinson 04 158 Mary_Matalin 02 585
+Nikki_Cascone 01 70 Edwina_Currie 02 85
+Patrick_Bourrat 01 293 Andrew_Wetzler 01 53
+Ivana_Trump 02 65 Patrick_Bourrat 01 293
+Ted_Nolan 02 77 Nathan_Lane 04 81
+Noah_Wyle 01 79 Tia_Mowry 01 239
+Sandra_Milo 02 737 Andre_Bucher 01 53
+Hans_Eichel 01 223 Chick_Hearn 02 52
+Ralph_Friedgen 02 59 Lene_Espersen 03 65
+Imelda_Marcos 02 89 Colin_Powell 01 65
+Aleksander_Kwasniewski 01 175 02 51
+Reggie_Miller 02 81 01 87
+Marc_Racicot 01 229 02 83
+Richard_Branson 02 155 01 63
+Beyonce_Knowles 02 95 03 65
+Elsa_Zylberstein 03 113 02 157
+Kim_Gandy 02 464 01 117
+Lewis_Booth 01 49 02 893
+Nancy_Sinatra 02 73 02 73
+Madeleine_Albright 01 109 02 417
+Alejandro_Toledo 01 154 02 79
+Charlie_Coles 02 519 01 748
+Geraldo_Rivera 02 49 02 49
+Amy_Brenneman 02 81 03 713
+Chris_Rock 01 66 03 245
+Dai_Bachtiar 02 319 04 262
+Peter_OToole 02 69 01 85
+Eli_Rosenbaum 02 53 02 53
+Tom_Osborne 03 161 02 51
+Victoria_Clarke 01 531 01 531
+Colin_Jackson 02 49 Jaime_Pressly 04 62
+Richard_Harris 01 161 Janusz_Kaminski 03 69
+Eric_Fehr 02 101 Craig_David 01 89
+Yolanda_King 02 113 Dan_Reeves 01 93
+Paul_Bettany 02 57 Geno_Auriemma 02 73
+Dan_Monson 01 925 Itzhak_Perlman 01 85
+Norman_Mineta 02 101 Carla_Tricoli 01 82
+Nawabzada_Nasrullah_Khan 01 646 Ciaran_Hinds 02 193
+Casy_Preslar 02 159 Lino_Oviedo 02 2157
+Ciro_Gomes 01 49 Robert_Nardelli 05 117
+Nawabzada_Nasrullah_Khan 02 137 Edmund_Stoiber 02 93
+Charlize_Theron 02 50 Malcolm_Jamal_Warner 03 149
+Sasha_Alexander 01 83 Compay_Segundo 01 63
+Jamir_Miller 01 113 Bernard_Landry 01 89
+Dai_Bachtiar 01 513 Alexa_Vega 01 540
+Queen_Sofia 01 705 Raghad_Saddam_Hussein 01 90
+Darla_Moore 01 189 Kim_Clijsters 01 67
+Amy_Redford 03 61 Gavin_Degraw 01 61
+Barry_Williams 02 421 Ed_Smart 03 227
+Lisa_Murkowski 01 581 Noah_Wyle 01 79
+Rachel_Hunter 02 93 03 86
+Leuris_Pupo 02 49 03 53
+Tom_Sizemore 01 61 02 53
+Paul_Krueger 03 81 01 133
+Peter_Greenaway 01 73 01 73
+Luiz_Inacio_Lula_da_Silva 01 61 01 61
+Prince_Naruhito 02 108 01 87
+Nadine_Vinzens 01 49 01 49
+Danny_Glover 03 129 01 49
+Elizabeth_Hill 01 245 01 245
+Wolfgang_Schneiderhan 02 73 02 73
+Catherine_Zeta-Jones 01 79 01 79
+Celso_Lafer 03 105 02 98
+Christine_Ebersole 01 114 01 114
+George_P_Bush 01 106 02 57
+Mary_Landrieu 01 65 03 495
+Pedro_Duque 01 109 03 465
+Rafael_Bielsa 02 65 01 77
+Ben_Broussard 01 53 02 61
+Dave_Matthews 01 173 01 173
+Alejandro_Gonzalez_Inarritu 02 100 Casy_Preslar 02 159
+Takashi_Yamamoto 01 61 Elaine_Chao 02 1981
+Pamela_Melroy 01 2137 Fred_Durst 01 517
+Lela_Rochon 01 145 Lynn_Abraham 01 73
+George_HW_Bush 02 64 Pak_Gil_Yon 01 221
+Charles_Grassley 02 52 Inocencio_Arias 02 685
+Abdullatif_Sener 01 60 Marina_Silva 04 173
+Takashi_Sorimachi 01 49 Cate_Blanchett 03 48
+Vladimir_Putin 01 545 Bill_Bradley 03 53
+Flavia_Pennetta 03 51 Gaston_Gaudio 02 133
+Lynne_Cheney 01 60 Ham_Pong-sil 01 68
+Carson_Palmer 01 277 Ray_Romano 04 52
+Chris_Moore 01 267 Dale_Earnhardt 01 89
+Ed_Smart 01 72 Pierre_Gagnon 01 88
+David_Brinkley 01 125 Kweisi_Mfume 04 157
+Inocencio_Arias 01 437 Alessandra_Cerna 01 110
+Vladimir_Putin 01 545 Han_Sung_Joo 01 579
+Lars_Von_Trier 01 341 William_Delahunt 02 362
+Patti_Smith 01 54 Claudia_Pechstein 01 93
+Romain_Duris 02 441 Rick_Perry 01 409
+Kate_Winslet 03 1051 03 1051
+Harvey_Fierstein 03 134 01 57
+Eric_Shinseki 02 189 02 189
+Sandra_Day_OConner 01 235 02 201
+Vicente_Fox 03 61 04 68
+Norah_Jones 02 101 02 101
+Vanessa_Redgrave 01 57 02 85
+Eduardo_Duhalde 02 61 03 229
+Chanda_Rubin 02 49 01 749
+George_Lopez 01 57 01 57
+Vivica_Fox 03 491 04 65
+Angelina_Jolie 02 49 01 81
+Bertrand_Delanoe 01 177 01 177
+Natalia_Vodonova 02 77 03 49
+Robert_McKee 03 57 03 57
+Ricardo_Lopez_Murphy 01 405 01 405
+Carla_Sullivan 02 48 01 59
+Cathy_Freeman 01 203 01 203
+Elizabeth_Shue 02 113 03 79
+Uday_Hussein 02 81 01 221
+Manuel_Llorente 02 481 Cemil_Cicek 02 65
+Luc_Montagnier 01 81 Kristin_Chenoweth 01 81
+Eladio_Larez 01 51 Whoopi_Goldberg 03 60
+Nawabzada_Nasrullah_Khan 01 646 Jacques_Chirac 01 129
+Cecile_de_France 01 180 Abid_Hamid_Mahmud_Al-Tikriti 01 92
+Mary-Kate_Olsen 01 109 Wolfgang_Schuessel 01 96
+Gabi_Zimmer 02 2025 Lee_Baca 02 53
+Laurence_Tribe 02 85 Picabo_Street 02 669
+Chris_Cookson 01 181 Cathy_Cunningham 01 144
+Yogi_Berra 01 129 Vladimir_Putin 01 545
+Sam_Mendes 02 253 Chris_Cirino 01 97
+Colleen_Atwood 01 101 Chris_Dodd 01 247
+Andy_Griffith 01 233 Orlando_Bloom 02 105
+Tim_Howard 02 55 Rick_Caruso 01 145
+Vadim_Devyatovskiy 01 153 Kevin_Tarrant 01 69
+Laura_Linney 02 61 Valentina_Cervi 02 161
+Angela_Merkel 01 48 Paola_Espinoza 01 75
+Saeed_Mortazavi 03 71 Colin_Powell 02 77
+Wayne_Gretzky 03 76 Jane_Pauley 03 157
+Andrew_Firestone 01 49 James_Cunningham 03 78
+Tara_VanDerveer 03 419 03 419
+Bill_Fennelly 02 173 01 137
+Kofi_Annan 01 1925 02 177
+Vaclav_Klaus 01 357 02 529
+Robert_Nardelli 02 49 02 49
+Luciano_Pavarotti 02 90 01 58
+Christopher_Reeve 02 58 01 78
+Caio_Blat 01 97 01 97
+Cathy_Freeman 02 48 02 48
+Nikki_McKibbin 02 53 01 49
+Richard_Haass 01 65 02 905
+Damon_Stoudamire 01 117 03 49
+David_Carradine 01 73 01 73
+Lee_Baca 02 53 01 121
+Otto_Reich 04 766 03 1017
+Jack_Osbourne 01 49 01 49
+Tian_Liang 01 57 01 57
+Fernando_Valenzuela 02 156 01 242
+Cherie_Blair 01 101 04 73
+Tommy_Amaker 02 61 01 125
+Alex_Ferguson 01 96 Cheryl_Ford 01 96
+Sarah_Hughes 01 80 Frances_Fisher 03 81
+Orlando_Bloom 01 49 Nursultan_Nazarbayev 02 213
+Coleen_Rowley 02 697 Eric_Fehr 01 69
+Halle_Berry 01 118 Dany_Heatley 01 70
+Mariah_Carey 01 65 Aaron_Eckhart 01 85
+Ben_Braun 01 273 Lin_Yi-fu 01 61
+Edie_Falco 01 146 Bill_Hughes 01 542
+Sasha_Cohen 02 61 Linda_Franklin 04 1909
+Charles_Rogers 01 80 Aldo_Paredes 01 108
+Adriana_Perez_Navarro 01 64 Takashi_Yamamoto 01 61
+Randall_Terry 01 160 Gerard_Kleisterlee 02 636
+Abdullah_Ahmad_Badawi 01 107 Ellen_Saracini 01 133
+Dave_McGinnis 01 61 Loretta_Lynn_Harper 01 61
+Ernie_Fletcher 01 61 Amy_Brenneman 04 77
+Festus_Mogae 01 134 Eunice_Barber 03 153
+Chung_Mong-joon 02 77 Rick_Perry 01 409
+Laura_Marlow 01 157 Chick_Hearn 01 114
+Janet_Napolitano 01 225 Casy_Preslar 02 159
+Brian_Clemens 02 73 Ali_Abbas 04 105
+Philippe_Noiret 02 61 03 53
+Chris_Noth 01 101 02 137
+Marie-Josee_Croze 01 126 01 126
+Itzhak_Perlman 03 49 01 85
+Angel_Lockward 02 1090 02 1090
+Jack_Welch 01 72 04 449
+Lin_Yung_Hsi 02 58 01 57
+Maria_Callas 02 125 01 1161
+Charlotte_Casiraghi 03 135 02 272
+Marcelo_Ebrard 01 61 02 121
+Andrew_Wetzler 02 221 02 221
+Clay_Aiken 04 69 01 89
+Nanni_Moretti 02 64 03 89
+Amy_Brenneman 02 81 03 713
+Peter_Arnett 01 373 02 133
+Laurent_Woulzy 01 65 02 49
+Marion_Barry 02 373 02 373
+Gary_Bauer 01 68 02 102
+Ed_Rendell 02 159 01 284
+Angelina_Jolie 01 81 02 49
+Leuris_Pupo 04 61 Rick_Perry 01 409
+James_Murdoch 01 52 Leah_Remini 01 49
+Wolfgang_Schuessel 02 67 Ellen_MacArthur 01 169
+Richard_Paul_Evans 01 873 Franz_Beckenbauer 01 49
+Xiang_Liu 01 81 Ralph_Friedgen 01 165
+Andrew_Fastow 01 2105 Liu_Ye 02 49
+Edgar_Savisaar 02 433 James_McPherson 03 208
+Perry_Farrell 01 137 Patti_Smith 01 54
+Elizabeth_Taylor 02 169 Peter_Hollingworth 01 73
+Frank_Abagnale_Jr 01 2149 Peter_Gilmour 02 173
+Poala_Suarez 01 117 Paul_Sarbanes 01 77
+Christoph_Daum 01 69 Carmen_Electra 01 94
+Kim_Cattrall 02 65 Andy_Dick 01 57
+Pedro_Solbes 01 128 Lisa_Leslie 02 193
+Hana_Sadiq 02 51 Ian_Thorpe 01 77
+Krishna_Bhadur_Mahara 03 89 Alexis_Bledel 03 61
+Damon_Stoudamire 02 153 Fidel_Castro 01 53
+Gene_Keady 01 94 Aly_Wagner 01 113
+Teri_Garr 01 117 Carlos_De_Abreu 01 148
+Han_Sung_Joo 01 579 Piers_Sellers 02 309
+Queen_Rania 01 337 02 117
+Keith_Olbermann 02 54 02 54
+Picabo_Street 04 77 04 77
+Manijeh_Hekmat 02 61 02 61
+Luc_Montagnier 03 937 02 769
+George_HW_Bush 02 64 02 64
+Mark_Wahlberg 01 60 02 85
+Celso_Amorim 01 56 03 104
+Paul_Bettany 02 57 01 51
+Fred_Thompson 02 709 02 709
+Edwina_Currie 02 85 01 57
+Caroline_Kennedy 02 219 02 219
+Camryn_Manheim 02 198 01 216
+Franz_Fischler 01 109 02 56
+Alexandre_Despatie 03 139 01 60
+Gene_Robinson 03 103 01 205
+Jane_Fonda 02 53 02 53
+Malcolm_Jamal_Warner 01 49 03 149
+Daniele_Hypolito 02 69 01 93
+Elaine_Stritch 01 156 04 202
+Cheryl_Tiegs 02 57 Alexandra_Pelosi 01 166
+Christian_Lacroix 01 173 Norman_Mineta 02 101
+Takaloo 01 85 Prince_Charles 02 63
+Carly_Fiorina 01 130 Roman_Coppola 01 61
+Karin_Viard 02 85 Elaine_Chao 01 251
+Lynn_Redgrave 01 49 Emma_Watson 02 89
+Ben_Kingsley 03 77 Robert_Blackwill 01 55
+Daryl_Sabara 03 251 Richard_Shelby 04 485
+Bernice_Wong 02 206 Sara_Silverman 04 105
+Adam_Sandler 02 48 Philippe_Gagnon 04 49
+Linda_Franklin 02 1837 Ali_Abbas 04 105
+Naomi_Campbell 02 107 Christine_Arron 01 55
+Kenenisa_Bekele 01 137 Phil_Bredesen 02 93
+Emmanuel_Milingo 02 628 Takashi_Sorimachi 01 49
+Chuck_Woolery 02 51 Jaouad_Gharib 02 549
+Alison_Lohman 03 466 James_Cunningham 01 75
+Inam-ul-Haq 03 82 Charles_Tannok 01 69
+Christine_Ebersole 02 54 Edwin_Edwards 01 51
+Yasushi_Akashi 01 85 Carlos_Moya 01 80
+Edward_Lu 01 145 Paul_Tracy 01 145
+Paul_Krueger 03 81 02 109
+Frank_Caliendo 04 830 01 157
+Agnes_Bruckner 03 51 02 80
+Aly_Wagner 02 85 01 113
+Abel_Pacheco 03 52 02 104
+James_Gandolfini 02 89 02 89
+Rick_Bragg 03 53 03 53
+Ilie_Nastase 02 80 01 53
+Lisa_Ling 02 81 03 54
+Phan_Van_Khai 01 91 03 122
+Zahir_Shah 02 149 02 149
+Biljana_Plavsic 02 121 01 309
+Christian_Lacroix 01 173 02 73
+Richard_Daley 01 85 01 85
+Hassan_Nasrallah 04 62 01 269
+Andy_Dick 01 57 01 57
+Gary_Forsee 02 189 01 189
+Katja_Riemann 01 105 01 105
+Dave_Campo 02 77 01 61
+Andre_Agassi 01 57 02 125
+Lisa_Murkowski 01 581 Will_Self 01 85
+Victoria_Clarke 01 531 Valentino_Rossi 01 378
+Phil_Donahue 01 77 Lyle_Lovett 02 189
+Pierre_Pettigrew 02 53 Al_Leiter 01 72
+Mark_Dacey 02 77 Darcy_Regier 01 138
+Francis_Mer 01 57 Liu_Xiaoqing 01 61
+Alexander_Downer 04 58 Claudia_Pechstein 01 93
+Sarah_Michelle_Gellar 01 93 Chanda_Rubin 02 49
+Fran_Drescher 01 77 Bettina_Rheims 01 325
+Eddie_Sutton 01 189 Roger_Penske 02 72
+Yogi_Berra 01 129 Patrick_McEnroe 01 104
+Charles_Mathews 01 83 Ben_Kingsley 02 405
+Terry_Lynn_Barton 01 185 Dave_Matthews 03 105
+Al_Gore 02 56 Alanna_Ubach 01 52
+Jake_Plummer 01 120 Alek_Wek 01 52
+Alexa_Vega 01 540 Jacqueline_Gold 03 65
+Alexandre_Daigle 01 258 Sanjay_Gupta 02 74
+Earl_Scruggs 02 182 William_Overlin 02 70
+Dan_Reeves 01 93 Kristy_Curry 01 113
+Sally_Ride 01 59 Alejandro_Toledo 03 119
+Edward_Burns 02 99 01 636
+Ben_Broussard 02 61 01 53
+Tom_Ridge 02 74 01 97
+Mario_Kreutzberger 01 189 01 189
+Nora_Ephron 01 57 01 57
+Connie_Chung 02 205 02 205
+William_Ford_Jr 01 65 01 65
+Elizabeth_Taylor 01 58 01 58
+Elaine_Stritch 04 202 04 202
+Nadine_Vinzens 01 49 02 93
+Laura_Elena_Harring 03 141 02 157
+Nia_Vardalos 02 68 04 57
+Kim_Cattrall 01 110 01 110
+Eladio_Larez 02 61 03 105
+Angelina_Jolie 01 81 01 81
+Alex_Ferguson 01 96 02 54
+Queen_Noor 03 116 01 136
+Bianca_Jagger 03 1505 01 331
+Oscar_DLeon 03 49 03 49
+Leland_Chapman 02 84 01 69
+Hans_Eichel 01 223 James_Gandolfini 01 73
+Nikki_Reed 01 69 Fatmir_Limaj 01 321
+Natasha_McElhone 01 1433 Barry_Williams 02 421
+Christian_Gimenez 01 99 Tom_Vilsack 01 53
+Fidel_Castro_Daiz-Balart 03 74 Lewis_Booth 01 49
+Laurence_Fishburne 01 71 Frances_Fisher 03 81
+Jaromir_Jagr 01 69 Theodore_Tweed_Roosevelt 02 191
+Edwina_Currie 01 57 George_Karl 02 93
+Darrell_Issa 04 121 Fernando_Sanz 01 1965
+Jada_Pinkett_Smith 01 63 Gene_Keady 01 94
+Marissa_Jaret_Winokur 03 311 Janice_Abreu 01 65
+Mahmoud_Al_Zhar 01 79 Alex_Cabrera 01 243
+Marcelo_Ebrard 01 61 Mario_Gallegos 02 305
+Catherine_Zeta-Jones 03 186 Richard_Lugar 04 302
+Li_Zhaoxing 02 77 Costas_Simitis 01 97
+Agnes_Bruckner 01 59 Alberto_Ruiz_Gallardon 01 74
+Alexandre_Daigle 01 258 Carlos_Menem 01 48
+Lubomir_Zaoralek 01 109 Gabriella_Bo 01 55
+Lucia_Kenny_Anthony 02 121 Peter_Medgyessy 01 62
+Eric_Lloyd 01 53 Elsa_Zylberstein 01 78
+Festus_Mogae 01 134 03 94
+Talisa_Soto 03 50 01 69
+Francis_Ford_Coppola 01 49 01 49
+Dany_Heatley 01 70 02 77
+Coleen_Rowley 01 173 02 697
+Itamar_Franco 02 117 02 117
+Elias_Attallah 02 57 01 53
+Kirsten_Dunst 03 113 01 74
+Chris_Cooper 02 269 03 606
+Barbara_Walters 02 277 02 277
+Charles_Ingram 01 232 02 67
+George_Harrison 02 65 01 133
+Ray_Romano 05 126 04 52
+William_McDonough 03 201 03 201
+Gary_Condit 02 57 03 137
+Priscilla_Presley 02 161 01 183
+Kirk_Ferentz 02 277 02 277
+Pascal_Lamy 03 89 02 56
+Akbar_Al_Baker 01 52 01 52
+Raja_Zafar-ul-Haq 02 160 02 160
+Alberto_Gonzales 01 340 Oscar_Bolanos 01 57
+Nabil_Shaath 01 76 Sally_Ride 02 66
+Ethan_Hawke 01 50 Aldo_Paredes 01 108
+Chip_Ganassi 02 230 Rob_Morrow 01 81
+Kirsten_Dunst 01 74 Robert_Wagner 01 121
+Sally_Ride 02 66 Liam_Neeson 01 61
+Angelina_Jolie 02 49 Sam_Brownback 01 309
+Felix_Sanchez 02 61 LK_Advani 01 85
+Dave_Matthews 02 49 Nicoletta_Braschi 01 109
+David_Brinkley 01 125 Kristin_Chenoweth 04 57
+Habib_Rizieq 02 256 Tocker_Pudwill 01 121
+Alec_Baldwin 01 125 Mack_Brown 03 63
+Coleen_Rowley 01 173 Gerard_Kleisterlee 02 636
+Tabare_Vazquez 03 69 Claudio_Abbado 02 97
+Alberto_Gonzales 01 340 Omar_Sharif 01 50
+Harbhajan_Singh 01 50 Ahmed_Chalabi 01 260
+Evan_Rachel_Wood 01 101 Terrence_Trammell 01 273
+Chris_Matthews 04 197 Marina_Anissina 01 93
+Barbra_Streisand 02 113 Elias_Attallah 02 57
+Lynne_Thigpen 01 245 Eva_Herzigova 01 137
+Pedro_Solbes 02 49 04 595
+Carlos_Iturgaitz 02 214 04 126
+Priscilla_Presley 02 161 02 161
+Walter_Mondale 01 77 02 91
+Whoopi_Goldberg 02 69 01 49
+Natalia_Vodonova 02 77 02 77
+Geoff_Hoon 01 152 02 73
+Tom_Smothers 01 49 02 49
+Courtney_Cox 02 59 03 61
+Leuris_Pupo 04 61 03 53
+Chris_Noth 01 101 01 101
+Roger_Penske 02 72 01 68
+James_Hoffa 02 98 03 143
+Daniela_Cicarelli 01 69 01 69
+Benjamin_McKenzie 01 48 01 48
+Elaine_Chao 01 251 03 69
+Alicia_Silverstone 01 69 03 49
+Barbra_Streisand 02 113 01 68
+Eric_Wedge 01 93 01 93
+Liu_Ye 01 53 03 113
+Abdullah 01 53 Kofi_Annan 02 177
+Prince_Harry 01 209 Paul_Bremer 03 301
+Tom_DeLay 01 65 Uma_Thurman 01 89
+Valentino_Rossi 01 378 Francesco_Totti 01 61
+Zhong_Nanshan 02 621 Prince_Naruhito 02 108
+Ray_Nagin 01 77 Gary_Stevens 01 173
+Adam_Sandler 01 62 Amelie_Mauresmo 01 65
+Patricia_Hearst 01 245 Cherry_Jones 01 81
+Sam_Mendes 01 85 Charlotte_Church 02 57
+George_Lopez 01 57 Natalie_Imbruglia 01 73
+Kevin_Spacey 02 390 Keira_Knightley 01 49
+Lenny_Wilkens 02 53 Laura_Bush 01 115
+Edward_Burns 02 99 Tariq_Aziz 02 133
+Orlando_Bloom 01 49 Eric_Shinseki 01 79
+Federico_Trillo 01 97 Alberto_Ruiz_Gallardon 02 197
+Martin_Frost 02 61 Alexander_Payne 02 112
+Winona_Ryder 02 125 Gabi_Zimmer 05 1937
+Celso_Lafer 01 143 Mark_Dacey 02 77
+Marc_Bulger 01 85 Angela_Bassett 03 294
+Darla_Moore 01 189 Alimzhan_Tokhtakhounov 01 193
+Tina_Brown 03 94 01 201
+Peter_Arnett 01 373 02 133
+Kofi_Annan 01 1925 01 1925
+Bernard_Landry 01 89 01 89
+James_Lockhart 03 603 03 603
+Jane_Fonda 01 93 01 93
+Krishna_Bhadur_Mahara 05 51 01 481
+Kweisi_Mfume 04 157 01 429
+Theresa_May 02 69 01 977
+Ingrid_Betancourt 01 154 01 154
+Ethan_Hawke 01 50 02 53
+Conan_OBrien 04 57 02 61
+Marion_Barry 01 531 01 531
+Lena_Olin 02 161 02 161
+Jane_Fonda 01 93 01 93
+Marc_Racicot 02 83 03 339
+Paul_Bremer 04 85 01 56
+Beyonce_Knowles 02 95 02 95
+Tariq_Aziz 01 178 02 133
+Rodrigo_de_la_Cerna 01 93 02 85
+Ahmed_Qureia 01 83 Adrien_Brody 01 53
+Kweisi_Mfume 04 157 Takeo_Fukui 02 268
+Viara_Vike-Freiberga 02 337 Norman_Mailer 01 541
+Gabi_Zimmer 05 1937 Lindy_Ruff 01 269
+Claudia_Pechstein 01 93 Dave_McGinnis 01 61
+Queen_Rania 02 117 Cheryl_James 01 150
+Kristin_Scott 02 52 Jamir_Miller 01 113
+Sara_Silverman 02 133 Andy_Dick 01 57
+James_Traficant 01 57 Rick_Perry 01 409
+Paul_Gascoigne 01 53 Idi_Amin 01 57
+Kelsey_Grammer 01 89 Ellen_Saracini 01 133
+Zoran_Djindjic 02 469 Cecilia_Cheung 04 735
+Lionel_Chalmers 01 69 Mariana_Ohata 03 85
+Zalmay_Khalilzad 01 53 Wilma_McNabb 01 49
+Peri_Gilpin 01 117 Sadie_Frost 02 201
+Adriana_Perez_Navarro 01 64 Na_Na_Keum 01 57
+Jack_Nicholson 01 209 Abid_Hamid_Mahmud_Al-Tikriti 01 92
+Amy_Redford 03 61 Jaap_de_Hoop_Scheffer 01 87
+Ilie_Nastase 02 80 Ian_Thorpe 01 77
+Robert_Nardelli 05 117 Christoph_Daum 01 69
+Benjamin_Netanyahu 01 89 01 89
+Paul_Wolfowitz 01 65 01 65
+George_Blaney 01 135 02 564
+Odai_Hussein 03 81 02 217
+Lena_Olin 02 161 02 161
+Eric_Staal 02 319 02 319
+Andrea_Bocelli 03 53 03 53
+Vivica_Fox 04 65 01 77
+Catherine_Zeta-Jones 01 79 01 79
+Ali_Mohammed_Maher 02 65 01 73
+Peter_Hollingworth 01 73 01 73
+Princess_Anne 01 85 01 85
+Daniel_Kurtzer 04 101 03 183
+Jacqueline_Gold 02 81 01 67
+Victoria_Clarke 01 531 01 531
+William_McDonough 01 268 02 56
+Raza_Rabbani 01 91 02 82
+Elizabeth_Shue 02 113 02 113
+Lorraine_Bracco 02 100 01 73
+Saeed_Mortazavi 03 71 01 177
+Bela_Karolyi 01 93 Cameron_Diaz 01 364
+Rob_Morrow 02 153 Leah_Remini 01 49
+Hank_Stram 02 84 Madonna 01 49
+Thor_Pedersen 01 82 Leland_Chapman 01 69
+Theresa_Gattung 01 245 Barry_Zito 02 61
+Uzi_Landau 02 61 Clare_Short 01 73
+Maria_Guida 01 281 Matt_Anderson 02 149
+El_Hadji_Diouf 01 109 Roman_Coppola 01 61
+David_Carradine 02 173 Alex_Penelas 01 582
+Thomas_OBrien 01 55 Linda_Mason 02 334
+Daniel_Kurtzer 01 66 Roger_Suarez 01 85
+Marina_Anissina 01 93 Carol_Burnett 01 118
+Al_Davis 02 532 Lisa_Murkowski 01 581
+William_Bratton 01 189 Nicoletta_Braschi 01 109
+Ian_Gillan 01 625 Elizabeth_Hurley 01 81
+Katja_Riemann 02 57 Liam_Neeson 01 61
+Cherry_Jones 02 49 Peter_Goldmark 03 61
+Cate_Blanchett 02 48 Christian_Olsson 01 53
+Halle_Berry 01 118 Luca_Cordero_di_Montezemolo 01 57
+Paul_Gascoigne 02 129 Gary_Bauer 02 102
+Elvis_Presley 01 49 01 49
+Chick_Hearn 02 52 01 114
+Matt_Anderson 03 65 03 65
+Richard_Cohen 03 687 03 687
+Martin_Frost 01 268 02 61
+Martin_McGuinness 02 98 02 98
+Kirk_Ferentz 05 138 01 61
+Edward_Norton 05 249 02 269
+Peter_Medgyessy 01 62 04 55
+Bela_Karolyi 01 93 02 57
+Itamar_Franco 01 63 01 63
+George_Plimpton 02 109 02 109
+Christine_Todd_Whitman 02 57 01 89
+Kemal_Dervis 03 261 03 261
+Sarah_Weddington 01 113 02 77
+Jack_Welch 02 106 03 197
+Carla_Del_Ponte 02 202 01 51
+Nick_Markakis 01 65 01 65
+Nadine_Vinzens 02 93 02 93
+Barry_Alvarez 04 294 03 57
+Peter_Max 01 64 Kevin_Satterfield 02 83
+Angela_Merkel 01 48 Jacques_Rogge 01 705
+Christine_Todd_Whitman 03 182 Felicity_Huffman 01 121
+Lucy_Liu 01 357 Ian_McKellen 01 100
+Ben_Stein 02 115 Valentina_Tereshkova 01 433
+Park_Jie-won 01 106 Eli_Rosenbaum 02 53
+Ivan_Shvedoff 01 53 Terrence_Trammell 01 273
+Cheryl_Hines 01 53 Thor_Pedersen 01 82
+Baburam_Bhattari 03 97 Alejandro_Toledo 01 154
+Maria_Shriver 02 453 Tom_Harkin 02 73
+Laurent_Gbagbo 01 153 Eva_Marie_Saint 01 106
+Vicente_Fox 01 69 Eva_Dimas 01 125
+Barbra_Streisand 03 299 Mark_Hanson 01 97
+Mario_Gallegos 01 53 Tina_Fey 01 54
+Mahmoud_Al_Zhar 01 79 Agbani_Darego 01 70
+Laurence_Fishburne 01 71 Lars_Von_Trier 01 341
+Mariangel_Ruiz_Torrealba 01 209 Peter_Gilmour 01 562
+Luca_Cordero_di_Montezemolo 01 57 Alex_Penelas 01 582
+Rafael_Bielsa 02 65 Chea_Sophara 02 116
+Danielle_Spencer 01 222 Lars_Von_Trier 01 341
+Benazir_Bhutto 01 89 02 1331
+Whoopi_Goldberg 03 60 04 49
+James_Meeks 02 53 01 493
+Kelsey_Grammer 02 77 02 77
+Paul_Bremer 01 56 05 199
+Leonid_Kuchma 02 181 02 181
+Timothy_Goebel 02 129 01 85
+Paula_Dobriansky 02 77 02 77
+Caio_Blat 02 55 02 55
+Mahathir_Mohamad 03 569 02 287
+Tommy_Amaker 01 125 02 61
+Salman_Rushdie 01 101 02 125
+Saparmurat_Niyazov 01 54 02 49
+Idi_Amin 02 53 01 57
+Matt_LeBlanc 02 49 04 65
+Maria_Soledad_Alvear_Valenzuela 02 50 03 173
+Naomi_Campbell 01 56 02 107
+Paul_Kagame 02 80 02 80
+Elva_Hsiao 01 81 02 51
+Gerard_Kleisterlee 02 636 02 636
+Janis_Ruth_Coulter 02 179 Inocencio_Arias 01 437
+Owen_Wilson 01 50 Oliver_Phelps 02 57
+Pierre_Pettigrew 02 53 Benjamin_McKenzie 02 93
+Oxana_Fedorova 02 53 Ester_Canadas 02 247
+James_Brazelton 02 57 Tirunesh_Dibaba 01 57
+Chita_Rivera 02 49 Costas_Simitis 01 97
+Richard_Ward 01 297 Abdoulaye_Wade 01 54
+Raza_Rabbani 03 113 Valentino_Rossi 01 378
+Charlotte_Casiraghi 02 272 Bernard_Landry 01 89
+Leo_Ramirez 01 51 Manuel_Rosendo 01 65
+Frank_Beamer 02 65 Alicia_Witt 01 75
+Matt_Damon 01 241 Barbara_Bodine 01 130
+Louisa_Baileche 01 73 Kathryn_Bigelow 01 428
+Richard_Gere 01 89 Cecile_de_France 01 180
+Fazal-ur-Rehman 01 78 Nicolas_Sarkozy 05 71
+Owen_Wilson 01 50 George_Harrison 02 65
+Roger_Suarez 01 85 David_Brinkley 01 125
+Charles_Bronson 01 61 Kelly_Ripa 01 52
+Chuck_Amato 01 439 Kirk_Ferentz 04 51
+Brian_Clemens 02 73 Chuck_Woolery 02 51
+Angelo_Reyes 04 61 04 61
+Jaouad_Gharib 01 61 01 61
+Elaine_Stritch 04 202 03 97
+Bernard_Landry 02 113 02 113
+Carla_Sullivan 01 59 01 59
+Wolfgang_Schneiderhan 01 1361 01 1361
+Marc_Anthony 01 158 01 158
+Vanessa_Williams 02 53 01 81
+Flavia_Pennetta 02 66 01 109
+Paul_Reiser 04 141 02 105
+Amy_Brenneman 01 49 02 81
+Bartosz_Kizierowski 02 60 01 134
+Gary_Forsee 01 189 02 189
+Pilar_Montenegro 04 49 02 49
+Al_Leiter 01 72 01 72
+Emmy_Rossum 02 99 02 99
+Penelope_Cruz 01 85 02 165
+Linda_Dano 01 48 04 53
+Amelia_Vega 01 53 03 93
+Jaouad_Gharib 01 61 01 61
+Valentina_Cervi 01 120 Courtney_Cox 03 61
+Nicolas_Eyzaguirre 01 1337 Laura_Marlow 01 157
+Jane_Kaczmarek 02 63 Gary_Condit 03 137
+Louis_Van_Gaal 02 49 James_Meeks 01 493
+Anibal_Ibarra 01 74 Alexander_Lukashenko 01 125
+Caroline_Dhavernas 02 184 Alanis_Morissette 02 198
+Ahmad_Masood 03 173 Andy_Lau 01 49
+Charley_Armey 01 710 Cathy_Freeman 01 203
+Paul_Newman 01 98 Charlotte_Casiraghi 01 56
+Zulfiqar_Ahmed 01 61 Rick_Caruso 01 145
+Ernest_Hollings 03 57 Ben_Curtis 01 117
+Dalai_Lama 02 49 Cheryl_Hines 01 53
+Dai_Bachtiar 01 513 Federico_Trillo 01 97
+Thabo_Mbeki 01 521 Nicanor_Duarte_Frutos 02 66
+Ludivine_Sagnier 03 101 Queen_Silvia 01 133
+Baburam_Bhattari 01 813 Noel_Niell 01 89
+Rick_Romley 01 57 Paula_Abdul 01 73
+Colin_Campbell 01 110 Vadim_Devyatovskiy 01 153
+Adrien_Brody 01 53 Vince_Gill 01 169
+Pedro_Solbes 03 261 Roger_Penske 02 72
+William_Ford_Jr 02 142 02 142
+Christine_Todd_Whitman 01 89 02 57
+Marisa_Tomei 01 177 01 177
+Andrea_De_Cruz 01 93 02 97
+Christopher_Patten 02 149 01 180
+Adam_Ant 02 58 02 58
+Marina_Silva 02 101 04 173
+Laura_Bush 01 115 02 185
+Prince_Charles 02 63 01 85
+Elva_Hsiao 02 51 01 81
+Abdoulaye_Wade 01 54 01 54
+Dany_Heatley 01 70 02 77
+Marion_Barry 02 373 02 373
+Warren_Buffett 04 143 02 653
+Pervez_Musharraf 02 100 01 85
+Camryn_Manheim 01 216 01 216
+Lesia_Burlak 01 89 02 49
+Peter_Gilmour 01 562 02 173
+Prince_Charles 02 63 01 85
+Amr_Moussa 02 221 01 165
+Amelie_Mauresmo 01 65 Jane_Pauley 02 278
+Evander_Holyfield 01 69 Angelo_Reyes 01 100
+Peter_Medgyessy 03 89 Abdul_Rahman 01 308
+Robbie_Williams 01 69 Condoleezza_Rice 01 205
+Lokendra_Bahadur_Chand 01 58 Abel_Pacheco 01 179
+Val_Ackerman 01 173 Filip_De_Winter 03 317
+Taha_Yassin_Ramadan 01 73 Jaime_Pressly 01 53
+Richard_Gere 01 89 James_Carville 02 403
+Laurence_Fishburne 03 107 Orrin_Hatch 02 218
+Angelo_Reyes 02 57 Paul_ONeill 01 189
+Sally_Field 02 56 Sarah_Michelle_Gellar 01 93
+Ellen_Saracini 01 133 Mary_Robinson 03 180
+BJ_Habibie 01 149 Vladimiro_Montesinos 02 81
+Ricardo_Lopez_Murphy 01 405 Markus_Beyer 01 86
+Paola_Espinoza 02 125 Barbara_Bodine 05 69
+Wolfgang_Schneiderhan 02 73 Recep_Tayyip_Erdogan 01 114
+Ernie_Grunfeld 01 74 Maria_Soledad_Alvear_Valenzuela 01 73
+Maria_Bello 02 105 Viola_Davis 01 115
+Phil_McGraw 02 92 Lucio_Stanca 03 201
+Jack_Welch 05 73 Lisa_Marie_Presley 04 69
+Gerald_Ford 02 65 01 65
+Rita_Wilson 01 89 01 89
+Alanis_Morissette 01 87 01 87
+Alastair_Campbell 03 98 01 78
+Lionel_Richie 01 157 01 157
+Vanessa_Redgrave 01 57 01 57
+Benazir_Bhutto 01 89 01 89
+James_Wattana 02 105 02 105
+Li_Zhaoxing 03 73 02 77
+Christine_Todd_Whitman 02 57 02 57
+Ben_Kingsley 01 90 01 90
+Cameron_Diaz 03 85 02 66
+Norm_Macdonald 01 101 03 181
+Laurence_Tribe 02 85 01 54
+Whoopi_Goldberg 02 69 01 49
+Akbar_Al_Baker 02 54 02 54
+Makhdoom_Amin_Fahim 02 90 02 90
+Robert_F_Kennedy_Jr 06 113 06 113
+Elijah_Wood 02 55 01 69
+Isabella_Rossellini 04 73 02 73
+Tom_DeLay 01 65 Anibal_Ibarra 01 74
+Peter_Hollingworth 02 90 Kim_Jong-Il 01 101
+Regina_Ip 01 81 Akmal_Taher 02 110
+Tariq_Aziz 02 133 Dale_Earnhardt 01 89
+Marcelo_Ebrard 01 61 Carla_Del_Ponte 02 202
+Laila_Ali 01 85 Han_Sung_Joo 01 579
+Theo_Epstein 01 97 Abel_Pacheco 03 52
+Emily_Robison 01 69 Colleen_Atwood 01 101
+Pamela_Melroy 01 2137 Nancy_Kerrigan 05 115
+Regina_Ip 02 262 Hank_McKinnell 02 152
+David_Caruso 04 51 Caroline_Dhavernas 01 165
+Gary_Condit 02 57 James_Gandolfini 02 89
+Bertrand_Delanoe 01 177 Abraham_Foxman 01 63
+Roger_Suarez 01 85 Jason_Campbell 01 119
+Flavia_Pennetta 01 109 Luis_Fonsi 01 153
+Patricia_Phillips 01 75 Andy_Rooney 03 181
+Aaron_Eckhart 02 49 Leonardo_DiCaprio 01 133
+Will_Young 01 269 Farouk_Kaddoumi 01 59
+Mark_Shapiro 01 69 Philippe_Noiret 02 61
+Kirsten_Dunst 04 103 Emily_Robison 01 69
+Richard_Lennon 03 182 02 357
+Yuri_Fedotov 02 69 02 69
+Idi_Amin 01 57 02 53
+Norman_Mineta 02 101 01 57
+Pier_Ferdinando_Casini 01 106 02 57
+Liu_Ye 04 157 02 49
+Kevin_Satterfield 03 141 01 177
+Larry_Flynt 01 69 03 67
+Eve_Ensler 04 115 05 63
+Imre_Kertasz 01 61 01 61
+Betty_Williams 02 49 01 189
+Chris_Cirino 03 49 02 77
+Carlos_Salinas 02 65 01 182
+Salma_Hayek 02 71 01 53
+Roger_Penske 01 68 02 72
+Narendra_Modi 02 73 03 454
+Sam_Mendes 01 85 02 253
+Catherine_Zeta-Jones 03 186 01 79
+Richard_Lugar 03 65 04 302
+Carlos_Iturgaitz 03 300 02 214
+Christine_Gregoire 02 133 Amanda_Bynes 02 49
+Christy_Turlington 03 77 Cindy_Taylor 02 51
+Lino_Oviedo 03 273 Imam_Samudra 01 59
+Ahmed_Ahmed 04 197 Larry_Pleau 01 313
+Yuvraj_Singh 01 79 Nick_Rimando 03 73
+Wang_Nan 01 61 Kristen_Breitweiser 03 309
+Daniel_Scioli 01 357 Gabriella_Bo 03 86
+Orrin_Hatch 02 218 Will_Self 01 85
+Rachel_Corrie 01 238 Martin_McGuinness 02 98
+Yuvraj_Singh 01 79 Lou_Lang 04 275
+Eric_Bana 01 333 Mary_Carey 01 59
+Alejandro_Gonzalez_Inarritu 02 100 Brian_Billick 01 51
+Chris_Matthews 02 153 Colin_Campbell 01 110
+Warren_Buffett 02 653 Porter_Goss 01 57
+Daniell_Sunjata 02 214 Alek_Wek 01 52
+Sam_Brownback 01 309 Ellen_Pompeo 02 61
+Larenz_Tate 01 85 Elena_Dementieva 02 53
+Lee_Byung-woong 02 82 Gene_Hackman 01 57
+Bernice_Wong 02 206 Sarah_Wynter 03 61
+James_McPherson 01 406 Collis_Temple_III 02 89
+Elisha_Cuthbert 01 262 02 74
+Calista_Flockhart 03 60 01 48
+Ilie_Nastase 01 53 01 53
+Jane_Pauley 03 157 03 157
+Sally_Kirkland 02 125 01 73
+Newt_Gingrich 02 77 02 77
+Francisco_Santos 01 81 01 81
+Kevin_Borseth 01 105 02 83
+Daniell_Sunjata 01 354 01 354
+Alejandro_Gonzalez_Inarritu 01 61 03 70
+Tian_Liang 02 60 01 57
+Linda_Lingle 01 492 03 165
+Ion_Tiriac 01 233 01 233
+Larry_Wilmore 01 50 03 69
+Gael_Garcia_Bermal 01 49 01 49
+Saied_Hadi_al_Mudarissi 04 157 02 142
+Lionel_Richie 02 53 01 157
+David_Blaine 01 125 01 125
+Margaret_Thatcher 01 1741 02 81
+Cherry_Jones 02 49 02 49
+Barry_Switzer 02 73 Andrew_Cuomo 02 51
+Lynne_Cheney 02 61 Nestor_Kirchner 01 125
+Jacqueline_Gold 03 65 Christian_Bale 01 117
+Kelly_Ripa 01 52 Dale_Earnhardt_Jr 02 93
+Paul_Wilson 01 125 Danielle_Spencer 01 222
+Yasser_Arafat 01 49 Hasan_Wirayuda 01 81
+Nobuyuki_Idei 02 49 Sara_Silverman 02 133
+Nadine_Vinzens 01 49 Nina_Pecari 01 234
+Janusz_Kaminski 03 69 Carroll_Weimer 01 81
+Adam_Scott 01 238 Cherry_Jones 01 81
+Halle_Berry 01 118 Al_Leiter 02 72
+Wayne_Allard 04 105 Alan_Dershowitz 02 57
+Baburam_Bhattari 01 813 Ray_Wasden 02 305
+Zulfiqar_Ahmed 01 61 Xanana_Gusmao 01 721
+Alex_Sink 02 226 Nathalie_Baye 02 49
+Parthiv_Patel 01 67 Martin_Landau 02 186
+Nadine_Vinzens 01 49 Frank_Solich 01 69
+Zhu_Rongji 01 52 Clint_Howard 02 52
+Ozzy_Osbourne 01 105 Kofi_Annan 01 1925
+Aaron_Guiel 01 132 Amy_Brenneman 02 81
+Alberto_Ruiz_Gallardon 02 197 02 197
+George_HW_Bush 02 64 01 57
+Laurent_Woulzy 02 49 02 49
+Matt_Anderson 02 149 01 88
+Carlo_Azeglio_Ciampi 03 49 01 592
+Luis_Ernesto_Derbez_Bautista 03 65 02 123
+Queen_Rania 03 84 02 117
+Mary_Matalin 05 167 04 293
+Valery_Giscard_dEstaing 01 345 02 130
+Conchita_Martinez 02 57 02 57
+Amelia_Vega 04 81 02 53
+Mary_Matalin 04 293 05 167
+Martin_Frost 02 61 02 61
+Barbra_Streisand 02 113 02 113
+Robin_McLaurin_Williams 04 302 01 141
+Lorraine_Bracco 01 73 01 73
+Bill_Fennelly 02 173 01 137
+Eliane_Karp 02 317 03 57
+Tino_Martinez 02 117 02 117
+Paul_Reiser 03 65 01 149
+Valentina_Cervi 02 161 Paul_Reiser 02 105
+Nikki_Cascone 01 70 Katharine_Hepburn 02 114
+Luiz_Inacio_Lula_da_Silva 02 313 Larry_Eustachy 01 1457
+Charles_Ingram 01 232 Lyle_Lovett 03 74
+Matt_Anderson 04 189 Christine_Todd_Whitman 01 89
+Paul_Sarbanes 02 259 Ali_Fallahian 02 81
+Craig_MacTavish 01 84 Portia_de_Rossi 01 69
+Wang_Nan 01 61 Wolfgang_Schuessel 02 67
+Betty_Williams 01 189 Eduardo_Duhalde 01 70
+Kirsten_Dunst 03 113 Craig_OClair 01 65
+Peter_Lundgren 01 73 Hanan_Ashrawi 02 263
+Robbie_Coltrane 03 197 Amy_Yasbeck 03 100
+Aldo_Paredes 01 108 Philip_Murtaugh 01 210
+Dalai_Lama 02 49 Oscar_DLeon 03 49
+Chris_Cooper 03 606 Paula_Prentiss 02 53
+Dave_McGinnis 01 61 Roberto_Benigni 03 72
+James_Carville 03 206 Franklin_Brown 03 117
+Jamir_Miller 01 113 Lee_Chang-dong 01 447
+Liza_Minnelli 01 48 George_Foreman 01 109
+Alfredo_di_Stefano 03 821 Romain_Duris 02 441
+Daniel_Rouse 01 457 01 457
+Mary_Matalin 05 167 03 253
+Martha_Lucia_Ramirez 02 57 02 57
+Abba_Eban 01 237 01 237
+Nawabzada_Nasrullah_Khan 02 137 02 137
+Baburam_Bhattari 03 97 01 813
+Lyle_Lovett 01 137 01 137
+Ivana_Trump 02 65 01 59
+Valentina_Cervi 02 161 01 120
+Nicolas_Cage 04 61 04 61
+Leland_Chapman 02 84 02 84
+Akbar_Al_Baker 02 54 01 52
+Ali_Mohammed_Maher 01 73 01 73
+Wen_Jiabao 01 69 01 69
+Lorraine_Bracco 01 73 01 73
+Lincoln_Chafee 03 825 03 825
+Fred_Rogers 01 201 02 67
+Bianca_Jagger 01 331 03 1505
+Picabo_Street 03 101 03 101
+Eric_Idle 02 101 01 113
+Noel_Niell 02 77 Elinor_Caplan 01 94
+Kenneth_Reichert 02 65 Carlos_Bianchi 02 99
+Lesia_Burlak 02 49 Paul_Crane 03 101
+Carla_Del_Ponte 01 51 Patricia_Medina 01 49
+Frank_Griswold 01 61 Eric_Bana 01 333
+Elva_Hsiao 02 51 Carolina_Barco 01 101
+Warren_Beatty 02 96 Patricia_Heaton 01 53
+Kostya_Tszyu 01 69 Kenneth_Reichert 01 70
+Charles_Bronson 01 61 Alimzhan_Tokhtakhounov 01 193
+Laura_Elena_Harring 01 77 Paradorn_Srichaphan 01 133
+Ivana_Trump 02 65 Orrin_Hatch 01 429
+Alexandra_Pelosi 02 55 Tom_Ridge 03 79
+Carmen_Electra 01 94 Enrique_Bolanos 01 145
+Ben_Lee 02 53 Kevin_Spacey 01 65
+Tim_Pawlenty 02 61 Patricia_Heaton 03 65
+Kurt_Schottenheimer 01 89 Ben_Kingsley 02 405
+Keith_Tyson 03 118 Carly_Fiorina 01 130
+Alex_Zanardi 01 66 Zhang_Ziyi 03 77
+Tocker_Pudwill 01 121 Alessandra_Cerna 01 110
+Marquier_Montano_Contreras 02 1001 Caroline_Kennedy 01 166
+Luiz_Felipe_Scolari 01 297 02 268
+Gary_Bauer 01 68 02 102
+Rodrigo_Borja 02 60 02 60
+Ernest_Hollings 01 323 01 323
+Taylor_Twellman 02 515 01 173
+Valentina_Cervi 01 120 01 120
+Elizabeth_Hill 01 245 02 57
+Estelle_Morris 03 74 02 129
+Marquier_Montano_Contreras 02 1001 02 1001
+Paul_Reiser 02 105 04 141
+Robin_McLaurin_Williams 02 63 03 153
+Linda_Sanchez 04 104 02 226
+William_Donaldson 01 185 01 185
+Olympia_Dukakis 01 98 01 98
+Manuel_Llorente 01 146 01 146
+Leszek_Miller 03 65 01 337
+Ernie_Fletcher 02 107 02 107
+Luis_Guzman 02 138 02 138
+Noel_Niell 02 77 02 77
+Emma_Watson 01 118 01 118
+Gael_Garcia_Bermal 02 117 Christopher_Amolsch 02 133
+Hamid_Karzai 01 54 Pete_Sampras 01 125
+Wu_Peng 01 241 Nestor_Santillan 01 49
+Colleen_Atwood 02 49 Raghad_Saddam_Hussein 01 90
+Angela_Mascia-Frye 01 144 Christine_Ebersole 03 49
+Barry_Williams 03 57 Hank_McKinnell 02 152
+Clark_Randt 01 76 Franco_Dragone 01 86
+Yasser_Arafat 01 49 Aly_Wagner 02 85
+Fernando_Valenzuela 02 156 Park_Jie-won 01 106
+Adriana_Lima 01 53 Richard_Haass 02 905
+Nabil_Shaath 01 76 Walter_Annenberg 01 210
+William_Donaldson 02 345 Wayne_Newton 01 233
+Pak_Gil_Yon 01 221 Jack_Nicholson 01 209
+Ernesto_Zedillo 01 2125 Kostya_Tszyu 02 109
+Edwin_Edwards 01 51 Florecita_Cobian 02 63
+Compay_Segundo 01 63 AJ_Cook 02 79
+Jaime_Pressly 02 53 Islam_Karimov 01 57
+Lennart_Johansson 01 95 Colin_Montgomerie 01 181
+Amy_Redford 01 211 Raza_Rabbani 02 82
+David_Canary 01 74 Mario_Cipollini 02 61
+Celine_Dion 01 75 01 75
+Peter_Arnett 01 373 02 133
+David_Carradine 01 73 01 73
+Zhu_Rongji 02 242 02 242
+Carlos_Salinas 02 65 02 65
+Paul_Kagame 01 57 02 80
+Darryl_McDaniels 01 169 02 146
+Raza_Rabbani 02 82 03 113
+Tom_Smothers 02 49 01 49
+Keith_Olbermann 03 785 04 133
+Akiko_Morigami 02 53 01 51
+Charles_Bronson 03 109 02 49
+Caio_Blat 01 97 01 97
+Paul_Crane 01 105 03 101
+Luiz_Inacio_Lula_da_Silva 02 313 02 313
+Paul_Bettany 01 51 02 57
+Paula_Prentiss 02 53 02 53
+Jane_Fonda 01 93 02 53
+Franco_Frattini 01 585 03 49
+Viara_Vike-Freiberga 01 433 02 337
+Flavia_Pennetta 03 51 Corliss_Williamson 01 85
+Leszek_Miller 01 337 Walter_Mondale 02 91
+Hans-Christian_Schmid 01 160 Matt_Damon 01 241
+Jan_Peter_Balkenende 05 113 Claude_Jorda 01 435
+Alicia_Witt 01 75 Laurent_Gbagbo 01 153
+Princess_Stephanie 04 133 Ridley_Scott 02 181
+Aidan_Quinn 04 87 JK_Rowling 01 189
+Begum_Khaleda_Zia 01 581 Norman_Mailer 01 541
+Paul_Hogan 01 65 Darrell_Issa 02 1110
+Alicia_Keys 01 49 Colleen_Atwood 02 49
+Elena_Dementieva 02 53 Theo_Epstein 01 97
+Alberto_Acosta 02 225 Tim_Allen 02 101
+Richard_Lugar 01 105 Cheryl_James 01 150
+Princess_Diana 01 117 Jacqueline_Gold 02 81
+Tom_McClintock 01 95 Ozzy_Osbourne 01 105
+George_Ryan 01 333 Eliza_Dushku 04 61
+Catriona_Le_May_Doan 02 692 James_McPherson 03 208
+Marc_Bulger 01 85 Edmund_Hillary 01 85
+Peter_Gabriel 01 113 Jaouad_Gharib 02 549
+Valery_Giscard_dEstaing 01 345 Marc_Racicot 01 229
+Jamie_Dimon 02 95 02 95
+Nanni_Moretti 03 89 02 64
+Wolfgang_Clement 01 425 02 49
+Natalie_Imbruglia 01 73 01 73
+Sarah_Wynter 02 73 03 61
+Dany_Heatley 02 77 01 70
+Richard_Daley 02 81 02 81
+Christine_Todd_Whitman 01 89 01 89
+Pauley_Perrette 03 53 04 66
+Edward_James_Olmos 02 114 02 114
+Caroline_Link 01 142 02 201
+Mario_Dumont 01 169 01 169
+Ali_Mohammed_Maher 01 73 01 73
+Akiko_Morigami 01 51 02 53
+Alec_Baldwin 03 67 03 67
+Kweisi_Mfume 04 157 03 265
+Ivana_Trump 03 85 02 65
+Emma_Watson 02 89 02 89
+Ralph_Klein 01 59 03 51
+Kenneth_Reichert 01 70 02 65
+Carlos_Quintanilla_Schmidt 01 212 Franko_Simatovic 01 137
+Liam_Neeson 01 61 Jane_Rooney 01 517
+Nestor_Kirchner 01 125 Itzhak_Perlman 02 241
+James_Brosnahan 01 49 Viara_Vike-Freiberga 01 433
+Krishna_Bhadur_Mahara 04 65 Eurico_Guterres 01 285
+Ed_Smart 02 78 Alejandro_Gonzalez_Inarritu 02 100
+Emma_Watson 01 118 Halle_Berry 01 118
+Marcella_Anderson 01 193 Ted_Turner 03 173
+Elvis_Stojko 01 97 Thabo_Mbeki 01 521
+Fidel_Castro 02 73 Paul_Sarbanes 01 77
+Alexander_Downer 01 54 Pharrell_Williams 01 55
+George_Blaney 02 564 Zahir_Shah 01 241
+Angela_Mascia-Frye 01 144 Sananda_Maitreya 01 56
+Albert_Brooks 01 217 Lynne_Thigpen 01 245
+Lena_Olin 01 97 Ridley_Scott 03 69
+Ilan_Goldfajn 02 51 Wayne_Allard 03 133
+Marisa_Tomei 02 53 Cherry_Jones 02 49
+Frank_Griswold 01 61 Jaime_Pressly 02 53
+Terry_Hoeppner 01 1309 Jada_Pinkett_Smith 01 63
+Na_Na_Keum 01 57 Vin_Diesel 01 59
+Alastair_Campbell 03 98 01 78
+Robin_McLaurin_Williams 02 63 03 153
+Carlos_Vives 01 66 01 66
+Abba_Eban 01 237 01 237
+Pio_Laghi 01 509 02 108
+Martin_Luther_King_III 01 250 01 250
+Valentina_Cervi 01 120 01 120
+Alfonso_Cuaron 02 50 02 50
+Kirk_Ferentz 05 138 02 277
+Ed_Smart 02 78 01 72
+Ted_Maher 02 129 02 129
+Al_Gore 03 67 04 48
+Peter_Gabriel 01 113 02 55
+Charlton_Heston 01 48 01 48
+Chip_Ganassi 01 137 02 230
+Jack_Valenti 02 66 01 61
+Linda_Franklin 03 265 01 1933
+Maria_Soledad_Alvear_Valenzuela 02 50 01 73
+Jamie_Lee_Curtis 01 145 02 73
+George_Blaney 02 564 02 564
+Anders_Ebbeson 01 50 William_Ford_Jr 01 65
+Aishwarya_Rai 04 74 Oscar_DLeon 02 91
+Walter_Mondale 01 77 Carlos_Queiroz 03 56
+Itamar_Franco 01 63 Harvey_Fierstein 03 134
+Colin_Montgomerie 01 181 Lynne_Cheney 01 60
+Cheryl_Tiegs 02 57 Clara_Harris 01 69
+Hamid_Karzai 01 54 Leonardo_DiCaprio 01 133
+Caroline_Dhavernas 02 184 Tom_Lantos 01 113
+Rob_Morrow 02 153 Sally_Ride 02 66
+Naomi_Watts 01 74 Christine_Ebersole 02 54
+Marina_Anissina 01 93 Daniel_Barenboim 01 57
+Gerard_Butler 01 237 Frank_Hsieh 01 265
+Edmund_Hillary 01 85 Angelina_Jolie 01 81
+S_Jayakumar 01 49 Valentina_Cervi 02 161
+Leon_Lai 01 73 Fred_Thompson 01 81
+Ludivine_Sagnier 04 117 Newt_Gingrich 05 177
+Amanda_Beard 01 89 Phil_Gramm 05 69
+Yoon_Jin-Sik 01 95 Daniell_Sunjata 03 165
+Begum_Khaleda_Zia 01 581 Adam_Sandler 01 62
+Elena_de_Chavez 01 226 Lino_Oviedo 03 273
+Amy_Yasbeck 03 100 01 153
+Paul_Otellini 04 65 02 57
+Pedro_Solbes 01 128 04 595
+Alexis_Bledel 02 55 02 55
+Brian_Clemens 02 73 01 337
+Paul_Wolfowitz 01 65 01 65
+Teresa_Heinz_Kerry 03 62 03 62
+Dai_Bachtiar 01 513 04 262
+Chin-Feng_Chen 02 757 02 757
+Alek_Wek 01 52 04 137
+James_Brazelton 02 57 02 57
+Christy_Turlington 03 77 03 77
+Leticia_Van_de_Putte 02 1905 03 257
+James_Meeks 01 493 03 153
+Marion_Barry 02 373 02 373
+Robbie_Coltrane 05 261 05 261
+Mark_Dacey 01 107 01 107
+Catherine_Zeta-Jones 03 186 03 186
+Narendra_Modi 03 454 01 53
+Robert_McKee 02 67 01 93
+Carol_Burnett 01 118 Luiz_Felipe_Scolari 01 297
+Andrew_Bernard 02 81 Paul_Otellini 01 65
+Vanessa_Williams 02 53 Paradorn_Srichaphan 01 133
+Jason_Alexander 01 53 Pascal_Quignard 01 245
+Federico_Trillo 01 97 Tomas_Enge 01 97
+Theresa_Gattung 01 245 Charles_Schumer 03 449
+Lene_Espersen 03 65 Bernadette_Peters 02 125
+Lenny_Wilkens 01 49 Paul_Greengrass 02 278
+Rachel_Hunter 02 93 Carla_Gay_Balingit 01 218
+Pupi_Avati 01 69 Corinna_Harfouch 02 81
+Natasha_Lyonne 03 346 Roberto_Marinho 01 110
+Corinna_Harfouch 02 81 Mark_Wahlberg 02 85
+Frank_Hsieh 01 265 Janet_Napolitano 01 225
+Bashar_Assad 01 57 Alberto_Acosta 01 50
+Lydia_Shum 01 197 Clint_Howard 03 54
+Irina_Lobacheva 01 53 Theresa_May 01 977
+Larry_Brown 02 66 Claudia_Schiffer 01 58
+Penelope_Cruz 02 165 Tamika_Catchings 01 221
+Paul_Tracy 01 145 Frank_Beamer 01 53
+Cecile_de_France 01 180 Richard_Rodriguez 04 97
+Larry_Flynt 02 67 02 67
+Winona_Ryder 01 61 01 61
+Lewis_Booth 02 893 01 49
+Patricia_Clarkson 02 94 02 94
+Ernesto_Zedillo 02 73 04 49
+Eric_Fehr 02 101 02 101
+Edwin_Edwards 02 64 01 51
+Edward_Norton 01 139 01 139
+Alfonso_Cuaron 01 650 02 50
+Renato_Soru 03 97 02 137
+Condoleezza_Rice 01 205 02 1454
+Ciaran_Hinds 02 193 02 193
+Barry_Diller 02 169 04 199
+Lubomir_Zaoralek 02 101 01 109
+Ludivine_Sagnier 01 238 04 117
+Nicolas_Sarkozy 01 85 01 85
+Eric_Fehr 02 101 01 69
+Chris_Noth 03 57 02 137
+Christopher_Patten 01 180 02 149
+Chris_Noth 03 57 02 137
+Mario_Jardel 01 110 Nia_Vardalos 03 77
+Sam_Rockwell 01 103 Paul_Byrd 01 54
+Lou_Lang 02 48 Coleen_Rowley 02 697
+Mark_Leno 02 129 Cherie_Blair 03 81
+Carmen_Electra 01 94 Tom_McClintock 01 95
+Pete_Sampras 01 125 Alex_Zanardi 01 66
+Teri_Garr 01 117 Patricia_Hearst 01 245
+George_W_Bush 05 69 Liu_Xiaoqing 01 61
+Uma_Thurman 02 49 Padraig_Harrington 01 49
+Paul_Otellini 02 57 Tom_McClintock 01 95
+Yuri_Fedotov 01 69 Mary_Lou_Retton 01 53
+King_Abdullah_II 02 113 Charlize_Theron 03 48
+Paul_Otellini 03 65 Carlos_Iturgaitz 04 126
+Rick_Barnes 01 105 James_Brown 01 51
+Conrad_Black 02 385 Fernando_Valenzuela 01 242
+Amber_Frey 01 63 Nestor_Gonzalez 01 305
+Laura_Ziskin 01 294 Gary_Forsee 02 189
+Lynn_Abraham 01 73 James_Phelps 01 78
+Chris_Tucker 02 87 Alanna_Ubach 01 52
+Ham_Pong-sil 01 68 Alejandro_Gonzalez_Inarritu 03 70
+Ali_Mohammed_Maher 01 73 02 65
+Francis_Collins 04 197 01 51
+Chris_Dodd 01 247 01 247
+Caroline_Kennedy 02 219 02 219
+Caroline_Dhavernas 02 184 01 165
+Vanessa_Redgrave 01 57 01 57
+Isabelle_Huppert 02 63 03 420
+Jafar_Umar_Thalib 03 99 01 94
+Martha_Lucia_Ramirez 01 113 01 113
+Saied_Hadi_al_Mudarissi 02 142 05 69
+Geoff_Dixon 02 83 01 249
+Akiko_Morigami 02 53 01 51
+Kathryn_Morris 04 149 01 49
+Sally_Kirkland 01 73 02 125
+Chick_Hearn 01 114 01 114
+Adam_Sandler 01 62 02 48
+Mariana_Ohata 02 121 01 117
+Daniel_Kurtzer 01 66 01 66
+Lisa_Marie_Presley 01 53 02 97
+Cristina_Fernandez 03 74 01 259
+Eli_Broad 01 85 AJ_Cook 01 194
+Gabriel_Valdes 01 308 Collis_Temple_III 01 117
+Fernando_Valenzuela 01 242 Tocker_Pudwill 01 121
+Fidel_Castro_Daiz-Balart 01 57 El_Hadji_Diouf 01 109
+Makhdoom_Amin_Fahim 02 90 Pascal_Lamy 01 170
+Kelsey_Grammer 03 49 Talisa_Soto 01 69
+Harbhajan_Singh 01 50 Emmy_Rossum 02 99
+Tom_Gamboa 01 169 Vladimir_Spidla 01 269
+Corinna_Harfouch 02 81 Christiane_Wulff 01 198
+Reggie_Miller 01 87 Nina_Pecari 01 234
+Edmund_Hillary 01 85 Chita_Rivera 03 61
+Richard_Harris 01 161 Natasha_Henstridge 01 51
+Jan_Ullrich 02 117 Kathy_Gannon 01 369
+Clive_Woodward 02 49 Cristina_Kirchner 01 50
+Dave_Matthews 03 105 Ken_Watanabe 02 81
+Alicia_Keys 01 49 Chris_Klein 01 101
+Chris_Penn 01 201 Lily_Tomlin 01 173
+Chris_Cirino 03 49 Vladimir_Putin 01 545
+Wu_Peng 01 241 Itamar_Franco 01 63
+Aaron_Tippin 01 83 Gerard_Kleisterlee 01 497
+Sam_Mendes 01 85 02 253
+Mario_Cipollini 01 269 01 269
+Wolfgang_Schneiderhan 01 1361 01 1361
+Ed_Rendell 03 235 02 159
+Chris_Tucker 01 50 03 49
+Cheryl_Ford 02 62 01 96
+Camryn_Manheim 01 216 01 216
+Vojislav_Kostunica 02 112 01 53
+Dan_Ackroyd 02 123 02 123
+Geraldine_Chaplin 02 97 01 203
+George_W_Bush 04 128 01 365
+Noel_Niell 02 77 01 89
+Geoff_Hoon 02 73 01 152
+Laura_Elena_Harring 02 157 04 69
+Martin_Frost 02 61 02 61
+Claudette_Robinson 01 93 01 93
+Alec_Baldwin 02 50 02 50
+Elaine_Stritch 03 97 03 97
+Lisa_Marie_Presley 02 97 02 97
+Benjamin_Netanyahu 01 89 03 353
+Vince_Gill 01 169 Gerard_Kleisterlee 01 497
+Barbara_Boxer 03 86 Angel_Lockward 01 53
+Dan_Ackroyd 03 221 Cindy_Crawford 03 161
+Cheryl_Hines 01 53 Paula_Prentiss 02 53
+Barry_Alvarez 01 66 Sanjay_Gupta 02 74
+Yolanda_King 03 49 Ally_Sheedy 01 73
+Marcelo_Ebrard 02 121 Alexandre_Daigle 01 258
+Terry_Lynn_Barton 01 185 Pupi_Avati 01 69
+Sadie_Frost 03 205 Adrianna_Zuzic 02 173
+Gary_Bettman 03 149 William_Donaldson 03 121
+Edward_Norton 05 249 Tom_DeLay 02 117
+Christopher_Patten 01 180 Chadha_Gurinder 04 74
+Tamika_Catchings 01 221 Nestor_Santillan 01 49
+Pat_Summitt 01 51 Ivana_Trump 03 85
+Paul_Crane 03 101 Sarah_Jessica_Parker 01 209
+Brett_Hull 01 194 Tom_Vilsack 03 53
+Linda_Sanchez 01 389 Danny_Ainge 01 48
+Taylor_Twellman 01 173 Martin_Sheen 01 141
+Victor_Kraatz 01 69 Pauley_Perrette 01 49
+Paul_Kagame 02 80 02 80
+Harald_Ringstorff 02 48 02 48
+Todd_Parrott 03 657 02 185
+Marisa_Tomei 01 177 01 177
+Alastair_Campbell 03 98 02 69
+Jalen_Rose 02 49 01 49
+Lucia_Kenny_Anthony 04 109 03 53
+Ibrahim_Al-Marashi 01 65 01 65
+Bela_Karolyi 02 57 01 93
+Al_Leiter 02 72 01 72
+Barbara_Walters 01 61 02 277
+Colin_Jackson 01 105 01 105
+Laura_Elena_Harring 02 157 04 69
+Raoul_Ruiz 01 897 02 122
+Sam_Rockwell 02 109 01 103
+Elizabeth_Berkeley 04 66 02 133
+Tim_Allen 02 101 02 101
+Carey_Lowell 02 187 01 136
+Katalin_Kollat 01 57 01 57
+Gary_Carter 01 70 02 297
+Clive_Woodward 01 57 Larry_Johnson 01 48
+Geoff_Hoon 02 73 Rachel_Leigh_Cook 01 81
+Fazal-ur-Rehman 01 78 Carlos_Ghosn 01 83
+Padraig_Harrington 01 49 Jaime_Pressly 04 62
+Fernando_Leon_de_Aranoa 01 301 Xanana_Gusmao 02 97
+Claude_Jorda 01 435 Carla_Gay_Balingit 01 218
+Rand_Beers 02 750 LK_Advani 01 85
+Nancy_Sinatra 01 50 Peter_Max 01 64
+Zhang_Ziyi 03 77 Robbie_Williams 02 165
+Ben_Curtis 02 169 Federico_Trillo 01 97
+Rick_Perry 01 409 Ernie_Fletcher 02 107
+Darla_Moore 01 189 Takeo_Fukui 02 268
+Yang_Jianli 03 97 Darla_Moore 01 189
+Akiko_Morigami 01 51 Claudio_Abbado 01 129
+Louisa_Baileche 01 73 Eric_Rosser 01 61
+Lisa_Ling 03 54 Li_Changchun 01 77
+Hans_Blix 01 61 Francisco_Santos 02 178
+Alexis_Dennisoff 02 184 Ben_Stein 03 245
+William_McDonough 04 76 Natalie_Stewart 02 137
+Lew_Rywin 01 53 Phil_Gramm 01 61
+Darryl_McDaniels 02 146 01 169
+Carly_Gullickson 02 179 01 138
+Lionel_Richie 02 53 01 157
+Lynne_Cheney 02 61 01 60
+Uma_Thurman 01 89 01 89
+Dalai_Lama 02 49 02 49
+Piers_Sellers 02 309 02 309
+Evan_Marriott 01 101 01 101
+Laurence_Fishburne 03 107 01 71
+Priscilla_Presley 02 161 02 161
+Andy_Rooney 03 181 02 92
+Larry_Wilmore 01 50 02 61
+Warren_Beatty 02 96 03 81
+Ellen_Barkin 01 102 01 102
+Ali_Abbas 01 65 04 105
+Daniel_Day-Lewis 02 58 01 49
+Victor_Garber 01 71 02 57
+Luciano_Pavarotti 02 90 02 90
+Aishwarya_Rai 04 74 02 63
+Charles_Schumer 03 449 03 449
+Caroline_Link 01 142 Fernando_Leon_de_Aranoa 01 301
+Eileen_Coparropa 01 61 Ellen_Saracini 01 133
+Begum_Khaleda_Zia 01 581 Lindsey_Graham 02 405
+Elva_Hsiao 01 81 Adel_Al-Jubeir 01 469
+Manijeh_Hekmat 01 89 Francis_Ford_Coppola 03 49
+Paul_Wilson 03 86 Frank_Caliendo 01 157
+James_Kopp 01 93 Tim_Robbins 02 53
+Elvis_Stojko 02 89 Habib_Rizieq 02 256
+Bernadette_Peters 01 235 Mario_Cipollini 01 269
+Andres_Pastrana 01 140 Larenz_Tate 01 85
+Amram_Mitzna 01 65 Nicolas_Eyzaguirre 03 131
+Ahmed_Ahmed 01 233 George_Ryan 01 333
+Eric_Shinseki 02 189 Barry_Diller 01 102
+Ornella_Muti 02 85 Ilan_Goldfajn 02 51
+Alastair_Campbell 03 98 Marina_Silva 03 255
+Kenneth_Branagh 03 315 Placido_Domingo 01 61
+Francis_Collins 02 137 Kofi_Annan 01 1925
+Hamid_Reza_Asefi 01 69 Chris_Cirino 02 77
+Lucio_Stanca 02 103 Danny_Ainge 01 48
+Beyonce_Knowles 01 57 Christopher_Matero 01 49
+Eva_Herzigova 01 137 02 53
+Robert_F_Kennedy_Jr 06 113 06 113
+Oscar_DLeon 02 91 01 56
+Tessa_Jowell 05 154 02 1841
+Gary_Paer 01 186 01 186
+Alexander_Lukashenko 02 75 01 125
+Marc_Bulger 01 85 02 69
+Fran_Drescher 02 61 02 61
+Ridley_Scott 03 69 01 89
+Mary_Landrieu 01 65 03 495
+Isabelle_Huppert 02 63 02 63
+Dai_Bachtiar 04 262 04 262
+Daniel_Rouse 01 457 04 218
+Daniel_Rouse 02 109 03 458
+Krishna_Bhadur_Mahara 02 163 03 89
+Chok_Tong_Goh 01 98 01 98
+Cheryl_Ford 01 96 01 96
+Lee_Byung-woong 01 55 01 55
+Adam_Sandler 01 62 03 53
+Emma_Watson 02 89 02 89
+Christopher_Amolsch 02 133 Rita_Wilson 02 132
+Jane_Kaczmarek 01 81 Martha_Stewart 02 89
+Erin_Hershey_Presley 03 57 Lars_Von_Trier 01 341
+Alexander_Payne 01 101 Kathy_Gannon 01 369
+Franko_Simatovic 01 137 Chen_Shui-bian 01 69
+Laila_Ali 01 85 Eve_Ensler 02 67
+Bill_Herrion 01 89 Benazir_Bhutto 01 89
+Daniel_Rouse 03 458 Philip_Murtaugh 01 210
+Brendan_Stai 01 306 Fred_Thompson 01 81
+Wolfgang_Clement 01 425 Frank_Caliendo 03 196
+Erin_Hershey_Presley 01 49 Alan_Ball 03 432
+Lesia_Burlak 03 54 Teri_Garr 02 61
+Ben_Broussard 01 53 Tim_Matheson 02 77
+Lisa_Leslie 01 65 Paul_Byrd 02 66
+Linda_Dano 02 85 George_Blaney 02 564
+Maria_Wetterstrand 01 1749 Norm_Coleman 01 49
+Fidel_Castro 02 73 Peter_Fitzgerald 01 738
+Irene_Kahn 02 96 Elena_Bereznaya 01 131
+Paul_Newman 01 98 Eddie_Fenech_Adami 01 70
+Frank_Murkowski 01 223 Elena_de_Chavez 01 226
+Princess_Stephanie 03 99 03 99
+Christian_Lacroix 02 73 01 173
+Elvis_Presley 02 97 02 97
+Marc_Bulger 02 69 02 69
+Elvis_Costello 01 85 01 85
+Tabare_Vazquez 02 129 03 69
+Christine_Gregoire 01 53 02 133
+Fred_Rogers 03 65 02 67
+Lauren_Hutton 06 61 05 253
+Alma_Powell 05 48 02 54
+Maria_Bello 04 132 03 137
+Daniel_Rouse 04 218 01 457
+JK_Rowling 03 73 03 73
+Sally_Ride 03 73 01 59
+Nuon_Chea 02 137 02 137
+Lucio_Stanca 03 201 02 103
+Abel_Pacheco 02 104 02 104
+Vicki_Zhao_Wei 02 156 02 156
+Rick_Bragg 03 53 02 99
+Ray_Wasden 01 352 02 305
+Francis_Collins 02 137 Lucia_Kenny_Anthony 04 109
+Dany_Heatley 02 77 Daniell_Sunjata 02 214
+Ximena_Bohorquez 01 55 Thaksin_Shinawatra 01 200
+Tian_Zhuang_Zhuang 01 81 Larry_Ellison 02 94
+Corinna_Harfouch 02 81 Lionel_Chalmers 01 69
+Natasha_McElhone 03 93 Dave_Barr 01 285
+Newt_Gingrich 05 177 Lucio_Stanca 05 292
+Renato_Soru 03 97 Kweisi_Mfume 04 157
+Erin_Runnion 01 225 Rick_Barnes 01 105
+Tim_Welsh 01 108 Alfredo_Moreno 02 49
+Todd_Parrott 04 505 David_Blaine 01 125
+Fernando_Leon_de_Aranoa 01 301 Paul_Hogan 01 65
+William_Delahunt 02 362 Pascal_Quignard 01 245
+Philip_Murtaugh 01 210 Eric_Clapton 01 117
+Laura_Flessel 02 161 Oxana_Fedorova 02 53
+Eddie_Sutton 01 189 Gaston_Gaudio 02 133
+Carlos_Bianchi 02 99 Orrin_Hatch 02 218
+Peter_Struck 01 65 Clare_Short 02 93
+Yu_Shyi-kun 01 85 Yoriko_Kawaguchi 01 167
+James_Kirtley 02 201 Barbara_Walters 03 201
+Marc_Bulger 01 85 01 85
+Lou_Lang 03 51 03 51
+Bernadette_Peters 01 235 03 127
+Will_Ferrell 01 217 01 217
+Alexander_Downer 04 58 03 97
+Pier_Ferdinando_Casini 02 57 01 106
+Gaston_Gaudio 01 77 02 133
+James_Wattana 02 105 01 129
+Gerard_de_Cortanze 01 171 02 181
+Nursultan_Nazarbayev 02 213 02 213
+Charles_Ingram 02 67 01 232
+Timothy_Goebel 02 129 01 85
+Celso_Amorim 01 56 01 56
+Ethan_Hawke 04 133 04 133
+Cathy_Freeman 01 203 01 203
+Andy_Rooney 02 92 02 92
+Kristin_Chenoweth 04 57 03 81
+Bill_Fennelly 01 137 02 173
+Oscar_DLeon 01 56 01 56
+Abba_Eban 01 237 01 237
+Conrad_Black 02 385 Alyson_Hannigan 01 137
+Nina_Pecari 01 234 Laila_Ali 01 85
+Gene_Hackman 01 57 Natasha_McElhone 03 93
+Patricia_Clarkson 02 94 Paul_Hogan 01 65
+Takeo_Fukui 02 268 Amanda_Marsh 01 53
+Tom_Vilsack 04 256 Paul-Henri_Mathieu 02 151
+Ben_Braun 01 273 Edgar_Savisaar 03 69
+Roger_Suarez 01 85 Harald_Ringstorff 01 193
+Gary_Barnett 02 1949 Madeleine_Albright 02 417
+Ian_Thorpe 01 77 Aleksander_Kwasniewski 03 50
+Vinnie_Jones 01 74 Angel_Lockward 02 1090
+Elvis_Presley 01 49 Oscar_DLeon 03 49
+Daniela_Cicarelli 01 69 Amanda_Marsh 01 53
+Lorraine_Bracco 01 73 Evo_Morales 03 59
+Lesia_Burlak 03 54 Eduard_Limonov 01 184
+Naomi_Watts 01 74 Timothy_Goebel 02 129
+Idi_Amin 01 57 Richard_Paul_Evans 03 82
+Pauley_Perrette 01 49 Kenneth_Branagh 02 66
+Chadha_Gurinder 01 96 Nikki_Cascone 01 70
+Robert_Ehrlich 03 885 Carlo_Ancelotti 01 399
+Richard_Shelby 05 197 02 344
+Winona_Ryder 01 61 01 61
+Chita_Rivera 01 57 01 57
+James_Wolfensohn 02 85 03 241
+Vanessa_Redgrave 01 57 02 85
+Claudette_Robinson 02 373 01 93
+Laura_Bush 01 115 02 185
+Charlize_Theron 01 117 03 48
+Warren_Beatty 01 53 02 96
+Harrison_Ford 02 61 03 73
+Prince_Felipe 01 78 02 49
+Sadie_Frost 01 57 03 205
+Elaine_Stritch 02 55 02 55
+Lincoln_Chafee 01 969 01 969
+Larry_Ellison 01 290 01 290
+Prince_Felipe 02 49 01 78
+Akiko_Morigami 01 51 01 51
+Colleen_Atwood 02 49 02 49
+Casy_Preslar 02 159 02 159
+Elizabeth_Taylor 01 58 01 58
+Imelda_Marcos 02 89 Jason_Campbell 01 119
+Casy_Preslar 01 64 Claudio_Ranieri 01 69
+Ray_Lewis 01 141 Ion_Tiriac 02 102
+Abid_Hamid_Mahmud_Al-Tikriti 01 92 Kenneth_Reichert 02 65
+Valerie_Harper 02 73 Ralph_Klein 02 59
+Alexander_Payne 02 112 Clare_Short 02 93
+Pauley_Perrette 01 49 Carly_Gullickson 01 138
+JK_Rowling 01 189 Francois_Pienaar 01 585
+Richard_Shelby 05 197 Katie_Harman 01 59
+Patricia_Hearst 01 245 Lily_Tomlin 02 114
+Renato_Soru 03 97 Ellen_DeGeneres 01 77
+JK_Rowling 01 189 Kit_Bond 02 117
+Patricia_Clarkson 02 94 Linda_Franklin 01 1933
+Gavin_Degraw 01 61 Keira_Knightley 01 49
+Pier_Ferdinando_Casini 02 57 Rafael_Bielsa 01 77
+Felix_Sanchez 02 61 Clive_Lloyd 01 218
+Pat_Summitt 02 301 Franz_Muentefering 01 69
+Han_Sung_Joo 01 579 James_McGreevey 02 57
+Leszek_Miller 01 337 Nigel_Redden 01 229
+Naomi_Watts 01 74 George_Foreman 01 109
+Uma_Thurman 02 49 01 89
+Sally_Ride 03 73 01 59
+Festus_Mogae 03 94 01 134
+Alicia_Witt 02 57 02 57
+Lincoln_Chafee 03 825 01 969
+Cristina_Kirchner 01 50 02 166
+Hank_McKinnell 03 78 01 54
+Fernando_Valenzuela 01 242 01 242
+Beatriz_Merino 03 137 02 67
+James_Kirtley 02 201 02 201
+Reese_Witherspoon 02 97 02 97
+Theodore_Tweed_Roosevelt 02 191 02 191
+Rick_Caruso 01 145 01 145
+Al_Leiter 02 72 01 72
+Katja_Riemann 02 57 02 57
+Dan_Monson 02 225 01 925
+Ibrahim_Al-Marashi 02 243 02 243
+Talisa_Soto 01 69 03 50
+Ben_Broussard 02 61 01 53
+Calista_Flockhart 03 60 04 55
+Biljana_Plavsic 01 309 Erin_Hershey_Presley 01 49
+Peter_Fitzgerald 01 738 Raghad_Saddam_Hussein 01 90
+Gavin_Degraw 01 61 Nona_Gaye 02 345
+Charles_Tannok 01 69 Patricia_Heaton 02 57
+Randall_Terry 01 160 Connie_Chung 01 135
+Tom_Curley 01 166 Cindy_Crawford 02 73
+Will_Ferrell 01 217 Harbhajan_Singh 01 50
+Jack_Nicholson 01 209 Katalin_Kollat 02 129
+Massoud_Barzani 02 53 Wolfgang_Schneiderhan 02 73
+Carlos_Iturgaitz 03 300 Tina_Fey 01 54
+Zarai_Toledo 01 65 Laurent_Gbagbo 01 153
+Emmanuel_Milingo 02 628 Chris_Thomas 02 87
+Tayshaun_Prince 01 77 Uzi_Landau 03 76
+Woody_Allen 01 49 Corliss_Williamson 01 85
+Marcelo_Ebrard 01 61 Cesar_Gaviria 01 103
+Isabelle_Huppert 02 63 Christian_Malcolm 01 61
+Tammy_Lynn_Michaels 01 127 Rick_Perry 01 409
+Mary_Sue_Coleman 01 107 Evan_Marriott 02 53
+Terry_McAuliffe 01 51 Abdullah_Ahmad_Badawi 01 107
+Gabi_Zimmer 02 2025 Nancy_Reagan 02 53
+Marc_Shaiman 02 313 02 313
+Ray_Romano 01 205 05 126
+Tim_Howard 03 49 01 217
+Barbara_Brezigar 04 91 01 69
+Maria_Soledad_Alvear_Valenzuela 02 50 01 73
+Oxana_Fedorova 02 53 02 53
+Pauley_Perrette 02 49 03 53
+Cemil_Cicek 01 258 02 65
+Sadie_Frost 03 205 02 201
+Daniela_Cicarelli 01 69 02 53
+Jason_Biggs 03 65 02 131
+Recep_Tayyip_Erdogan 03 65 01 114
+Caroline_Link 01 142 02 201
+Thomas_Ferguson 02 72 03 53
+Kelsey_Grammer 04 178 04 178
+Zoran_Djindjic 01 289 03 117
+Ivan_Helguera 02 305 02 305
+Kristen_Breitweiser 02 165 03 309
+Cecilia_Cheung 02 78 02 78
+Salman_Rushdie 02 125 01 101
+Nicolas_Sarkozy 02 65 Lee_Tae-sik 01 178
+Lee_Byung-woong 02 82 Natasha_McElhone 03 93
+Jane_Kaczmarek 01 81 Edward_Albee 01 87
+Robert_F_Kennedy_Jr 04 89 Emile_Lahoud 02 225
+Christian_Malcolm 01 61 Yasushi_Akashi 01 85
+Liza_Minnelli 01 48 Jamie_Lee_Curtis 04 145
+Daniela_Hantuchova 01 85 Geoffrey_Davis 01 109
+Nadia_Petrova 01 57 Gael_Garcia_Bermal 02 117
+Valentina_Cervi 02 161 Otto_Schily 03 53
+Park_Jie-won 01 106 Clive_Woodward 03 50
+Emile_Lahoud 02 225 Ham_Pong-sil 01 68
+Fran_Drescher 01 77 Rick_Caruso 02 69
+Pat_Burns 01 49 Nicolas_Sarkozy 03 73
+Andy_Lau 02 129 Alex_King 01 650
+Paul_Crane 01 105 Whoopi_Goldberg 03 60
+Elizabeth_Dole 03 102 Tocker_Pudwill 01 121
+Alberto_Ruiz_Gallardon 01 74 Christine_Ebersole 01 114
+Celso_Lafer 02 98 Peter_Mackay 01 210
+Jacob_Frenkel 01 52 Chung_Mong-joon 01 91
+Hamad_Bin_Jassim 01 88 Leo_Ramirez 01 51
+Otto_Reich 01 502 03 1017
+Oscar_Elias_Biscet 02 65 02 65
+Todd_Robbins 01 85 03 121
+Takeo_Hiranuma 03 61 02 297
+Leticia_Van_de_Putte 03 257 02 1905
+Yossi_Beilin 01 145 01 145
+Akmal_Taher 02 110 02 110
+Iain_Duncan_Smith 02 53 01 110
+Tino_Martinez 01 313 01 313
+Theodore_Tweed_Roosevelt 02 191 02 191
+Katalin_Kollat 01 57 01 57
+Lincoln_Chafee 01 969 01 969
+Charlotte_Casiraghi 02 272 03 135
+Tim_Allen 01 73 02 101
+Ethan_Hawke 04 133 03 105
+Celine_Dion 01 75 02 78
+Noah_Wyle 01 79 02 65
+Kemal_Dervis 02 275 03 261
+Charles_Schumer 02 199 03 449
+Lauren_Hutton 05 253 05 253
+James_Robertson_Jr 01 141 Adrien_Brody 01 53
+Paula_Zahn 01 797 Tom_Izzo 02 97
+Mark_Dacey 01 107 Oleg_Romantsev 01 149
+Lisa_Ling 02 81 Paul_Greengrass 01 149
+James_Wattana 01 129 Gennifer_Flowers 02 86
+Claire_Danes 01 61 Paul_Walker 01 129
+Laura_Pausini 01 195 Elinor_Caplan 01 94
+Fred_Rogers 01 201 Tara_VanDerveer 04 790
+Ahmet_Necdet_Sezer 01 60 Chelsea_Clinton 01 60
+Daniel_Rouse 04 218 Linda_Sanchez 01 389
+Patrick_Stewart 01 403 Tino_Martinez 02 117
+James_Cunningham 04 285 Albert_Brooks 01 217
+Martha_Lucia_Ramirez 02 57 Laurence_Fishburne 01 71
+Vicente_Fox 01 69 Samantha_Daniels 01 74
+Oleg_Romantsev 01 149 Amanda_Bynes 01 71
+Aly_Wagner 01 113 Sarah_Wynter 03 61
+Beatriz_Merino 01 233 Markus_Beyer 01 86
+Emilio_Azcarraga_Jean 01 777 Peter_Bacanovic 01 61
+Condoleezza_Rice 03 52 Tim_Curry 01 130
+Cindy_Crawford 01 53 Lionel_Richie 01 157
+William_Delahunt 03 321 03 321
+Laura_Elena_Harring 02 157 04 69
+Idi_Amin 01 57 02 53
+Janis_Ruth_Coulter 03 62 04 61
+Cherry_Jones 02 49 01 81
+Ilie_Nastase 01 53 01 53
+Ken_Watanabe 01 69 02 81
+Sam_Mendes 02 253 02 253
+Charles_Bronson 01 61 01 61
+Zoran_Djindjic 03 117 02 469
+Emma_Thompson 04 86 01 119
+James_Carville 01 297 02 403
+Lucy_Liu 02 75 01 357
+Oxana_Fedorova 01 86 01 86
+Chris_Noth 03 57 01 101
+Kenneth_Branagh 03 315 01 149
+Leuris_Pupo 04 61 03 53
+Mark_Foley 02 59 02 59
+Charlotte_Rampling 02 83 03 261
+Andrea_Bocelli 02 313 03 53
+Crispin_Glover 02 61 Hamid_Reza_Asefi 01 69
+James_Carville 03 206 Frank_Hsieh 01 265
+James_Watt 01 61 Roger_Suarez 01 85
+Rachel_Corrie 02 269 Sarah_Weddington 02 77
+Inocencio_Arias 01 437 Barbara_Boxer 03 86
+Katie_Harman 01 59 Sally_Ride 03 73
+Colin_Farrell 01 89 Amanda_Bynes 02 49
+Barry_Hinson 01 63 Mahathir_Mohamad 03 569
+Vladimir_Putin 01 545 Paulie_Ayala 01 53
+Franz_Fischler 03 53 Clara_Harris 01 69
+Madonna 01 49 Nora_Ephron 02 69
+Maria_Callas 01 1161 Alecos_Markides 01 54
+Paula_Prentiss 01 61 Pascal_Quignard 01 245
+Carly_Gullickson 01 138 Lino_Oviedo 01 125
+Jason_Campbell 01 119 Barry_Switzer 02 73
+William_Donaldson 02 345 Barbara_Bodine 03 200
+Eve_Ensler 05 63 Victoria_Beckham 01 49
+Queen_Sofia 01 705 Tom_Hanusik 01 221
+Norman_Mailer 01 541 Mark_Cuban 01 265
+Wayne_Gretzky 01 113 Vojislav_Seselj 01 360
+Alex_Sink 02 226 02 226
+Picabo_Street 02 669 02 669
+Peter_Caruana 01 57 02 125
+Whoopi_Goldberg 02 69 03 60
+Lyle_Lovett 02 189 02 189
+Elijah_Wood 03 889 03 889
+Richard_Cohen 02 60 03 687
+Nuon_Chea 02 137 01 54
+Ibrahim_Jaafari 01 53 01 53
+Mark_Kelly 02 58 02 58
+Recep_Tayyip_Erdogan 02 87 01 114
+Linda_Dano 05 106 03 89
+Matt_Anderson 02 149 04 189
+Pierre_Png 02 50 01 51
+Eli_Rosenbaum 02 53 01 93
+Terje_Roed-Larsen 01 93 03 147
+Tina_Brown 01 201 01 201
+Inocencio_Arias 02 685 02 685
+Ben_Lee 02 53 01 67
+Carlos_Bianchi 02 99 02 99
+Leonid_Kuchma 02 181 Eddie_Sutton 01 189
+Adriana_Perez_Navarro 01 64 Amy_Redford 02 221
+Pascal_Quignard 01 245 Marcelo_Ebrard 01 61
+Dave_Barr 01 285 Fred_Durst 01 517
+Albert_Brooks 02 73 Vin_Diesel 01 59
+Frank_Beamer 02 65 Nobuyuki_Idei 02 49
+Eric_Staal 01 49 Yossi_Beilin 01 145
+Aaron_Sorkin 01 70 Franz_Muentefering 01 69
+Ellen_DeGeneres 01 77 Adriana_Perez_Navarro 01 64
+Placido_Domingo 01 61 Mark_Leno 01 1597
+Parthiv_Patel 01 67 Omar_Vizquel 01 89
+Paul_Tracy 01 145 Cecilia_Cheung 03 79
+Islam_Karimov 01 57 Liam_Neeson 01 61
+Claire_Tomalin 01 197 Carolina_Barco 01 101
+Eric_Vigouroux 01 49 Edgar_Savisaar 02 433
+William_Macy 01 54 James_Comey 02 62
+Patrick_Coleman 01 77 Amy_Smart 01 121
+Pat_Riley 03 204 Harvey_Fierstein 02 80
+Alma_Powell 05 48 Hamad_Bin_Isa_al-Khalifa 01 162
+Biljana_Plavsic 03 690 Zhang_Ziyi 01 85
+Laurent_Woulzy 01 65 02 49
+Eric_Fehr 01 69 02 101
+Pauley_Perrette 04 66 04 66
+Natalie_Cole 02 77 01 85
+Igor_Trunov 02 997 01 697
+Idi_Amin 01 57 01 57
+Vojislav_Kostunica 01 53 01 53
+Richard_Cohen 01 161 03 687
+Gary_Barnett 01 2145 02 1949
+Carlo_Azeglio_Ciampi 03 49 03 49
+Bianca_Jagger 02 81 02 81
+Larry_Wilmore 03 69 03 69
+Jackie_Sherrill 03 753 02 61
+James_Wolfensohn 01 70 04 749
+Sally_Ride 01 59 02 66
+Gary_Locke 02 117 02 117
+Gary_Coleman 01 89 02 49
+Tim_Robbins 01 162 02 53
+Marquier_Montano_Contreras 02 1001 02 1001
+Elmar_Brok 01 200 03 201
+Ian_Gillan 02 110 Natalie_Maines 01 69
+Luis_Fonsi 02 49 Elgin_Baylor 01 97
+Robert_McKee 02 67 Prince_Philippe 01 63
+Nicola_Bono 01 541 Leland_Chapman 01 69
+Lydia_Shum 01 197 Patrick_Bourrat 01 293
+Ellen_Saracini 01 133 James_Gandolfini 01 73
+Corinna_Harfouch 01 61 Tian_Liang 01 57
+Naomi_Campbell 01 56 Mark_Foley 02 59
+George_Allen 01 65 Magui_Serna 01 277
+El_Hadji_Diouf 01 109 Tirunesh_Dibaba 02 73
+Zhu_Rongji 01 52 Ian_Thorpe 01 77
+Sarah_Wynter 02 73 Manijeh_Hekmat 02 61
+Gary_Barnett 02 1949 Aishwarya_Rai 02 63
+Lesia_Burlak 01 89 Christopher_Reeve 04 129
+Paul_Bremer 04 85 Andy_Griffith 01 233
+Nawabzada_Nasrullah_Khan 02 137 Mark_Leno 02 129
+Benazir_Bhutto 02 1331 Kim_Cattrall 02 65
+Andrea_Yates 01 101 Pierre_Gagnon 01 88
+Lisa_Raymond 01 67 Katalin_Kollat 01 57
+Carlos_Ghosn 02 80 Cheryl_Ford 01 96

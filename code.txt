@@ -1,0 +1,36 @@
+python src\validate_on_lfw.py data\owndata\own_mtcnnpy_160 F:\Documents\GitHub\facenet-master\models\facenet\20170512-110547
+python src\validate_on_lfw.py data\lfw\lfw_mtcnnpy_160 F:\Documents\GitHub\facenet-master\models\facenet\20170512-110547
+python src\validate_on_lfw.py data\owndata\own_mtcnnpy_160 F:\Documents\GitHub\facenet-master\models\facenet\20170511-185253
+
+python src/align/align_dataset_mtcnn.py data/video/test2/raw data/video/test2/frams_mtcnnpy_160 --image_size 160 --margin 32 --random_order --gpu_memory_fraction 0.25
+
+python src/align/align_dataset_mtcnn.py /work/liujl/frame_images_DB /work/liujl/frame_images_DB_MTCNN --image_size 160 --margin 32 --random_order --gpu_memory_fraction 0.25
+
+
+python facenet-master/src/align/align_dataset_mtcnn.py data/frame_images_DB data/frame_images_DB/frames_mtcnnpy_160 --image_size 160 --margin 32 --random_order --gpu_memory_fraction 0.25
+
+
+
+python src\validate_on_lfw.py data\video\test2\different_mtcnnpy_160 F:\Documents\GitHub\facenet-master\models\facenet\20170511-185253
+
+python src\validate_on_lfw.py data\framedata\frame_mtcnnpy_160 F:\Documents\GitHub\facenet-master\models\facenet\20170511-185253
+
+
+
+python facenet-master\src\validate_on_lfw.py data\frame_images_DB\frames_mtcnnpy_160 F:\Documents\GitHub\facenet-master\models\facenet\20170511-185253
+
+
+python src/align/align_dataset_mtcnn.py C:/Users/14542/Desktop/test/raw_data C:/Users/14542/Desktop/test/aligned_data --image_size 160 --margin 32 --random_order --gpu_memory_fraction 0.25
+
+python src/align/align_dataset_mtcnn.py data/test/raw_data data/test/aligned_data --image_size 160 --margin 32 --random_order --gpu_memory_fraction 0.25
+
+
+python facenet/src/validate_on_yfd_video2video.py frame_images_DB_MTCNN facenet/models/facenet/20170511-185253/
+
+python realtime_face_recognition/src/validate_on_yfd_video2video.py E:\学习\AI\数据集\YTF多人数据集\frame_images_DB_MTCNN models/facenet/20170511-185253/
+
+
+
+python realtime_face_recognition/src/compare.py models/facenet/20170511-185253/ C:/Users/14542/Desktop/test/raw/1
+
+CUDA_VISIBLE_DEVICES=2 python src/align/align_dataset_mtcnn.py /work/liujl/Datasets/frame_images_DB/ /work/liujl/Datasets/frame_images_DB_NoShuffle --image_size 160 --margin 32 --random_order --gpu_memory_fraction 0.25
