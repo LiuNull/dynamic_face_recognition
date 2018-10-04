@@ -54,40 +54,54 @@ def get_paths(lfw_dir, pairs, file_ext,timestep_size):
     for pair in pairs:
         if len(pair) == 5: # the same people
             peoplepath=os.path.join(lfw_dir,pair[0])
-            video1path = os.path.join(peoplepath, pair[1])
-            video2path = os.path.join(peoplepath, pair[3])
+            videos = os.listdir(peoplepath)
+            video1path = os.path.join(peoplepath, videos[int(pair[1])-1]) # 取第pair[1]个视频
+            video2path = os.path.join(peoplepath, videos[int(pair[3])-1])
+
+            # sample timestep_siez images in video1
+            images_path = os.listdir(video1path)
+            images_path.sort(key=lambda x: int(x[2:-4]))
+            nrof_images = len(images_path)
             for i in range(timestep_size):
-                path = os.path.join(video1path, pair[0] + '_' + pair[1] + '_%04d' % int(random.randint(1, int(pair[2]))) + '.' + file_ext)
+                length = int(nrof_images/timestep_size)
+                start_index = i * length
+                end_index = min(nrof_images-1, (i+1) * length)
+                # path = os.path.join(video1path, pair[0] + '_' + pair[1] + '_%04d' % int(random.randint(1, int(pair[2]))) + '.' + file_ext)
+                path = os.path.join(video1path,images_path[random.randint(start_index, end_index)])
                 path_list.append(path)
-            path = os.path.join(video2path, pair[0] + '_' + pair[3] + '_%04d' % int(random.randint(1, int(pair[4]))) + '.' + file_ext)
+
+            # sample timestep_size images in video2
+            images_path = os.listdir(video2path)
+            nrof_images = len(images_path)
+            # path = os.path.join(video2path, pair[0] + '_' + pair[3] + '_%04d' % int(random.randint(1, int(pair[4]))) + '.' + file_ext)
             # path = os.path.join(video2path, pair[3] + '_label' + '.' + file_ext)
+            path = os.path.join(video2path,images_path[random.randint(0, nrof_images-1)])
             path_list.append(path)
-            '''
-            path1 = os.path.join(lfw_dir, pair[0], pair[0] + '_' + '%04d' % int(random.randint(1, int(pair[1]))) + '.' + file_ext)
-            path2 = os.path.join(lfw_dir, pair[0], pair[0] + '_' + '%04d' % int(random.randint(1, int(pair[1]))) + '.' + file_ext)
-            path3 = os.path.join(lfw_dir, pair[0], pair[0] + '_' + '%04d' % int(random.randint(1, int(pair[1]))) + '.' + file_ext)
-            path4 = os.path.join(lfw_dir, pair[0], pair[0] + '_' + '%04d' % int(random.randint(1, int(pair[1]))) + '.' + file_ext)
-            path5 = os.path.join(lfw_dir, pair[0], pair[0] + '_' + '%04d' % int(random.randint(1, int(pair[1])))+'.'+file_ext)
-            '''
             issame = True
         elif len(pair) == 6:
-            '''
-            path0 = os.path.join(lfw_dir, pair[0], pair[0] + '_' + '%04d' % int(random.randint(1, int(pair[1]))) + '.' + file_ext)
-            path1 = os.path.join(lfw_dir, pair[0], pair[0] + '_' + '%04d' % int(random.randint(1, int(pair[1]))) + '.' + file_ext)
-            path2 = os.path.join(lfw_dir, pair[0], pair[0] + '_' + '%04d' % int(random.randint(1, int(pair[1]))) + '.' + file_ext)
-            path3 = os.path.join(lfw_dir, pair[0], pair[0] + '_' + '%04d' % int(random.randint(1, int(pair[1]))) + '.' + file_ext)
-            path4 = os.path.join(lfw_dir, pair[0], pair[0] + '_' + '%04d' % int(random.randint(1, int(pair[1]))) + '.' + file_ext)
-            path5 = os.path.join(lfw_dir, pair[2], pair[2] + '_' + '%04d' % int(random.randint(1, int(pair[3])))+'.'+file_ext)
-            '''
             people1path = os.path.join(lfw_dir, pair[0])
             people2path = os.path.join(lfw_dir, pair[3])
-            video1path = os.path.join(people1path, pair[1])
-            video2path = os.path.join(people2path, pair[4])
+            videos1 = os.listdir(people1path)
+            videos2 = os.listdir(people2path)
+            video1path = os.path.join(people1path, videos1[int(pair[1])-1])
+            video2path = os.path.join(people2path, videos2[int(pair[4])-1])
+
+            images_path = os.listdir(video1path)
+            images_path.sort(key=lambda x: int(x[2:-4]))
+            nrof_images = len(images_path)
+
             for i in range(timestep_size):
-                path = os.path.join(video1path, pair[0] + '_' + pair[1] + '_%04d' % int(random.randint(1, int(pair[2]))) + '.' + file_ext)
+                length = int(nrof_images / timestep_size)
+                start_index = i * length
+                end_index = min(nrof_images - 1, (i + 1) * length)
+                # path = os.path.join(video1path, pair[0] + '_' + pair[1] + '_%04d' % int(random.randint(1, int(pair[2]))) + '.' + file_ext)
+                path = os.path.join(video1path, images_path[random.randint(start_index, end_index)])
                 path_list.append(path)
-            path = os.path.join(video2path, pair[3] + '_' + pair[4] + '_%04d' % int(random.randint(1, int(pair[5]))) + '.' + file_ext)
-            # path = os.path.join(video2path, pair[4] + '_label' + '.' + file_ext)
+
+            # sample timestep_size images in video2
+            images_path = os.listdir(video2path)
+            nrof_images = len(images_path)
+            path = os.path.join(video2path, images_path[random.randint(0, nrof_images - 1)])
             path_list.append(path)
             issame = False
         issame_list.append(issame)
@@ -102,7 +116,6 @@ def get_paths(lfw_dir, pairs, file_ext,timestep_size):
         print('Skipped %d image pairs' % nrof_skipped_pairs)
         '''
     return path_list, issame_list
-
 
 def get_video_paths(lfw_dir, pairs, file_ext, timestep_size):
     nrof_skipped_pairs = 0

@@ -25,7 +25,7 @@ python src/align/align_dataset_mtcnn.py C:/Users/14542/Desktop/test/raw_data C:/
 python src/align/align_dataset_mtcnn.py data/test/raw_data data/test/aligned_data --image_size 160 --margin 32 --random_order --gpu_memory_fraction 0.25
 
 
-python facenet/src/validate_on_yfd_video2video.py frame_images_DB_MTCNN facenet/models/facenet/20170511-185253/
+CUDA_VISIBLE_DEVICES=2 python facenet/src/validate_on_yfd_video2video.py frame_images_DB_MTCNN facenet/models/facenet/20170511-185253/
 
 python realtime_face_recognition/src/validate_on_yfd_video2video.py E:\学习\AI\数据集\YTF多人数据集\frame_images_DB_MTCNN models/facenet/20170511-185253/
 

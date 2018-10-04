@@ -2,46 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bb55f6d-834f-4515-b511-5096c0764a89" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StoreTheModel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/validate_on_lfw_average.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dynamic_face_recognition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dynamic_face_recognition.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contributed/batch_represent.py" beforeDir="false" afterPath="$PROJECT_DIR$/contributed/batch_represent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pairs/YTFMulti/test_pairs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pairs/YTFMulti/test_pairs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pairs/YTFMulti/train_pairs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pairs/YTFMulti/train_pairs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pairs/YTFSingle/test_pairs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pairs/YTFSingle/test_pairs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pairs/YTFSingle/train_pairs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pairs/YTFSingle/train_pairs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pairs/pairs2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pairs/pairs2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/align/YTF_detect/align_dataset_mtcnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/align/YTF_detect/align_dataset_mtcnn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/align/align_dataset_mtcnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/align/align_dataset_mtcnn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculate_filtering_metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculate_filtering_metrics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/compare.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/lfw/lfw_mtcnnpy_160/revision_info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/lfw/lfw_mtcnnpy_160/revision_info.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/facenet.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/facenet.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lfw.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/lfw.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/print.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rnntest/rnnMNIST.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/rnntest/rnnMNIST.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rnntest/rnntest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/rnntest/rnntest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/train_softmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/train_softmax.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/train_tripletloss.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/train_tripletloss.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/validate_on_lfw.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/validate_on_lfw.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validate_on_lfw_old.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/validate_on_lfw_old.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validate_on_yfd_video2video.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/validate_on_yfd_video2video.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ArrayTest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/LiuChao.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/MultiYTF/getTestPairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/MultiYTF/getTestPairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/MultiYTF/getTrainPairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/MultiYTF/getTrainPairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SaverTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/SaverTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/divide_frame.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/divide_frame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/drawLineTest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/getPairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/getPairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/loadModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/loadModel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/loadModel2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/loadModel2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/new.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/placeholderTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pairs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test_pairs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_pairs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/train_pairs.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,28 +44,29 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="224" />
+          <entry key="py" value="344" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="224" />
+          <entry key="Python" value="344" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="15" />
+          <entry key="py" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="15" />
+          <entry key="Python" value="17" />
         </counts>
       </usages-collector>
     </session>
@@ -113,18 +79,28 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/validate_on_lfw.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="220" column="48" selection-start-line="220" selection-start-column="39" selection-end-line="220" selection-end-column="48" />
+            <state relative-caret-position="434">
+              <caret line="309" column="52" lean-forward="true" selection-start-line="309" selection-start-column="52" selection-end-line="309" selection-end-column="52" />
               <folding>
                 <element signature="e#2246#3181#0" />
                 <element signature="e#3226#4056#0" />
-                <element signature="e#4110#5075#0" />
                 <element signature="e#5126#5975#0" />
+                <element signature="e#14568#14917#1" />
+                <element signature="e#14938#16861#1" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StoreTheModel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="623">
+              <caret line="190" selection-start-line="190" selection-end-line="200" selection-end-column="105" />
             </state>
           </provider>
         </entry>
@@ -132,22 +108,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lfw.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="86" column="68" lean-forward="true" selection-start-line="86" selection-start-column="68" selection-end-line="86" selection-end-column="68" />
-              <folding>
-                <element signature="e#2857#3527#1" />
-                <element signature="e#3595#4396#1" />
-                <element signature="e#5143#5602#1" />
-              </folding>
+            <state relative-caret-position="574">
+              <caret line="118" selection-start-line="118" selection-end-line="118" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/facenet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="333" column="20" selection-start-line="333" selection-start-column="16" selection-end-line="333" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/rename.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
-              <caret line="23" column="67" lean-forward="true" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -230,9 +210,9 @@
         <option value="$PROJECT_DIR$/src/facenet.py" />
         <option value="$PROJECT_DIR$/src/StoreTheModel.py" />
         <option value="$PROJECT_DIR$/src/align/align_dataset_mtcnn.py" />
-        <option value="$PROJECT_DIR$/src/validate_on_lfw.py" />
-        <option value="$PROJECT_DIR$/src/lfw.py" />
         <option value="$PROJECT_DIR$/src/rename.py" />
+        <option value="$PROJECT_DIR$/src/lfw.py" />
+        <option value="$PROJECT_DIR$/src/validate_on_lfw.py" />
       </list>
     </option>
   </component>
@@ -274,7 +254,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../generative-models-master" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -594,8 +574,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1017" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2428115" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2454739" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -801,13 +782,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StoreTheModel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="981">
-          <caret line="162" column="42" lean-forward="true" selection-start-line="162" selection-start-column="42" selection-end-line="162" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/align/detect_face.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3906">
@@ -819,13 +793,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1199">
           <caret line="143" column="41" lean-forward="true" selection-start-line="143" selection-start-column="41" selection-end-line="143" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/facenet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="360" column="54" selection-start-line="360" selection-start-column="54" selection-end-line="360" selection-end-column="54" />
         </state>
       </provider>
     </entry>
@@ -873,35 +840,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/validate_on_lfw.py">
+    <entry file="file://$PROJECT_DIR$/src/rename.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="220" column="48" selection-start-line="220" selection-start-column="39" selection-end-line="220" selection-end-column="48" />
-          <folding>
-            <element signature="e#2246#3181#0" />
-            <element signature="e#3226#4056#0" />
-            <element signature="e#4110#5075#0" />
-            <element signature="e#5126#5975#0" />
-          </folding>
+        <state relative-caret-position="414">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/facenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="333" column="20" selection-start-line="333" selection-start-column="16" selection-end-line="333" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lfw.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="86" column="68" lean-forward="true" selection-start-line="86" selection-start-column="68" selection-end-line="86" selection-end-column="68" />
-          <folding>
-            <element signature="e#2857#3527#1" />
-            <element signature="e#3595#4396#1" />
-            <element signature="e#5143#5602#1" />
-          </folding>
+        <state relative-caret-position="574">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/rename.py">
+    <entry file="file://$PROJECT_DIR$/src/StoreTheModel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="67" lean-forward="true" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+        <state relative-caret-position="623">
+          <caret line="190" selection-start-line="190" selection-end-line="200" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/validate_on_lfw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="309" column="52" lean-forward="true" selection-start-line="309" selection-start-column="52" selection-end-line="309" selection-end-column="52" />
+          <folding>
+            <element signature="e#2246#3181#0" />
+            <element signature="e#3226#4056#0" />
+            <element signature="e#5126#5975#0" />
+            <element signature="e#14568#14917#1" />
+            <element signature="e#14938#16861#1" />
+          </folding>
         </state>
       </provider>
     </entry>

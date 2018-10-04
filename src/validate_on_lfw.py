@@ -1,3 +1,4 @@
+
 """Validate a face recognizer on the "Labeled Faces in the Wild" dataset (http://vis-www.cs.umass.edu/lfw/).
 Embeddings are calculated using the pairs from http://vis-www.cs.umass.edu/lfw/pairs.txt and the ROC curve
 is calculated and plotted. Both the model metagraph and the model parameters need to exist
@@ -93,10 +94,10 @@ def drawtestpic(epoch, i, j,emb_agg, emb_com):
          119, 120, 121, 122, 123, 124, 125, 126, 127, 128]
     for index in range(len(emb_agg)):
         plt.bar(x, emb_agg[index], color='red')
-        plt.savefig("pictures//%d_epoch_%d_iteration_%d_testBatch_%d_round_agg.jpg" % (epoch, i, j,index))
+        plt.savefig("pictures_2//%d_epoch_%d_iteration_%d_testBatch_%d_round_agg.jpg" % (epoch, i, j,index))
         plt.clf()
         plt.bar(x, emb_com[index], color='red')
-        plt.savefig("pictures//%d_epoch_%d_iteration_%d_testBatch_%d_round_com.jpg" % (epoch, i, j,index))
+        plt.savefig("pictures_2//%d_epoch_%d_iteration_%d_testBatch_%d_round_com.jpg" % (epoch, i, j,index))
         plt.clf()
 
 
@@ -116,7 +117,7 @@ def drawtestsinglepic(epoch, i,j, emb_fra):
 
 
 def calculate_accuracy(batch_size, dist, is_same, threshold):
-    predict_issame = tf.less(dist, threshold)  # 判断哪些欧式距离是低于阈值的，预测他们是同一个人
+    predict_issame = tf.less(dist, threshold)
     # tp:预测相同，实际相同
     # fp:预测相同，实际不同
     # tn:预测不同，实际不同
@@ -156,7 +157,9 @@ def main(args):
     with tf.Graph().as_default():
         SUMMARY_DIR = "log/supervisor.log"  # 定义tensorboard 文件保存的路径
         batch_size = args.lfw_batch_size   # 定义batch_size的大小，arg参数在代码最底下定义了
-        timestep_size = 20   # timestep_size长度即为LSTM输入的长度，定为10.表示一组输入有10个时序特征，每个特征128维
+        timestep_size = 10   # timestep_size长度即为LSTM输入的长度，定为10.表示一组输入有10个时序特征，每个特征128维
+        # margin = 1 # super-parameter
+        margin = 0.9
         input_size = 128  # input_size为128，说明输入的时序特征长度为128
         emb_array_placeholder = tf.placeholder(tf.float32, [None, input_size], name='emb_array')  # 定义LSTM输入数据的入口。输入数据包含训练数据和标签label
         is_same_placeholder = tf.placeholder(tf.bool, [None])   # 用于计算准确率，是否真正是同一个人，和模型计算得到的结果进行比较。
@@ -195,11 +198,26 @@ def main(args):
         # define training process
         total_loss = tf.Variable(initial_value=0, dtype=tf.float32, name='total_loss')
         # 使用正样本进行训练
+        '''
         for i in range(dist.get_shape().as_list()[0]):
-            loss = tf.square(dist[i])  # 定义损失函数为欧式距离
+            loss = dist[i]  # 定义损失函数为欧式距离
             total_loss += loss  # 将整个batch的欧氏距离作为最终的损失函数
-        total_loss /= batch_size * 10  # 这个步骤是多余的，是为了让损失值看上去小一点，哈哈哈哈
         tf.summary.scalar('total_loss', total_loss)  # 将损失值添加至tensorboard文件中
+        '''
+
+        # define loss
+        for i in range(dist.get_shape().as_list()[0]):
+            def same():
+                return dist[i]
+            def diff():
+                return tf.maximum(margin-tf.sqrt(dist[i]), 0)
+            loss = tf.cond(is_same_placeholder[i],lambda: same(), lambda: diff())
+            total_loss += loss
+
+        total_loss /= dist.get_shape().as_list()[0] # get loss of each batch
+
+        tf.summary.scalar('total_loss', total_loss)  # 将损失值添加至tensorboard文件中
+
         # 定义训练过程，使用adam优化器，使得loss值越小越好
         train_op = tf.train.AdamOptimizer(learn_rate).minimize(total_loss)
         merged = tf.summary.merge_all()
@@ -235,7 +253,7 @@ def main(args):
             saver1 = tf.train.Saver()
             print('Calculate embeddings on YTF images')
             # 训练三轮，每轮训练一次完整的训练数据
-            for epoch in range(3):  # 训练三个epoch，每一个epoch有50000个训练数据，每一个batch有50个训练数据，也就是一个epoch有1000个batch。训练数据是视-正脸频图像对，共有1000个人，每个人可以从0s开始，从1s开始进行时序截取10帧。所以每个人可以有多个训练数据。
+            for epoch in range(30):  # 训练三个epoch，每一个epoch有50000个训练数据，每一个batch有50个训练数据，也就是一个epoch有1000个batch。训练数据是视-正脸频图像对，共有1000个人，每个人可以从0s开始，从1s开始进行时序截取10帧。所以每个人可以有多个训练数据。
                 # 每一个epoch进行nrof_batches次迭代
                 for i in range(nrof_batches):
                     start_index = i * batch_size * (timestep_size + 1)  # 第i个batch对应的训练数据
@@ -244,12 +262,12 @@ def main(args):
                     images = facenet.load_data(paths_batch, False, False, image_size)  # 通过路径获取图片
                     feed_dict = {images_placeholder: images, phase_train_placeholder: False}  # 向定义的输入处往FaceNet里面喂数据
                     emb_arr_batch = sess.run(embeddings, feed_dict=feed_dict)  # 从定义输出处获取计算得到的特征
-
                     # 向LSTM定义阶段定义的LSTM网络数据入口喂两个数据，第一个是FaceNet计算得到的特征，第二个是实际的是否为同一个人的结果用以计算准确率。
-                    summary, _= sess.run(
-                        [merged, train_op],feed_dict={emb_array_placeholder: emb_arr_batch, is_same_placeholder: actual_issame[i * batch_size:min(
-                                  (i + 1) * batch_size,nrof_images / (timestep_size + 1))]})
+                    summary, _, los= sess.run(
+                        [merged, train_op,total_loss],feed_dict={emb_array_placeholder: emb_arr_batch, is_same_placeholder: actual_issame[i * batch_size:min(
+                                  (i + 1) * batch_size,nrof_images // (timestep_size + 1))]})
                     summary_writer.add_summary(summary, i+(epoch*nrof_batches))
+                    print("In epoch %d batch %d, the loss is %f" % (epoch, i, los))
                     '''
                     # 保存训练结果以及绘制特征
                     txt=open('loss.txt','a')
@@ -289,11 +307,9 @@ def main(args):
 
                     # 测试阶段
                     # Test
-                    if i % 100 == 0 and i != 0: # 每训练100轮，进行一次测试
+                    if i % 300 == 0:# 每训练300轮，进行一次测试
                         # 获取测试数据
                         # 测试数据格式如下：
-                        # James_Kirtley James_Kirtley_02 200 James_Kirtley_02 200
-                        # Idi_Amin Idi_Amin_02 56 Francisco_Garcia Francisco_Garcia_02 79
                         # 其中有两种类型的测试数据，分别是相同人的测试数据和不同人的测试数据。
                         # 相同人的测试数据就和训练数据一样。
                         # 不同人的测试数据解释：其中第一个字段表示第一个人名，第二个字段表示该人的某个视频段，第三个字段表示该视频段的帧数
@@ -303,13 +319,13 @@ def main(args):
                         testpaths, test_actual_issame = lfw.get_paths(os.path.expanduser(args.lfw_dir), testpairs,
                                                                       args.lfw_file_ext,timestep_size)
                         test_nrof_images = len(testpaths)
-                        test_nrof_batches = int(math.ceil((1.0 * test_nrof_images / (timestep_size + 1)) / batch_size))
+                        test_nrof_batches = int(math.ceil((1.0 * test_nrof_images / (timestep_size + 1)) / batch_size)) # 向上取整
                         test_dists = np.zeros(test_nrof_batches* batch_size)
                         for j in range(test_nrof_batches):
-                            start = time.time()
                             # 第j个batch对应的测试数据的索引
                             test_start_index = j * batch_size * (timestep_size + 1)
                             test_end_index = min((j + 1) * batch_size * (timestep_size + 1), test_nrof_images)
+                            # print(test_start_index," ",test_end_index)
                             test_paths_batch = testpaths[test_start_index:test_end_index]
                             # 根据路径获取图片
                             test_images = facenet.load_data(test_paths_batch, False, False, image_size)
@@ -318,32 +334,23 @@ def main(args):
                             # 获取FaceNet计算得到的特征组
                             test_emb_arr = sess.run(embeddings, feed_dict=feed_dict)
                             # 将该数据传入LSTM经过计算得到欧氏距离
-                            test_dis= sess.run(dist,feed_dict={emb_array_placeholder: test_emb_arr,
-                             is_same_placeholder: test_actual_issame[j * batch_size:min((j + 1) * batch_size,test_nrof_images / (timestep_size + 1))]})
-                            '''
-                            end = time.time()
-                            txt = open('time.txt','a')
-                            str = 'After %d batch training, the time of test_batch %d is %d \n' % (i,j,end-start)
-                            txt.write(str)
-                            txt.close()
-                            if i %300==0 and j==0:
-                                drawtestpic(epoch, i, j, emb_com, emb_agg)
-                                drawtestsinglepic(epoch, i, j, emb_fra)
-                            txt= open('debug.txt','a')
-                            for k in range(batch_size):
-                                str = 'After %d epoch %d iteration training, in %d test_batch %d round,the predict is %s, the actual is %s, and the dist is %f \n  ' %(epoch, i,j,k,test_pre_is[k],test_is_sa[k],test_dis[k])
-                                txt.write(str)
-                                str = 'the picture of the compare is %s \n' % test_paths_batch[timestep_size::(1+timestep_size)][k] #从10开始，步长为timestep_size+1
-                                txt.write(str)
-                            txt.close()
-                              '''
+
+                            test_dis,test_finaloutput = sess.run([dist,finaloutput],feed_dict={emb_array_placeholder: test_emb_arr,
+                             is_same_placeholder: test_actual_issame[j * batch_size:min((j + 1) * batch_size,test_nrof_images // (timestep_size + 1))]})
+
+                            if j==100:
+                                drawtestpic(epoch, i, j, test_finaloutput, test_emb_arr[10::11,])
                             test_dists[j * batch_size:(j + 1) * batch_size]=test_dis
+                            # print("successfully test test_batch %d" % j)
+
                         thresholds = np.arange(0, 4, 0.1, dtype=np.float32)
                         # 计算准确率，这个facenet.calculate_roc_test方法可以具体看一下。acc是准确率，fpr和tpr是用来计算AUC值的，AUC值的具体含义可以看我的论文中评价指标一小节。
                         tpr, fpr, acc = facenet.calculate_roc_test(thresholds,test_dists,np.array(test_actual_issame))
-                        print('After %d epoch %d iteration training, the accuracy is %.4f +- %.2f and the threshold is %.1f' % (epoch, i, np.mean(acc), np.std(acc)))
+                        print('After %d epoch %d batch training, the accuracy is %.4f +- %.2f' % (epoch, i, np.mean(acc), np.std(acc)))
+
                         auc = metrics.auc(fpr, tpr)
                         print('Area Under Curve (AUC): %1.3f' % auc)
+
 
 
 def parse_arguments(argv):
@@ -351,7 +358,7 @@ def parse_arguments(argv):
     parser.add_argument('lfw_dir', type=str,
                         help='Path to the data directory containing aligned LFW face patches.')
     parser.add_argument('--lfw_batch_size', type=int,
-                        help='Number of images to process in a batch in the LFW test set.', default=50)
+                        help='Number of images to process in a batch in the LFW test set.', default=32)
     parser.add_argument('model', type=str,
                         help='Could be either a directory containing the meta_file and ckpt_file or a model protobuf (.pb) file')
     parser.add_argument('--image_size', type=int,
